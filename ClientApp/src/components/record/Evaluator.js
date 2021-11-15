@@ -13,14 +13,16 @@ export function Evaluator({ data, columns }) {
       if (e.edit === 2) return;
       if (mapper[e.table.toString()] === undefined)
         mapper[e.table.toString()] = [];
-      mapper[e.table.toString()].push(e.name);
+      mapper[e.table.toString()].push(e);
     });
 
     Object.values(mapper).forEach((value) => {
       // For each table
-      value.forEach((v, index) => {
+      value.forEach((val, index) => {
+        if (!val.isSensitive) return;
         var indexer = {};
-        var restOfElements = value.slice();
+        var v = val.name;
+        var restOfElements = value.slice().map((v) => v.name);
         restOfElements.splice(index, 1);
 
         data.forEach((d) => {

@@ -5,6 +5,7 @@ import { FunctionChanger } from "./FunctionChanger";
 export function ColumnHandler({ entries, setEntries, index, trigger }) {
   const [selector, setSelector] = useState(entries[index].edit);
   const [tableNo, setTableNo] = useState(entries[index].table);
+  const [isSensitive, setIsSensitive] = useState(entries[index].isSensitive);
 
   const [openDialog, setOpenDialog] = useState(false);
 
@@ -33,6 +34,16 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
     }
   }
 
+  function changeSensitive(e) {
+    if (e) {
+      var newEnt = entries;
+      newEnt[index].isSensitive = !isSensitive;
+      setIsSensitive(!isSensitive);
+      setEntries(newEnt);
+      trigger();
+    }
+  }
+
   return (
     <th
       onClick={(e) => {
@@ -54,6 +65,8 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
         <MenuItem value={2}>Hide</MenuItem>
       </Select>
       <input type="number" value={tableNo} onChange={changeTable} />
+      Is Sensitive
+      <input type="checkbox" value={isSensitive} onChange={changeSensitive} />
       <FunctionChanger
         entries={entries}
         setEntries={setEntries}
