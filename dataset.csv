@@ -1,0 +1,2001 @@
+name,gender,dob,home_postcode,work_postcode,education,employment,children,marital_status,number_vehicles,commute_time,accommodation,number_of_co-morbidities,disease
+Alan Hernandez,male,1/1970,22410,20719,High School,Employed,2,divorced,1,0.23,Own house,0,
+Jayden Miller,male,2/1981,22406,39304,High School,Employed,1,married,0,0.83,Rent flat,1,
+Makenzie Johnson,female,8/1971,48096,44523,High School,Employed,1,married,1,0.18,Own house,0,lung cancer
+Makayla Howell,female,9/1964,34072,,High School,Unemployed,3,divorced,2,0.00,Rent house,0,asthma
+Colin Wagner,male,9/1986,85869,85660,Bachelor,Employed,3,married,0,0.06,Rent house,0,
+Isabelle Griffin,female,9/1988,20863,17886,Bachelor,Employed,1,married,0,0.02,Rent flat,1,
+Emily Francis,female,11/1969,85689,70557,Bachelor,Employed,1,married,0,0.71,Own flat,0,
+Brayden Caldwell,male,8/1950,89686,,Bachelor,Retired,1,married,1,0.00,Rent house,1,
+Landon Moore,male,7/1937,37024,,High School,Retired,1,divorced,2,0.00,Own flat,1,
+Victor Soto,male,3/1976,71673,79428,Bachelor,Employed,1,married,2,0.28,Own flat,1,asthma
+Maya White,female,5/1983,78545,91968,Bachelor,Employed,1,divorced,0,0.70,Own flat,0,
+Genesis White,female,4/1966,23231,23231,Masters,Employed,3,single,3,0.00,Own house,1,transient ischemic attack
+Brian Holt,male,1/1988,27843,26112,Bachelor,Employed,1,married,0,0.22,Own flat,0,
+Giovanni Fernandez,male,11/1948,15655,,Less than High School,Retired,5,single,2,0.00,Own house,3,asbestosis
+Sophie Hawkins,female,2/1996,89705,64110,Bachelor,Employed,2,married,0,1.22,Rent house,0,
+Richard Maxwell,male,10/1995,20418,26069,Bachelor,Employed,1,divorced,2,0.30,Own flat,0,
+Jonah Khan,male,2/1991,67217,78761,Bachelor,Employed,1,divorced,0,0.58,Rent flat,0,colon cancer
+Brady Montoya,male,3/1988,11905,70734,Bachelor,Employed,2,married,0,2.90,Rent house,0,pleural effusion
+Leonardo Soto,male,4/1942,46467,,Less than High School,Retired,3,widowed,0,0.00,Own house,2,
+Maya Cooper,female,6/1959,90351,,High School,Unemployed,1,married,2,0.00,Rent flat,1,
+Audrey Daniels,female,2/1947,31549,29078,High School,Employed,1,divorced,2,0.19,Own flat,2,
+Adeline Thompson,female,12/1948,41404,,High School,Retired,1,widowed,0,0.00,Rent flat,1,brain stem stroke
+Brody Jackson,male,4/1991,48143,49672,High School,Employed,3,married,1,0.01,Rent house,0,
+Samantha Cain,female,2/1961,70751,46114,Masters,Employed,3,married,2,1.20,Own house,1,
+Theodore Smith,male,8/1964,54321,57891,Bachelor,Employed,0,married,1,0.23,Rent flat,1,
+Lydia Smith,female,10/1991,83928,99710,Bachelor,Employed,1,single,0,0.78,Rent room,2,
+Tristan Olsen,male,7/1985,31665,26767,Less than High School,Employed,3,married,0,0.49,Rent house,0,
+Jesus Lamb,male,3/1982,46798,,High School,Unemployed,1,married,0,0.00,Rent room,2,
+Tyler Hughes,male,6/1967,43696,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Catherine King,female,1/1978,90914,87490,Masters,Employed,1,divorced,2,0.22,Own house,0,
+Levi Carroll,male,7/1965,11701,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,1,hemorrhagic stroke
+Sean Rowland,male,5/1985,79250,93642,Bachelor,Employed,3,divorced,0,0.61,Own house,0,
+James Williams,male,5/1966,13837,14298,High School,Employed,2,married,1,0.09,Own house,0,
+Aaliyah Haney,female,8/1940,64825,,Bachelor,Retired,1,married,0,0.00,Rent house,1,pleural effusion
+Landon Castro,male,2/1981,14876,18079,High School,Employed,1,married,0,0.20,Own flat,1,
+Brayden Espinoza,male,12/1936,62062,,High School,Retired,2,divorced,0,0.00,Own house,2,
+Jessica Perkins,female,11/1950,92031,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,1,
+Logan Bryant,male,11/1939,89811,,High School,Retired,2,widowed,1,0.00,Own house,3,
+Caleb Schroeder,male,8/1976,99192,93939,High School,Student,2,divorced,1,0.30,Rent room,1,
+Alan Vazquez,male,3/1957,42748,,High School,Retired,3,married,1,0.00,Own house,0,
+Mila Christensen,female,8/1976,19617,25143,Bachelor,Employed,1,divorced,2,0.21,Own flat,0,
+Natalie Johnson,female,12/1982,16218,15737,High School,Employed,1,married,0,0.19,Rent room,2,
+Mason Jones,male,1/1943,89736,,Masters,Retired,0,single,1,0.00,Own house,0,
+Isabella Clark,female,3/1932,70898,,High School,Retired,2,divorced,0,0.00,Rent house,0,
+Jayden Kim,male,5/1982,22698,22406,Less than High School,Employed,6,divorced,0,0.03,Own house,2,
+Sebastian Morrison,male,5/1938,55264,,Bachelor,Retired,1,married,2,0.00,Own house,2,
+Ivan Nichols,male,8/1933,45859,,High School,Retired,2,married,1,0.00,Own house,3,
+Jacob Jones,male,8/1978,22446,97258,PhD/md,Employed,0,divorced,3,3.67,Rent house,0,
+Braxton Mason,male,8/1959,29508,68065,High School,Employed,2,widowed,0,1.84,Own house,2,asthma
+Savannah Riley,female,5/1964,42451,,Less than High School,Retired,3,divorced,2,0.00,Own house,1,
+Devin Sweeney,male,2/1995,69385,72699,High School,Employed,3,married,2,0.14,Own house,0,
+Lily Perez,female,5/1997,95199,93390,Masters,Student,0,single,0,0.00,Own house,0,chronic bronchitis
+Savannah Newman,female,9/1983,64125,62355,Bachelor,Employed,1,married,0,0.00,Rent flat,0,brain stem stroke
+Layla Cooper,female,10/1980,69608,52691,High School,Employed,2,divorced,0,0.90,Rent house,1,ovarian cancer
+Annabelle Perez,female,6/1933,15160,,High School,Retired,1,widowed,1,0.00,Rent house,2,
+Miles Conrad,male,11/2000,52756,,Bachelor,Unemployed,1,divorced,1,0.00,Rent flat,0,
+Emery Gray,female,8/1936,97097,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,brain stem stroke
+Claire Hughes,female,6/1973,21106,32154,High School,Employed,0,single,0,0.51,Rent flat,1,brain stem stroke
+James Cole,male,6/1932,99995,,Masters,Retired,1,married,2,0.00,Own flat,1,
+Connor Hunt,male,2/1948,57347,,Less than High School,Retired,0,single,2,0.00,Own flat,0,
+Amy Morgan,female,1/1980,41163,35938,Bachelor,Employed,1,divorced,2,0.22,Own flat,1,ovarian cancer
+Brooke Maynard,female,6/1942,84052,,PhD/md,Retired,1,married,1,0.00,Own flat,3,pneumonia
+Elise Simon,female,1/1975,89150,,High School,Unemployed,3,married,1,0.00,Rent house,0,pleural plaques
+Carlos Cowan,male,4/1949,63304,,Less than High School,Retired,1,widowed,0,0.00,Rent flat,0,pneumonia
+Olivia Morrison,female,1/1978,15545,,High School,Unemployed,2,married,1,0.00,Rent house,0,
+Michael Porter,male,2/1976,64930,54602,Less than High School,Employed,2,married,1,0.47,Own house,2,
+Giselle Santiago,female,8/1985,56456,70356,High School,Employed,1,married,1,0.60,Own house,0,
+Elijah House,male,8/1980,47443,29335,Masters,Employed,1,single,3,0.84,Own house,0,
+Ian Cuevas,male,5/1949,87254,,Bachelor,Retired,2,married,2,0.00,Own house,2,
+Nolan Mitchell,male,10/1979,29061,33974,High School,Employed,2,divorced,0,0.21,Own house,1,hemorrhagic stroke
+Nicole Elliott,female,8/1964,34977,25682,PhD/md,Employed,1,married,1,0.46,Own house,1,
+Xavier Wright,male,10/1982,59308,70585,High School,Employed,1,married,1,0.48,Own flat,1,skin cancer
+Justin Sosa,male,4/1970,37442,40121,PhD/md,Employed,1,married,1,0.29,Own house,0,
+Elizabeth Jennings,female,9/1991,62210,,Masters,Unemployed,1,married,0,0.00,Rent flat,0,
+Alexandra Soto,female,6/1968,78898,78898,Less than High School,Employed,1,married,0,0.00,Own flat,0,
+Christian Robinson,male,11/1988,36648,36230,Masters,Employed,1,divorced,2,0.13,Rent house,0,chronic bronchitis
+Dylan Watson,male,6/1990,93778,16006,High School,Employed,1,divorced,1,3.79,Own house,0,
+James Robinson,male,11/1987,44375,,Bachelor,Unemployed,0,single,2,0.00,Rent flat,0,
+Eva Hayes,female,6/1976,78747,72273,Bachelor,Employed,1,married,1,0.29,Own flat,1,skin cancer
+Ava Knox,female,8/1953,87279,,Masters,Retired,1,married,1,0.00,Own house,0,
+Kennedy Lindsey,female,7/1968,71344,69789,High School,Employed,4,married,1,0.00,Own house,0,
+Lillian Hogan,female,6/1946,78587,,High School,Retired,1,divorced,0,0.00,Rent flat,0,
+Jack Munoz,male,2/1977,24204,,High School,Unemployed,3,married,1,0.00,Rent house,0,
+Xavier Ruiz,male,1/1995,90449,91219,Bachelor,Employed,2,married,2,0.00,Own house,0,colon cancer
+Bentley Shelton,male,8/1953,54927,,High School,Retired,2,single,0,0.00,Rent house,2,
+Paige Cooper,female,6/1961,59533,11620,High School,Employed,3,divorced,2,2.55,Own house,1,
+Lucy Lara,female,5/1957,17661,,High School,Unemployed,1,married,0,0.00,Rent flat,0,chronic bronchitis
+Bentley Johnson,male,7/1979,86181,86025,High School,Employed,1,married,0,0.00,Rent flat,2,colon cancer
+Jason Smith,male,8/1945,90462,,Bachelor,Retired,0,single,1,0.00,Own flat,1,skin cancer
+Alice Holmes,female,12/1955,36573,,High School,Retired,1,married,1,0.00,Own flat,3,
+Jason Wolf,male,11/1988,77175,68374,High School,Student,1,married,2,0.32,Rent room,1,
+Lucas Stephens,male,6/1937,15673,,Bachelor,Retired,2,divorced,1,0.00,Rent house,1,
+Jesse Reyes,male,6/1991,16847,11956,High School,Employed,2,married,1,0.33,Own house,0,hemorrhagic stroke
+Grant Wallace,male,8/1966,87393,82601,Bachelor,Student,1,married,0,0.28,Own house,1,
+Gianna Knox,female,3/1968,84397,78670,High School,Student,2,married,2,0.28,Rent house,0,brain stem stroke
+Bryce Robbins,male,4/1967,36021,36078,Masters,Employed,1,married,1,0.22,Own flat,2,
+Benjamin Blackwell,male,1/1940,57726,,Bachelor,Retired,2,widowed,1,0.00,Rent house,2,
+Madison Haley,female,7/1996,14587,14091,Bachelor,Student,2,divorced,0,0.20,Rent room,0,
+Nicholas Johnston,male,9/1951,73731,,Bachelor,Retired,3,married,0,0.00,Rent house,0,
+Olivia Phillips,female,12/1944,87106,,High School,Retired,1,married,1,0.00,Own flat,3,
+Sofia Nguyen,female,3/1985,10090,10000,High School,Employed,1,divorced,2,0.00,Own house,1,
+David Collins,male,2/1946,49836,50096,High School,Employed,2,widowed,0,0.00,Own house,1,
+Ashley Campbell,female,12/1965,92313,,High School,Retired,2,divorced,1,0.00,Own house,1,
+Mila Johnson,female,4/1970,84361,83496,High School,Employed,1,married,0,0.19,Rent flat,1,
+Eric Russo,male,11/1934,70097,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Penelope Lee,female,3/2001,64647,,Less than High School,Unemployed,0,single,0,0.00,Own flat,0,
+Brooklyn Herman,female,3/1941,65372,65372,Bachelor,Employed,1,married,0,0.00,Own flat,0,
+Abraham Jackson,male,4/1999,86373,52180,Bachelor,Student,1,married,2,1.63,Rent room,1,
+Patrick Harris,male,7/1986,92093,96909,High School,Employed,2,married,0,0.27,Rent house,0,
+Lillian Cook,female,6/1970,74007,77566,Masters,Employed,1,married,2,0.10,Own house,0,
+Clara Gordon,female,4/1935,99727,,High School,Retired,1,married,1,0.00,Own flat,0,
+Ethan Rice,male,11/1971,20579,20579,High School,Employed,1,divorced,2,0.00,Own house,1,
+Brody Hernandez,male,9/1937,68330,,High School,Retired,1,widowed,0,0.00,Rent flat,3,
+Jackson Ryan,male,12/1941,41333,,Bachelor,Retired,1,widowed,2,0.00,Own flat,1,asthma
+Bennett Huber,male,9/1973,16714,21004,Bachelor,Student,2,married,0,0.26,Rent room,0,
+Alaina Pena,female,6/1965,49654,,High School,Retired,2,divorced,1,0.00,Own house,0,
+Sophia Carpenter,female,11/2002,45720,44850,Less than High School,Student,0,single,1,0.00,Rent room,0,
+Victor Roman,male,12/1950,80285,,Less than High School,Retired,1,widowed,1,0.00,Rent flat,2,
+Brayden Contreras,male,6/1937,41084,,Bachelor,Retired,1,married,2,0.00,Own flat,2,
+Annabelle Stanley,female,3/1964,16257,,Bachelor,Unemployed,2,married,0,0.00,Rent house,0,
+Autumn Mann,female,11/1981,79398,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Isabella Johnson,female,4/1956,14160,,High School,Unemployed,1,married,1,0.00,Rent room,1,
+Nicholas Wilson,male,12/1999,63982,,High School,Unemployed,0,single,1,0.00,Rent flat,0,lung cancer
+Connor Mitchell,male,8/1985,12367,20039,Bachelor,Employed,2,married,0,0.38,Rent house,1,
+Lucas Jackson,male,11/1957,64223,53346,Masters,Employed,2,married,1,0.59,Own house,1,
+Gianna Davis,female,7/1955,88991,87182,Masters,Employed,1,widowed,1,0.00,Own flat,1,transient ischemic attack
+Mia Love,female,7/1967,53353,55846,High School,Employed,1,married,0,0.24,Own flat,1,transient ischemic attack
+Grayson Johnson,male,8/1965,86302,79943,Less than High School,Employed,1,married,2,0.22,Own flat,1,
+Sawyer Gonzalez,male,11/1969,84618,93503,High School,Employed,1,divorced,2,0.50,Own house,0,
+Brandon Olsen,male,4/1941,82232,,High School,Retired,2,married,1,0.00,Own house,0,pleural effusion
+Elijah Smith,male,8/1949,30675,,Less than High School,Retired,2,married,1,0.00,Own house,0,
+Dylan Johnson,male,6/1990,69504,40429,Less than High School,Employed,2,married,0,1.26,Rent house,0,
+Austin Koch,male,6/1940,58799,60086,High School,Employed,3,married,2,0.01,Own house,0,skin cancer
+Alexander Rivera,male,3/1954,53941,,Bachelor,Retired,1,widowed,0,0.00,Rent room,1,
+Ryan Wong,male,7/2001,97102,97102,High School,Student,0,single,0,0.00,Rent house,1,
+Grant Little,male,6/1947,33856,,High School,Retired,2,widowed,0,0.00,Rent house,1,
+Lyla Wong,female,3/1971,67118,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Gage Johnson,male,3/1999,45158,45485,Bachelor,Employed,2,widowed,2,0.13,Own house,0,asthma
+Brandon Walker,male,7/2002,31234,32997,Less than High School,Student,0,single,1,0.05,Own house,0,
+Ella Wilson,female,7/1953,51781,,High School,Retired,1,divorced,1,0.00,Rent flat,1,
+Charles Hanson,male,11/1975,61996,65193,High School,Employed,2,single,1,0.15,Own house,0,
+Isabella Pennington,female,7/1932,26889,67860,High School,Employed,3,married,0,1.99,Rent house,1,
+Nevaeh Walls,female,4/1973,82530,82604,High School,Employed,3,married,2,0.00,Own house,1,
+Maxwell Phillips,male,12/1955,67977,,Masters,Retired,1,divorced,2,0.00,Own flat,1,
+Dylan Young,male,8/1989,49971,80724,Masters,Employed,1,married,2,1.65,Own flat,1,
+William Hardin,male,1/1944,92587,,PhD/md,Retired,1,married,1,0.00,Own flat,1,
+Caleb Pratt,male,3/1973,74737,79634,Bachelor,Student,1,married,0,0.24,Rent room,0,
+Blake Chapman,male,8/1976,66195,,High School,Unemployed,1,single,1,0.00,Rent flat,1,hemorrhagic stroke
+Asher Conner,male,11/1974,48735,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,1,
+Benjamin Rodriguez,male,10/1936,34710,,Bachelor,Retired,1,single,1,0.00,Own flat,2,
+Bentley Cummings,male,1/1985,72607,79521,High School,Employed,1,married,0,0.24,Rent flat,1,
+Riley Smith,female,11/1976,18585,16839,High School,Employed,1,married,1,0.19,Own house,0,asthma
+Melody Poole,female,2/1976,57905,46793,High School,Employed,1,married,0,0.59,Rent house,2,
+Asher Walker,male,9/1932,27406,,Less than High School,Retired,1,divorced,0,0.00,Rent flat,1,
+Maxwell Phillips,male,6/1969,76173,75322,Masters,Student,1,married,0,0.12,Rent room,0,
+Liam Moore,male,12/1945,45350,,High School,Retired,1,married,2,0.00,Own house,1,
+Mason Foster,male,2/1996,91490,,High School,Unemployed,1,divorced,0,0.00,Rent flat,0,lung cancer
+Isabel Perez,female,10/2000,51275,56430,Bachelor,Employed,1,married,0,0.09,Rent room,0,
+Grant Smith,male,7/1934,28596,,Masters,Retired,1,married,2,0.00,Own house,3,
+Hailey Clarke,female,10/2000,75255,72203,Bachelor,Student,2,married,1,0.11,Rent room,0,
+Owen Brown,male,6/1951,17210,,High School,Retired,2,married,0,0.00,Own house,1,
+Hadley Smith,female,8/1959,75814,72195,PhD/md,Employed,1,married,1,0.28,Own flat,0,
+Luna Rogers,female,12/1979,69392,64549,Bachelor,Employed,1,divorced,1,0.33,Own house,0,
+Hudson Thomas,male,6/1968,73515,78788,Less than High School,Employed,1,married,1,0.24,Rent flat,0,
+Evan Rosales,male,12/1966,68792,75585,Bachelor,Employed,0,divorced,0,0.45,Rent flat,1,
+Avery Logan,female,9/1998,77454,99999,Bachelor,Student,2,divorced,2,1.18,Own house,0,pneumonia
+Jackson Walton,male,6/1938,53604,56685,Less than High School,Employed,3,married,1,0.12,Own house,0,
+Alex Henderson,male,3/1951,78072,,High School,Retired,1,married,0,0.00,Own flat,0,
+Jaxson Gutierrez,male,11/1970,26738,10000,PhD/md,Employed,1,divorced,1,0.76,Own flat,0,
+Skylar Schwartz,female,3/1997,13051,16046,High School,Student,0,single,2,0.24,Rent house,0,brain stem stroke
+Wesley Caldwell,male,8/1942,88126,,Bachelor,Retired,2,divorced,0,0.00,Rent house,2,
+Ashley Adkins,female,8/1945,11367,,Bachelor,Retired,1,divorced,1,0.00,Own flat,1,asbestosis
+Caroline Roth,female,4/1973,51696,58394,Bachelor,Employed,2,married,0,0.47,Rent house,2,skin cancer
+James Moore,male,12/1996,54255,47968,Bachelor,Employed,1,married,1,0.18,Own flat,0,
+Luke White,male,5/1935,14856,,Bachelor,Retired,2,married,1,0.00,Own house,1,
+Ella Turner,female,3/1950,20289,,Masters,Retired,0,single,1,0.00,Own flat,0,
+Allison Lee,female,12/1969,88470,99529,Masters,Employed,1,married,2,0.46,Own flat,0,
+Ivan Werner,male,5/1980,54467,54467,High School,Employed,2,divorced,0,0.00,Rent house,0,
+Patrick Roberts,male,9/1992,21119,28500,Bachelor,Employed,5,divorced,1,0.58,Own house,0,
+Emma Hernandez,female,1/1941,16185,,Bachelor,Retired,1,divorced,0,0.00,Rent room,1,asthma
+Emily Castro,female,1/1953,53032,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Arianna Walker,female,4/1957,68754,,Bachelor,Unemployed,1,divorced,1,0.00,Rent flat,2,
+Samuel Wise,male,5/1939,74290,,Less than High School,Retired,1,widowed,1,0.00,Own house,2,pleural plaques
+Ella Hancock,female,12/1933,31187,31173,Less than High School,Employed,1,divorced,0,0.00,Rent flat,1,
+Wyatt Contreras,male,12/1943,55100,,Masters,Retired,2,married,3,0.00,Own house,0,
+Harmony Stone,female,11/1945,81526,,Bachelor,Retired,0,single,0,0.00,Rent flat,0,
+Anthony Barrett,male,12/1958,72872,,Bachelor,Retired,1,married,1,0.00,Own house,0,
+Caleb Walker,male,11/1949,57544,,PhD/md,Retired,0,single,1,0.00,Own flat,1,
+Jayden Nichols,male,2/1989,19895,19895,Bachelor,Employed,1,divorced,2,0.00,Own house,0,
+Connor Wise,male,9/1941,25741,,Less than High School,Retired,3,divorced,1,0.00,Own house,1,
+Emily Allen,female,3/1961,98137,,High School,Retired,1,widowed,1,0.00,Own flat,1,pleural plaques
+Savannah Norton,female,6/1971,70832,97386,High School,Employed,1,divorced,0,1.42,Rent flat,1,
+Audrey Morrison,female,10/1988,71393,,Bachelor,Unemployed,3,married,0,0.00,Own house,1,
+Allison Pope,female,2/1941,18337,,Masters,Retired,1,widowed,1,0.00,Own house,1,
+Ezra Murray,male,1/1933,92060,83689,High School,Employed,1,married,1,0.48,Own flat,0,pneumonia
+Maxwell Johnson,male,6/1956,84374,,High School,Unemployed,2,married,0,0.00,Rent house,1,lung cancer
+Lily Durham,female,10/1968,53689,50181,Less than High School,Employed,1,married,2,0.25,Own flat,0,
+Camila Logan,female,3/1932,33979,33979,PhD/md,Employed,1,single,1,0.00,Own flat,2,lung cancer
+Serenity Barber,female,5/1955,55338,,Masters,Retired,1,married,3,0.00,Rent house,1,
+Kevin Harris,male,6/1946,67575,,High School,Retired,2,widowed,1,0.00,Own house,0,
+Hadley Burns,female,9/1984,97447,97447,High School,Employed,1,married,0,0.00,Rent flat,0,
+Mia Barrett,female,6/1953,33513,,Masters,Retired,2,married,2,0.00,Own house,1,
+Mia Davis,female,10/1981,61220,32661,Less than High School,Employed,2,married,0,1.38,Rent house,0,
+Logan Gonzalez,male,8/1961,22223,,Masters,Unemployed,1,married,2,0.00,Own flat,1,
+Victor Richardson,male,8/1950,93031,,High School,Retired,1,widowed,0,0.00,Rent flat,2,asbestosis
+Isabella Schwartz,female,2/1969,68997,74178,High School,Employed,2,married,0,0.28,Rent house,1,
+Jaxon Becker,male,1/1999,98412,86714,High School,Student,0,divorced,0,0.55,Rent room,0,colon cancer
+Valentina Bruce,female,1/1945,98636,,Less than High School,Retired,1,married,2,0.00,Own flat,0,
+Alice Fleming,female,6/1994,48197,59728,Masters,Student,0,single,2,0.85,Rent room,0,
+Carter Graves,male,8/1946,18817,,High School,Retired,2,married,0,0.00,Rent house,0,
+Sofia Goodman,female,9/1947,53302,,Bachelor,Retired,1,married,0,0.00,Own flat,1,
+Patrick Acosta,male,7/1945,27884,,Bachelor,Retired,1,widowed,2,0.00,Rent house,0,chronic bronchitis
+Aubrey Lynn,female,12/1979,87915,87915,Bachelor,Employed,3,married,2,0.00,Own house,2,colon cancer
+Patrick Fritz,male,10/1958,43545,45318,Bachelor,Employed,1,widowed,2,0.00,Own house,1,
+Hadley Norton,female,9/1948,70033,,High School,Retired,1,married,1,0.00,Own flat,3,
+Lily Brown,female,3/1942,23200,,PhD/md,Retired,2,single,1,0.00,Rent house,1,
+Bryan Gomez,male,7/1939,35802,,High School,Retired,1,married,0,0.00,Own flat,1,
+Melanie Parsons,female,8/1976,86750,11389,High School,Employed,1,married,1,3.74,Own flat,1,
+Madison Lee,female,3/1981,69696,68034,High School,Employed,2,single,1,0.00,Own house,2,
+Abigail Marks,female,8/1981,57108,57108,PhD/md,Employed,1,married,1,0.00,Own flat,1,transient ischemic attack
+Avery Martinez,female,9/1945,64002,,High School,Retired,2,married,0,0.00,Rent house,1,lung cancer
+Stella Parker,female,5/1987,88554,89622,Bachelor,Employed,1,married,0,0.00,Rent flat,0,
+Quinn Jacobson,female,8/2000,71792,65065,Less than High School,Employed,0,married,1,0.22,Own flat,0,skin cancer
+Carson Woodard,male,2/1967,76254,95942,PhD/md,Employed,1,married,2,0.87,Own flat,1,lung cancer
+Sophia Gray,female,11/1983,90089,83135,High School,Employed,1,married,0,0.25,Rent room,0,
+Piper Adkins,female,9/1977,95423,90209,Masters,Employed,1,married,1,0.14,Own flat,0,
+Camden Lamb,male,5/1969,76648,84672,Bachelor,Employed,2,single,2,0.48,Own house,0,asbestosis
+Kevin Haley,male,3/1934,66050,,High School,Retired,1,widowed,0,0.00,Rent flat,0,lung cancer
+Mila Mills,female,11/1962,24162,24162,Masters,Employed,1,married,2,0.00,Own flat,0,
+Nolan Guzman,male,3/1974,98463,98463,PhD/md,Employed,4,married,1,0.00,Own house,1,
+Ava Sutton,female,6/1971,64071,92431,Masters,Employed,2,married,1,1.33,Own flat,0,pleural plaques
+Brady Rogers,male,9/1972,52083,57448,Masters,Employed,2,married,1,0.29,Own flat,0,
+Ivy Perez,female,11/1979,61965,61965,High School,Employed,1,married,0,0.00,Own flat,1,colon cancer
+Allison Zavala,female,1/1974,67320,94406,High School,Employed,1,divorced,1,1.17,Own flat,0,
+Wesley Hall,male,11/1976,74573,72926,High School,Employed,1,married,0,0.14,Rent flat,0,
+Brady Kelly,male,2/1972,51669,44346,Bachelor,Employed,2,married,0,0.39,Own house,1,
+Charles Wilson,male,11/1952,88826,,Less than High School,Retired,2,married,2,0.00,Own flat,1,
+Cole Moore,male,11/1974,23281,25357,Bachelor,Employed,0,single,2,0.13,Rent flat,1,colon cancer
+Luis Moore,male,2/1975,24890,23727,Masters,Employed,1,married,1,0.00,Own flat,0,
+Addison Woods,female,5/1959,10142,10000,Bachelor,Employed,1,married,0,0.00,Own flat,1,
+Hudson Miller,male,8/1952,48420,,High School,Retired,2,married,0,0.00,Rent house,1,pneumonia
+Alan Cooper,male,12/1959,41163,,Bachelor,Retired,3,divorced,1,0.00,Own house,0,
+Hannah Perez,female,8/1969,54796,51455,Masters,Employed,1,married,2,0.11,Own house,1,
+Adalynn Ward,female,4/1950,11301,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Joshua Lewis,male,5/1965,93305,93183,PhD/md,Employed,1,married,1,0.05,Own flat,1,
+Owen Rodriguez,male,2/1940,69246,,High School,Retired,2,married,1,0.00,Own house,2,
+Jordan Olson,male,2/1941,93822,,Less than High School,Retired,2,divorced,0,0.00,Rent house,1,pleural plaques
+Ella Nguyen,female,3/1985,99477,,High School,Unemployed,1,married,1,0.00,Rent flat,0,
+Alan Hicks,male,4/2000,42232,42429,High School,Employed,0,single,1,0.12,Rent house,0,hemorrhagic stroke
+Jaxson Hunt,male,12/1943,78017,,Bachelor,Retired,1,married,1,0.00,Own house,2,
+Samuel Clark,male,12/1996,66577,66577,Masters,Employed,0,single,2,0.00,Own flat,0,
+Nathan Smith,male,9/1994,84162,84293,Bachelor,Employed,1,married,2,0.01,Own flat,0,
+Tyler Young,male,12/1996,46609,10872,Masters,Employed,0,single,1,1.82,Own house,0,
+Quinn Nichols,female,10/1962,17607,,High School,Unemployed,2,married,1,0.00,Rent house,0,brain stem stroke
+Jesus Mullins,male,2/1936,53718,,High School,Retired,1,divorced,0,0.00,Rent flat,0,
+Ella Baker,female,9/1962,32417,,High School,Unemployed,1,divorced,1,0.00,Rent flat,0,
+James Johnson,male,4/1933,97480,,Bachelor,Retired,1,married,2,0.00,Own flat,1,
+Sophia Price,female,8/1988,49329,55999,Masters,Employed,1,married,1,0.20,Own flat,2,
+Gavin Daniels,male,1/1984,94521,93167,High School,Employed,1,married,0,0.19,Rent flat,1,transient ischemic attack
+William Smith,male,5/1965,54119,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,1,chronic bronchitis
+Richard Williams,male,4/1993,68910,68910,High School,Employed,2,married,0,0.00,Own house,0,chronic bronchitis
+Alexandra Jackson,female,3/1947,67636,,Bachelor,Retired,1,married,1,0.00,Own flat,0,
+Violet Wilson,female,4/1948,27414,,Bachelor,Retired,1,widowed,0,0.00,Own flat,1,
+Alyssa York,female,9/1955,57780,,Bachelor,Retired,1,married,0,0.00,Own flat,3,ovarian cancer
+William Gray,male,7/1973,28577,24854,Masters,Employed,1,married,1,0.00,Own flat,1,
+Nolan Smith,male,4/1948,76346,,Masters,Retired,1,married,2,0.00,Own flat,1,
+Daniel Ward,male,2/2000,44180,38273,High School,Student,0,single,0,0.42,Own house,1,
+Aiden Reynolds,male,10/1966,89709,92782,Less than High School,Employed,1,married,1,0.16,Own flat,0,
+Kinsley Harris,female,12/1956,53409,,High School,Retired,3,widowed,0,0.00,Rent house,1,
+Layla Pena,female,10/1982,35220,35220,Masters,Employed,2,married,1,0.00,Own house,1,
+Alexandra Pratt,female,3/1935,59029,,Less than High School,Retired,4,married,0,0.00,Own house,1,
+Lyla Lawrence,female,3/1977,26651,26644,Masters,Employed,2,married,2,0.06,Own house,1,chronic bronchitis
+Chase Hayes,male,5/1961,46208,46312,Masters,Employed,1,married,2,0.11,Own flat,1,asthma
+Rylee Anderson,female,6/1958,28169,29295,High School,Employed,1,married,1,0.06,Own house,0,
+Sophia Mathis,female,1/1969,11496,10000,High School,Employed,2,divorced,1,0.00,Own house,1,
+Ava Simpson,female,8/1944,59483,75415,High School,Employed,1,married,1,0.80,Own flat,1,
+Maxwell Jensen,male,6/1963,71816,,Less than High School,Retired,2,divorced,1,0.00,Rent house,0,
+Steven Cameron,male,10/2002,57639,57639,High School,Student,0,single,0,0.00,Rent room,0,
+Vincent Patel,male,3/1934,21629,,High School,Retired,1,married,1,0.00,Own house,1,
+Jude Burgess,male,10/1956,76494,81384,High School,Employed,3,married,0,0.22,Own house,1,
+Samuel Maxwell,male,9/1958,68925,,High School,Unemployed,1,married,1,0.00,Rent flat,1,pleural plaques
+Gage Peters,male,7/1940,68838,,Bachelor,Retired,1,married,1,0.00,Own flat,2,
+Adeline Campbell,female,11/1943,23064,,High School,Retired,5,single,0,0.00,Rent house,0,
+Autumn Stone,female,7/1937,53015,,Bachelor,Retired,3,divorced,0,0.00,Own house,1,
+Giselle Johnston,female,1/1980,98192,99999,Masters,Employed,2,married,1,0.00,Own house,1,skin cancer
+Lucas Dalton,male,11/1937,34731,,Bachelor,Retired,2,married,1,0.00,Own house,1,asthma
+Lauren Wilson,female,2/1965,40963,38131,High School,Employed,3,married,1,0.17,Own house,1,
+Justin Smith,male,2/1944,91543,,Bachelor,Retired,1,widowed,0,0.00,Rent room,1,
+Aubree Adkins,female,11/1941,93009,,High School,Retired,2,married,1,0.00,Own house,1,
+Tristan Daniel,male,8/1936,90738,,Bachelor,Retired,1,divorced,1,0.00,Own flat,1,
+Summer Diaz,female,5/1932,63376,,High School,Retired,2,married,1,0.00,Own house,0,
+Josephine Lara,female,11/1983,85660,81050,Masters,Employed,1,married,1,0.29,Own flat,0,pneumonia
+Jayden Ford,male,12/1946,74182,,Less than High School,Retired,1,married,2,0.00,Own flat,0,chronic bronchitis
+Daisy Nielsen,female,2/1933,25947,,High School,Retired,1,married,1,0.00,Own house,0,
+Amelia Lambert,female,12/1945,37631,,Bachelor,Retired,2,married,0,0.00,Rent house,1,
+Jose Cooper,male,12/1987,16782,16782,High School,Employed,1,divorced,1,0.00,Own flat,0,lung cancer
+Ashley English,female,3/1993,85633,85633,High School,Employed,2,married,1,0.00,Own flat,1,hemorrhagic stroke
+Emmett Riley,male,6/1961,86930,73729,Masters,Student,1,married,0,0.71,Rent room,1,
+Brandon Simmons,male,10/1959,89763,12436,High School,Employed,3,divorced,0,3.77,Rent house,2,
+Jaxson Ortiz,male,2/1951,10558,,Bachelor,Retired,1,married,0,0.00,Own flat,0,
+Gabriella Everett,female,1/1960,53447,54872,Less than High School,Employed,1,married,2,0.09,Own flat,1,
+Avery Holmes,female,3/1974,37320,41227,High School,Employed,6,married,0,0.15,Own house,0,
+Penelope Smith,female,8/1991,61597,61728,High School,Employed,1,married,1,0.00,Own flat,0,
+Mila Olsen,female,10/1958,14561,51512,High School,Employed,1,married,1,1.92,Rent house,1,pleural effusion
+Michael Golden,male,11/1945,91985,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Gianna Rodgers,female,1/1932,24246,,Bachelor,Retired,0,married,0,0.00,Rent room,2,lung cancer
+Zoey Cisneros,female,6/1998,19535,19304,High School,Employed,1,married,2,0.01,Own flat,0,
+Sophia Schultz,female,6/1959,79639,80742,Bachelor,Employed,2,married,0,0.11,Own house,1,
+Weston Serrano,male,11/1938,70447,,High School,Retired,1,widowed,2,0.00,Own flat,0,asbestosis
+Aubree Castro,female,7/1966,54955,50508,Bachelor,Student,1,married,1,0.13,Own house,0,lung cancer
+Clara Chavez,female,2/1933,65615,,High School,Retired,1,married,1,0.00,Own flat,0,
+Alan Wang,male,3/1938,75950,,High School,Retired,1,married,2,0.00,Rent flat,2,
+Khloe Lewis,female,8/1985,66666,66666,Masters,Student,2,divorced,2,0.00,Rent room,0,chronic bronchitis
+Matthew Conrad,male,5/1954,10199,,High School,Retired,1,divorced,2,0.00,Rent house,1,
+Sebastian Carr,male,5/1951,29819,41867,PhD/md,Employed,1,married,2,0.68,Own house,0,
+Evan Cooper,male,12/1946,99767,,High School,Retired,1,married,2,0.00,Own flat,1,
+Sebastian Ward,male,4/1997,67695,65617,High School,Student,0,single,1,0.29,Rent room,2,
+Caleb Brown,male,5/1939,31845,,Bachelor,Retired,3,married,0,0.00,Rent house,1,
+David Romero,male,7/1938,99818,,High School,Retired,2,married,0,0.00,Rent house,0,
+Samuel Burch,male,4/1987,69354,67095,Bachelor,Employed,1,married,2,0.17,Own house,0,
+Landon Hendricks,male,11/1972,70464,73215,Bachelor,Employed,2,divorced,2,0.09,Own house,0,
+David Hill,male,11/1940,34593,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,colon cancer
+Marcus Contreras,male,9/1944,49243,,Bachelor,Retired,3,married,0,0.00,Rent house,0,
+Landon Higgins,male,12/1983,57046,56561,High School,Employed,2,married,0,0.00,Rent house,0,
+Isabella Morales,female,9/1946,69103,,High School,Retired,1,married,0,0.00,Own flat,0,
+Kayla Moyer,female,10/1961,18018,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Leah Brown,female,6/1947,72116,,Bachelor,Retired,1,widowed,0,0.00,Rent house,3,
+Caleb Wolfe,male,7/1988,95326,87761,Masters,Employed,0,single,1,0.41,Own flat,1,
+Eleanor Brown,female,5/1964,49845,,High School,Unemployed,1,married,1,0.00,Rent flat,1,
+Kennedy Walter,female,5/1978,86820,86820,Less than High School,Employed,6,widowed,2,0.00,Own house,0,
+Tristan Haney,male,7/1974,39393,45136,Bachelor,Employed,1,divorced,1,0.33,Rent flat,0,
+Angel Robinson,male,3/1953,38398,,High School,Retired,2,divorced,0,0.00,Rent house,1,asthma
+Addison Webb,female,10/1941,92954,,Bachelor,Retired,2,married,0,0.00,Rent house,0,ovarian cancer
+Alexa Stewart,female,12/1956,32678,,Bachelor,Retired,2,married,2,0.00,Rent house,0,
+Katelyn Walters,female,3/1932,47483,,Less than High School,Retired,2,widowed,1,0.00,Own house,1,
+Layla Murray,female,9/1961,53718,49991,High School,Employed,1,single,0,0.19,Own flat,1,
+Hunter Johnson,male,4/1936,10427,,High School,Retired,2,married,1,0.00,Own house,1,
+Sophia Gutierrez,female,1/1945,37404,,High School,Retired,1,married,1,0.00,Own flat,1,brain stem stroke
+Aria George,female,1/1976,79730,71584,Masters,Employed,2,married,2,0.42,Own house,1,
+Peyton Townsend,female,5/2001,85185,82108,High School,Student,0,single,1,0.23,Rent room,0,
+Abigail Lowe,female,5/1978,78332,84347,High School,Employed,1,married,1,0.46,Rent house,0,
+Ethan Parker,male,7/1975,65350,65998,Masters,Employed,3,divorced,1,0.17,Own house,2,
+Lucy Vazquez,female,4/1956,31823,72704,Less than High School,Employed,1,widowed,2,1.92,Own house,1,
+Matthew Perry,male,6/1934,31505,,Masters,Retired,1,divorced,1,0.00,Own flat,1,
+Gabriel Flores,male,6/1974,39148,45957,High School,Employed,1,married,0,0.42,Rent room,1,pleural effusion
+Olivia Sanchez,female,3/1932,30089,,Less than High School,Retired,3,widowed,2,0.00,Own house,1,
+Benjamin Strong,male,10/1979,94743,93743,Masters,Employed,1,married,1,0.11,Own flat,0,
+Kevin Cunningham,male,5/1949,42159,,High School,Retired,1,married,0,0.00,Own flat,1,
+Gavin Pruitt,male,3/1991,55733,55954,Bachelor,Employed,1,married,0,0.00,Own flat,0,
+Ayden Martin,male,8/1976,66541,67925,Bachelor,Employed,2,married,1,0.13,Own house,0,
+Allison Butler,female,11/1935,99938,,High School,Retired,1,married,1,0.00,Own flat,1,pleural plaques
+Ayden Navarro,male,12/1957,52451,41055,High School,Employed,5,divorced,0,0.64,Own house,0,
+Faith Lucas,female,2/1966,32109,27816,Masters,Employed,0,single,2,0.25,Own flat,0,
+Zoey Wright,female,2/1965,44259,60313,PhD/md,Employed,1,divorced,1,0.91,Own flat,0,
+Nevaeh Ramirez,female,5/1977,97983,99999,High School,Employed,1,married,1,0.00,Own flat,1,
+Ava Campbell,female,6/1982,43753,44299,PhD/md,Employed,2,married,3,0.00,Own house,0,
+Lillian Cooper,female,2/1963,55161,,Bachelor,Unemployed,1,married,0,0.00,Rent room,1,
+Aria Olsen,female,4/1995,41210,32416,Bachelor,Employed,1,married,1,0.41,Rent flat,0,
+Joshua Thompson,male,7/1993,73384,87369,Masters,Employed,2,married,3,0.57,Own house,0,
+Matthew Obrien,male,5/1961,81074,,Bachelor,Retired,1,widowed,1,0.00,Own flat,0,
+Olivia Conrad,female,4/1968,50553,,High School,Unemployed,2,married,0,0.00,Own house,0,ovarian cancer
+Juliana Robbins,female,7/1967,73989,13134,Masters,Employed,1,married,1,2.97,Own house,0,
+Justin Brandt,male,10/1956,34267,34233,Bachelor,Employed,1,married,0,0.07,Own flat,2,
+Lila Olsen,female,11/1985,97410,96662,High School,Employed,1,married,2,0.00,Rent house,1,
+Landon Arnold,male,2/1933,55831,,High School,Retired,2,married,1,0.00,Rent house,0,
+Jacob Navarro,male,4/1963,57569,62129,High School,Employed,1,married,0,0.13,Rent room,1,
+Anna Rogers,female,10/1935,46997,,Less than High School,Retired,3,married,1,0.00,Own house,1,
+Julian Cole,male,7/1982,91396,90814,PhD/md,Employed,1,married,1,0.06,Own house,0,colon cancer
+Ava Richard,female,5/1952,41877,,High School,Retired,1,married,0,0.00,Rent house,1,
+Khloe Keller,female,6/1958,85296,,Less than High School,Retired,4,divorced,1,0.00,Own house,1,transient ischemic attack
+Carter Martinez,male,6/1941,78024,,Masters,Retired,1,married,2,0.00,Own house,1,transient ischemic attack
+Isabella Williams,female,6/1960,55999,,High School,Retired,1,widowed,2,0.00,Own house,1,
+Naomi Mack,female,8/1955,56491,,High School,Retired,1,married,2,0.00,Own flat,0,
+Mason Archer,male,5/1933,99982,,High School,Retired,1,married,1,0.00,Own flat,3,
+Zoe Smith,female,2/1994,26609,20275,Bachelor,Employed,2,married,0,0.31,Rent house,0,
+Sophia Ward,female,2/1977,16207,13665,Masters,Employed,1,married,1,0.00,Own house,0,
+Jonah Barber,male,4/1997,48767,62351,Masters,Student,0,single,0,0.65,Own house,0,
+Jack Bell,male,12/1991,90020,99999,High School,Employed,1,married,1,0.38,Own house,0,
+Hazel Murphy,female,3/1944,88141,,Less than High School,Retired,3,widowed,0,0.00,Rent house,2,
+Paige Gould,female,10/1957,81746,77027,High School,Employed,1,married,0,0.05,Rent flat,0,
+Gabriella Franco,female,2/1962,45716,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,
+Avery Turner,female,7/1981,13576,14224,Masters,Employed,1,married,2,0.02,Own flat,0,chronic bronchitis
+Kimberly Davis,female,1/1940,49862,,Bachelor,Retired,0,single,2,0.00,Own house,0,skin cancer
+Mason Roberts,male,3/1953,37935,,High School,Retired,1,married,0,0.00,Rent flat,2,
+Sophia Wilson,female,1/1946,67555,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Naomi Mills,female,4/1933,65097,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Cameron Young,male,4/1946,72305,,Bachelor,Retired,3,divorced,0,0.00,Rent house,1,
+Xavier Wise,male,2/1952,66347,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,skin cancer
+Michael Cisneros,male,4/1943,53359,,High School,Retired,1,married,2,0.00,Own flat,2,
+Andrew Young,male,12/1981,84745,99999,Bachelor,Employed,1,married,1,0.61,Own house,1,
+Skylar Jensen,female,10/1948,94229,,High School,Retired,1,widowed,0,0.00,Rent flat,0,
+Morgan Cunningham,female,5/1940,53419,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,
+Cayden Ray,male,5/1995,44812,39773,High School,Employed,2,married,0,0.18,Own house,0,
+Gracie Johnson,female,8/1993,36493,87566,High School,Employed,1,married,0,2.49,Rent flat,0,
+Christopher Wang,male,7/1949,69943,,High School,Retired,1,married,1,0.00,Own flat,1,
+Skylar Ramos,female,2/1933,17307,,High School,Retired,1,married,0,0.00,Own flat,1,
+Melanie Aguilar,female,2/1937,76172,,Bachelor,Retired,2,single,1,0.00,Own house,1,
+Robert Zuniga,male,12/1946,86545,,High School,Retired,1,divorced,0,0.00,Rent flat,2,
+Lucas Johnson,male,1/1963,50242,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,transient ischemic attack
+Jose Rhodes,male,2/1984,50015,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Alexandra Smith,female,12/1942,42574,,Less than High School,Retired,6,married,1,0.00,Own house,1,pleural plaques
+Brianna Gonzalez,female,11/1963,85093,,High School,Retired,1,divorced,1,0.00,Own flat,0,
+Justin Bell,male,3/1971,13954,13954,High School,Employed,1,single,0,0.00,Rent flat,0,hemorrhagic stroke
+Sebastian White,male,3/1956,51871,,High School,Unemployed,1,widowed,1,0.00,Rent flat,1,
+Michael Gonzales,male,5/1951,13859,,High School,Retired,3,married,2,0.00,Rent house,1,
+Lucy Perkins,female,2/1979,23443,,High School,Unemployed,3,widowed,1,0.00,Rent house,1,
+Nevaeh Navarro,female,4/1974,70200,70200,High School,Employed,1,married,0,0.00,Rent flat,0,
+Avery Cross,female,2/1940,91714,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Aubrey Osborne,female,1/1994,62673,,Bachelor,Unemployed,0,divorced,1,0.00,Rent flat,2,
+Kimberly Jones,female,8/1985,32282,38297,Bachelor,Employed,0,divorced,2,0.44,Own house,0,
+Elijah Burns,male,12/1998,47713,45927,Bachelor,Employed,1,single,1,0.00,Own flat,0,transient ischemic attack
+Eliana Brown,female,6/1959,79883,,Bachelor,Retired,1,married,2,0.00,Rent flat,2,
+Penelope Powell,female,12/1954,57394,,High School,Retired,3,married,2,0.00,Own house,1,
+Avery Hubbard,female,9/1990,34151,33750,Masters,Employed,2,married,1,0.05,Own house,0,
+Connor Harris,male,7/1953,71073,,Masters,Retired,1,divorced,2,0.00,Own house,1,
+Landon Adkins,male,10/1995,32461,41546,Bachelor,Employed,0,single,0,0.29,Rent flat,0,
+Scarlett Conley,female,12/1971,42646,41721,Bachelor,Employed,1,widowed,1,0.23,Rent flat,1,
+Jaden Hill,male,2/1935,58385,,High School,Retired,1,widowed,2,0.00,Own flat,1,
+Alan Lloyd,male,9/1972,68791,55237,High School,Student,1,married,0,0.73,Own house,1,
+Kinsley Greene,female,3/1989,13854,14479,Bachelor,Employed,3,married,0,0.03,Rent house,0,
+Trinity Munoz,female,7/1973,80195,84886,Bachelor,Employed,1,divorced,1,0.28,Own flat,1,
+Adalyn Gomez,female,9/1988,90046,95935,Masters,Employed,4,married,2,0.33,Own house,2,pneumonia
+James Bates,male,7/1974,52137,52296,Bachelor,Employed,1,married,0,0.21,Rent room,0,
+Lillian Kelley,female,4/1985,21644,23285,Bachelor,Employed,1,married,0,0.20,Rent flat,1,pneumonia
+Brooklyn Allen,female,5/1965,98408,98139,Masters,Employed,2,divorced,2,0.10,Own house,1,
+Michael Martinez,male,8/1964,11370,,High School,Retired,4,divorced,0,0.00,Rent house,1,
+Christopher Cain,male,2/1980,28298,26914,Masters,Employed,2,married,2,0.08,Own house,0,
+John Nash,male,12/1935,60858,,High School,Retired,3,widowed,0,0.00,Rent house,1,asbestosis
+Parker Moore,male,12/1965,31166,,High School,Unemployed,0,divorced,2,0.00,Rent flat,0,
+Patrick Howell,male,4/1944,92458,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,skin cancer
+Bentley Wilson,male,8/1964,75937,,Bachelor,Retired,1,married,1,0.00,Own house,2,
+Joshua Brown,male,5/1979,53378,42331,High School,Employed,1,married,0,0.69,Rent flat,1,transient ischemic attack
+Nicole Johnson,female,5/1983,21714,12095,High School,Employed,1,married,2,0.40,Own flat,0,
+David Lee,male,11/1990,33422,28764,High School,Employed,5,married,1,0.32,Own house,0,
+Hannah Hines,female,7/1949,13741,,High School,Retired,2,married,0,0.00,Own house,1,
+Dylan Castro,male,9/1962,99326,99999,High School,Employed,4,married,0,0.00,Own house,0,colon cancer
+Molly Moyer,female,9/2001,75386,59540,High School,Employed,0,widowed,0,0.92,Rent flat,0,
+Eva Golden,female,4/1991,72247,67036,High School,Employed,4,married,0,0.31,Rent house,0,
+Samantha Willis,female,10/1962,72781,20151,Bachelor,Employed,1,married,0,2.72,Own flat,0,
+Matthew Mcdonald,male,11/1935,95309,,Bachelor,Retired,1,widowed,1,0.00,Own flat,0,
+Kaylee Escobar,female,12/1978,43674,,High School,Unemployed,1,married,1,0.00,Rent flat,0,
+Matthew Murray,male,7/1956,57669,57669,Bachelor,Employed,2,divorced,0,0.00,Rent house,3,
+Bella Rogers,female,9/1932,59923,,High School,Retired,5,married,1,0.00,Own house,1,
+Oliver Raymond,male,3/1951,39350,,High School,Retired,1,widowed,1,0.00,Own house,1,
+Violet Williams,female,7/1953,70705,,Masters,Retired,2,married,2,0.00,Own house,1,
+Elijah Thomas,male,2/1933,77339,,High School,Retired,1,divorced,0,0.00,Rent flat,1,hemorrhagic stroke
+Madison Williams,female,5/1996,64292,,Bachelor,Unemployed,1,married,2,0.00,Rent flat,0,
+Penelope James,female,10/1975,81922,92194,Less than High School,Employed,1,married,1,0.32,Own flat,0,
+Aubrey Kelly,female,10/1988,54238,52559,High School,Employed,0,single,1,0.21,Own flat,0,pneumonia
+Avery Richard,female,1/1979,56808,44867,Bachelor,Employed,0,married,1,0.51,Own house,1,asthma
+Liam Lewis,male,1/1984,89058,99999,Masters,Student,1,married,0,0.52,Own house,2,
+Camila Owens,female,8/1957,55275,,High School,Retired,1,widowed,1,0.00,Own house,1,
+Faith Smith,female,10/1978,15963,15963,PhD/md,Employed,1,single,1,0.00,Rent house,1,
+Alexander Trujillo,male,6/1980,78225,,Bachelor,Unemployed,2,married,0,0.00,Rent house,0,pleural plaques
+Elijah Shaffer,male,1/1937,94351,,Masters,Retired,3,widowed,1,0.00,Own house,1,
+Camila Williams,female,4/1982,17238,10000,PhD/md,Employed,2,married,1,0.49,Own house,1,
+Makayla Russell,female,6/1964,34476,,High School,Unemployed,2,divorced,1,0.00,Own house,0,chronic bronchitis
+Colton Walker,male,6/1939,59810,,High School,Retired,7,married,0,0.00,Own house,1,
+Zoe Anderson,female,2/1962,27431,35638,Bachelor,Employed,3,married,1,0.48,Own house,1,ovarian cancer
+Nicholas Poole,male,8/1944,37798,78172,Bachelor,Employed,1,divorced,1,2.12,Own flat,1,
+Noah Martinez,male,11/1996,74700,76388,Bachelor,Employed,1,married,2,0.19,Own house,2,
+Matthew Walters,male,1/1971,71371,94670,PhD/md,Employed,0,single,2,1.18,Own house,1,asbestosis
+Mia Mccoy,female,6/1953,84935,,High School,Retired,2,single,2,0.00,Own house,3,ovarian cancer
+Stella Adams,female,7/1987,34294,46126,Bachelor,Employed,1,married,1,0.44,Own flat,0,
+Christian Johnson,male,7/1940,55332,,High School,Retired,2,married,0,0.00,Rent house,1,lung cancer
+Anna Patel,female,12/1993,41138,41138,PhD/md,Employed,1,single,1,0.00,Own house,1,
+Aubree Kemp,female,4/1988,85415,85464,Bachelor,Employed,1,single,2,0.07,Rent house,0,
+Kylee Gomez,female,5/1968,34762,29595,High School,Employed,1,married,0,0.19,Rent flat,0,
+Laila Pugh,female,1/1999,37482,33409,Bachelor,Student,1,married,1,0.27,Rent room,0,
+Roman Haley,male,3/1957,53446,53446,High School,Employed,4,divorced,1,0.00,Own house,1,
+Brooke Dixon,female,12/1952,95623,,Bachelor,Retired,1,married,1,0.00,Own house,2,transient ischemic attack
+Lucas Roberts,male,4/1974,66707,62036,Masters,Employed,2,married,3,0.18,Own house,2,colon cancer
+Brady Wagner,male,5/1959,59553,68341,High School,Employed,1,widowed,1,0.67,Own flat,2,pneumonia
+Camden Simpson,male,12/1957,92704,99999,Less than High School,Employed,2,married,0,0.34,Rent house,1,chronic bronchitis
+Henry Grant,male,6/1969,93423,,High School,Unemployed,3,married,0,0.00,Rent house,0,
+Dylan Love,male,9/1950,79478,,High School,Retired,1,divorced,1,0.00,Rent flat,1,
+Owen Watson,male,10/1966,50963,,High School,Unemployed,1,married,0,0.00,Rent house,0,
+Gianna Galvan,female,9/1983,17319,10000,Masters,Employed,1,divorced,2,0.22,Own flat,0,
+Mia Erickson,female,7/1989,36757,27789,Bachelor,Employed,1,married,2,0.35,Own house,0,transient ischemic attack
+Brandon Simpson,male,7/1945,68903,,High School,Retired,1,widowed,2,0.00,Own flat,1,
+Londyn Johnson,female,10/1964,48363,47836,Bachelor,Employed,1,married,2,0.00,Own house,1,
+Maxwell Taylor,male,10/1960,52529,49198,Masters,Employed,4,widowed,2,0.21,Own house,1,
+Cora Daniels,female,7/1958,55291,70482,High School,Employed,2,widowed,0,0.78,Rent house,1,
+Bella Garcia,female,10/1995,38863,,High School,Unemployed,3,married,1,0.00,Rent house,1,
+Claire Smith,female,10/1998,61152,61093,Bachelor,Student,2,divorced,0,0.00,Own house,1,
+Avery Washington,female,5/1978,63034,65581,Less than High School,Employed,2,divorced,0,0.15,Own house,1,
+Emilia Conner,female,1/1943,36736,,High School,Retired,2,single,1,0.00,Own house,1,
+Sofia Alvarez,female,7/1933,59685,,Less than High School,Retired,1,single,2,0.00,Own flat,2,chronic bronchitis
+Molly Davis,female,6/1974,63791,63227,High School,Employed,1,married,2,0.12,Own flat,0,hemorrhagic stroke
+Miguel Richardson,male,7/1968,48218,57284,High School,Employed,3,married,0,0.38,Own house,1,
+Hunter James,male,5/1987,95976,99999,Bachelor,Employed,2,married,1,0.36,Own house,1,
+Levi Martinez,male,7/1988,95228,42498,Masters,Employed,2,married,3,2.77,Own house,0,
+Christopher Woodard,male,5/1935,45017,,Less than High School,Retired,1,married,1,0.00,Own house,0,
+Alexander Johnson,male,3/1998,97860,,Bachelor,Unemployed,2,divorced,1,0.00,Rent house,0,
+Maya Pope,female,9/1972,41790,54244,High School,Employed,1,married,0,0.67,Rent flat,0,
+Kevin Fry,male,11/1992,66049,65490,Masters,Employed,1,married,1,0.00,Rent flat,0,
+Bella Martinez,female,9/1984,34689,29921,High School,Employed,2,married,1,0.26,Own house,1,
+Benjamin Luna,male,9/1968,80344,86073,Bachelor,Employed,2,married,2,0.32,Own house,1,
+Mia Soto,female,9/1958,47696,52727,PhD/md,Employed,0,single,1,0.25,Own house,2,
+Luke Lopez,male,9/1981,94268,96546,Bachelor,Employed,1,married,0,0.01,Own flat,1,
+Tyler Alexander,male,3/1975,20473,10000,Masters,Employed,2,married,1,0.36,Own house,0,colon cancer
+Naomi Johnson,female,1/1948,93498,,Masters,Retired,2,married,1,0.00,Own house,0,
+Audrey Gordon,female,2/1956,14345,,High School,Unemployed,1,divorced,2,0.00,Rent house,1,
+Lauren Evans,female,11/1953,75206,,High School,Retired,1,married,1,0.00,Own house,2,chronic bronchitis
+Paige Reed,female,10/1945,81534,,High School,Retired,1,divorced,0,0.00,Rent room,1,
+Sophia Henry,female,2/1960,38113,,Bachelor,Unemployed,2,married,2,0.00,Own house,1,
+Sofia Smith,female,9/1935,61125,,Masters,Retired,0,divorced,1,0.00,Own flat,2,
+Sarah Brown,female,2/1964,97872,97243,PhD/md,Employed,2,married,2,0.05,Own house,1,transient ischemic attack
+Matthew Moore,male,10/1964,33684,30097,High School,Employed,2,married,0,0.16,Rent house,0,
+Colin Love,male,10/1938,93351,,High School,Retired,1,widowed,1,0.00,Own house,2,
+Greyson Porter,male,3/1941,85933,,Bachelor,Retired,1,divorced,2,0.00,Rent flat,1,
+Bennett Rodgers,male,2/1984,42144,45940,Masters,Employed,2,married,3,0.24,Rent house,2,
+Summer Romero,female,3/1959,32752,51212,High School,Employed,1,widowed,0,0.87,Rent flat,1,chronic bronchitis
+Audrey Roman,female,11/1956,43231,43244,Masters,Employed,2,divorced,2,0.00,Own house,0,
+Oliver Lopez,male,1/1959,42476,44865,High School,Employed,1,married,1,0.01,Own flat,1,
+Alex Shelton,male,2/1985,33705,24953,High School,Employed,1,divorced,1,0.44,Own house,0,
+Wyatt Summers,male,12/1958,43555,,Less than High School,Retired,1,married,2,0.00,Own flat,0,
+Aaliyah Price,female,6/1936,19181,,High School,Retired,1,married,2,0.00,Own house,0,lung cancer
+Lydia Reynolds,female,8/1958,97233,90554,Masters,Employed,1,divorced,3,0.49,Own house,1,
+Noah West,male,10/1935,47051,,High School,Retired,2,married,0,0.00,Rent house,1,pneumonia
+Avery Morales,female,7/1999,65491,71022,High School,Employed,1,married,0,0.43,Rent flat,0,
+Robert Montoya,male,4/1958,28728,95661,Bachelor,Employed,1,divorced,1,3.42,Own house,1,asthma
+Jonathan Morrison,male,4/1932,90092,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,asbestosis
+Abraham Wilson,male,10/1987,29155,22672,Masters,Employed,1,married,1,0.42,Own flat,0,colon cancer
+Sebastian Serrano,male,1/1980,93207,85013,Bachelor,Employed,2,married,2,0.14,Own house,0,
+Luke Alvarado,male,3/1978,76309,76309,High School,Employed,1,married,1,0.00,Own flat,1,
+Natalie Hubbard,female,9/1980,64816,55520,PhD/md,Employed,0,married,2,0.34,Own flat,1,
+Gabriella Dunn,female,10/1979,79874,72720,Masters,Employed,1,married,1,0.42,Own flat,0,
+Elizabeth Bautista,female,3/1945,99705,,Less than High School,Retired,2,married,1,0.00,Own house,2,
+Tristan Ellis,male,3/1960,59264,59264,High School,Employed,0,single,2,0.00,Own house,2,asbestosis
+Lincoln Morrison,male,6/1973,17044,,High School,Unemployed,2,divorced,0,0.00,Rent house,1,
+Brooklyn White,female,9/1997,66904,70897,High School,Student,1,married,1,0.31,Rent house,0,colon cancer
+Max Miller,male,7/1995,46559,49210,Less than High School,Employed,2,married,0,0.22,Rent house,2,skin cancer
+Michelle Nichols,female,3/1965,27485,,Bachelor,Retired,2,single,1,0.00,Own house,0,
+Adalynn Ortiz,female,8/1940,13617,15538,High School,Employed,1,divorced,0,0.09,Rent flat,0,
+Riley Rodgers,female,12/1942,96539,,Bachelor,Retired,1,married,1,0.00,Own flat,0,
+Easton Ray,male,11/1942,57833,,Bachelor,Retired,2,widowed,0,0.00,Own house,2,
+Oliver Schroeder,male,9/1935,94676,,High School,Retired,1,widowed,0,0.00,Rent room,0,
+Malachi Campbell,male,1/1995,81453,46682,Less than High School,Employed,3,married,1,1.62,Own house,0,
+Jase Huber,male,10/1988,15893,15869,High School,Employed,1,married,1,0.14,Own flat,1,
+Hannah Nunez,female,1/1959,76348,74535,Masters,Employed,1,married,1,0.13,Own flat,1,
+Amelia Hernandez,female,11/1972,26459,11937,Bachelor,Employed,1,divorced,0,0.76,Rent flat,1,
+Taylor Serrano,female,3/1948,70060,,Masters,Retired,1,married,1,0.00,Own house,2,brain stem stroke
+Cameron Mitchell,male,1/1934,50472,,Bachelor,Retired,1,divorced,1,0.00,Own flat,0,pleural effusion
+Bella Howell,female,4/1943,53837,,PhD/md,Retired,2,widowed,1,0.00,Own house,0,
+Sarah Hernandez,female,2/1978,89620,89737,Less than High School,Employed,9,married,0,0.00,Own house,0,
+Wesley Cox,male,5/1993,59289,28491,Bachelor,Employed,1,married,1,1.51,Own flat,0,pneumonia
+Sophia Frazier,female,5/1984,86621,82734,High School,Employed,2,divorced,1,0.09,Own house,0,
+Jessica Gallagher,female,12/1932,51546,,Bachelor,Retired,1,married,1,0.00,Own flat,0,
+Mason Wu,male,8/1989,49753,48397,Less than High School,Employed,1,single,1,0.11,Own flat,1,
+Lincoln Vazquez,male,11/1941,20825,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,1,
+Sophia Christensen,female,10/1977,17156,12752,Bachelor,Employed,1,married,2,0.34,Own flat,1,
+Leah Johnson,female,12/1972,83243,80375,Masters,Employed,1,married,2,0.24,Rent house,1,
+Ayden Robertson,male,3/1990,69911,63044,Less than High School,Employed,3,married,1,0.42,Own house,0,
+Brandon Rodriguez,male,4/1977,88542,88226,High School,Employed,1,divorced,0,0.00,Rent flat,2,
+Jack Juarez,male,3/1933,96360,,High School,Retired,1,divorced,2,0.00,Own house,1,pneumonia
+Max Salas,male,10/1960,64456,73846,High School,Employed,1,married,1,0.47,Own flat,1,
+Ryder Lane,male,7/1987,87820,62712,Bachelor,Employed,0,single,1,1.30,Own flat,1,colon cancer
+Katherine Cannon,female,12/1943,57254,,Bachelor,Retired,1,divorced,1,0.00,Own flat,0,
+Kaylee Lloyd,female,2/1948,65709,,Bachelor,Retired,2,married,1,0.00,Own house,2,
+Rachel Vaughan,female,5/1979,39582,,Bachelor,Unemployed,1,married,0,0.00,Own flat,1,
+Connor Patton,male,6/1971,33406,34864,Bachelor,Employed,3,single,0,0.14,Rent house,1,
+Liliana Lane,female,12/1992,55082,43710,High School,Employed,1,married,1,0.59,Own flat,1,pleural effusion
+Bella Garrett,female,10/1955,17311,,PhD/md,Retired,3,widowed,1,0.00,Own house,1,pneumonia
+Payton Lindsey,female,8/1989,26011,26011,Bachelor,Employed,1,divorced,0,0.00,Rent flat,0,
+Madelyn Baker,female,9/1972,42193,42447,Less than High School,Student,1,married,0,0.00,Rent house,0,
+Angel Medina,male,11/1965,50217,50194,High School,Employed,3,married,1,0.06,Own house,1,
+Makayla Wood,female,1/1936,19627,,Bachelor,Retired,1,divorced,2,0.00,Own flat,2,
+Mateo Vazquez,male,7/1958,59758,,High School,Retired,1,divorced,0,0.00,Rent flat,1,lung cancer
+Andrea Wiley,female,1/1972,37531,42140,Bachelor,Employed,1,married,2,0.08,Own flat,1,
+Joshua Bruce,male,10/1969,22186,,Bachelor,Unemployed,2,married,0,0.00,Rent house,1,pleural plaques
+Brody Warren,male,7/1940,48098,,Masters,Retired,1,married,1,0.00,Own flat,3,
+Kayden Gamble,male,5/1950,51166,,Less than High School,Retired,1,married,2,0.00,Own flat,1,skin cancer
+Nathaniel Mcknight,male,12/1933,14009,,Bachelor,Retired,1,divorced,0,0.00,Rent room,0,asthma
+Catherine Kelly,female,8/1955,27148,,High School,Retired,1,divorced,1,0.00,Rent flat,1,
+Isabella Duncan,female,10/1970,69975,65254,High School,Employed,2,divorced,1,0.24,Own house,1,
+Aiden Watts,male,3/1936,82261,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Kendall Rodriguez,female,5/1935,43781,,Bachelor,Retired,3,single,0,0.00,Own house,0,
+Sophia Powers,female,2/1939,99699,,Bachelor,Retired,2,married,1,0.00,Own house,1,
+Mason Hurley,male,8/1966,85770,69035,Bachelor,Employed,1,married,1,1.02,Own flat,2,transient ischemic attack
+Valeria Ochoa,female,8/1988,29960,28279,High School,Employed,1,divorced,1,0.15,Rent house,0,
+Layla Hill,female,1/1957,21778,10000,Masters,Employed,1,widowed,3,0.62,Own flat,3,skin cancer
+Abigail Barnes,female,1/1982,69613,67300,PhD/md,Employed,1,married,1,0.08,Own house,1,
+Mateo Griffin,male,8/1954,58082,58082,High School,Employed,2,married,0,0.00,Rent house,2,
+Hazel Richardson,female,10/1952,16917,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,0,
+Alice Howell,female,11/1955,36601,,Bachelor,Retired,1,married,2,0.00,Own house,1,
+Elise Greene,female,11/1935,71517,,High School,Retired,1,married,2,0.00,Own house,1,
+Reese Smith,female,5/1957,26567,,High School,Retired,3,married,1,0.00,Own house,1,
+Jacob Hogan,male,4/1984,87375,,Bachelor,Unemployed,3,married,0,0.00,Rent house,1,
+William Becker,male,4/1997,17234,19391,High School,Student,0,single,0,0.26,Rent room,0,
+Jaxson Lee,male,8/1967,26723,23233,PhD/md,Employed,1,widowed,3,0.20,Own flat,0,
+Samuel Vazquez,male,7/1964,85644,81901,High School,Employed,1,married,0,0.23,Rent flat,1,
+Samantha Esparza,female,3/1980,21876,19795,Bachelor,Employed,1,married,0,0.00,Rent house,1,
+Skylar Schmidt,female,7/1944,19584,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Bailey Riley,female,11/1957,83907,,High School,Unemployed,5,married,1,0.00,Rent house,0,
+Lyla Dickson,female,6/1949,71159,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Madison Miller,female,6/1935,58603,,Masters,Retired,1,single,1,0.00,Own flat,1,chronic bronchitis
+Preston Buck,male,2/1987,65650,43602,High School,Employed,1,married,2,1.23,Rent house,2,
+Addison Snow,female,12/1999,73286,79937,Bachelor,Employed,1,divorced,1,0.28,Own house,0,
+Ella Gonzales,female,7/1949,19867,,Bachelor,Retired,1,married,0,0.00,Rent room,1,
+Victor Golden,male,1/1960,95852,88233,High School,Employed,2,married,0,0.40,Rent house,1,pleural effusion
+Kinsley Henderson,female,9/1993,79392,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Oliver Schultz,male,4/1987,50327,,Masters,Unemployed,1,married,0,0.00,Rent house,0,
+Julian Hernandez,male,5/1981,61157,73741,PhD/md,Employed,1,divorced,1,0.75,Rent flat,1,
+Khloe Johnston,female,10/1989,45329,40987,High School,Employed,1,married,1,0.26,Rent flat,2,
+Kaylee Griffin,female,12/1963,25204,32671,PhD/md,Employed,1,married,1,0.41,Own house,1,
+Ella Neal,female,8/1966,24590,31128,High School,Employed,1,married,1,0.31,Own flat,1,
+Alexis Baker,female,12/1978,89785,89267,Bachelor,Employed,3,married,0,0.11,Rent house,1,
+Logan Clark,male,9/1952,49310,,High School,Retired,1,single,0,0.00,Rent flat,2,
+Henry Crosby,male,5/1977,35460,34596,High School,Student,1,married,1,0.00,Own house,1,
+Austin Chan,male,2/1947,90356,,High School,Retired,1,divorced,0,0.00,Own flat,0,
+Kaden Garcia,male,6/1986,22002,18372,Bachelor,Employed,2,married,1,0.26,Own house,0,lung cancer
+Grace Fowler,female,11/1979,96278,93429,Bachelor,Employed,1,single,1,0.15,Own flat,0,
+Hazel Brennan,female,4/1975,37330,46022,Masters,Employed,1,married,2,0.50,Own house,1,
+Mila Nixon,female,3/1980,20994,26442,Less than High School,Student,1,married,0,0.37,Rent room,1,
+Evan Duke,male,1/1941,38030,,Bachelor,Retired,2,married,0,0.00,Rent house,0,
+Ezra Cain,male,5/1956,27548,32351,High School,Employed,1,divorced,1,0.11,Own flat,0,pleural plaques
+Paige Henderson,female,9/1956,55791,55898,High School,Employed,2,married,1,0.01,Own house,3,asthma
+Alexa Fernandez,female,11/1943,71408,,Bachelor,Retired,4,married,1,0.00,Own house,1,
+Mason Armstrong,male,1/1944,94517,,Masters,Retired,1,married,1,0.00,Own flat,1,
+Noah Martin,male,7/1961,73750,75167,Bachelor,Employed,1,divorced,0,0.11,Rent flat,1,
+Zoey Owens,female,5/1938,36461,,Less than High School,Retired,1,widowed,0,0.00,Own flat,3,
+Leonardo Perez,male,7/1944,73170,,Less than High School,Retired,3,married,0,0.00,Own house,0,
+Luke Gomez,male,9/1951,56609,,High School,Retired,1,widowed,1,0.00,Own flat,2,
+Parker Schwartz,male,12/1934,46710,,Bachelor,Retired,0,single,2,0.00,Own flat,0,
+Max Lloyd,male,11/1966,21294,23430,Less than High School,Employed,2,married,0,0.00,Rent house,0,
+Logan Williams,male,8/1945,15191,,High School,Retired,1,widowed,1,0.00,Own flat,0,
+Jose Dennis,male,12/1960,17536,,Bachelor,Unemployed,1,divorced,2,0.00,Rent flat,3,
+Isaiah Bright,male,1/1975,73981,73377,Masters,Student,1,divorced,1,0.00,Own house,0,
+Hannah Caldwell,female,3/1984,40543,34473,Bachelor,Employed,1,divorced,0,0.16,Rent flat,0,
+Jacob Miller,male,11/1964,68976,,High School,Retired,1,single,1,0.00,Own flat,0,pleural effusion
+Aria Jones,female,8/1994,55749,67406,High School,Employed,5,divorced,1,0.45,Own house,0,
+Layla Allen,female,9/1966,12287,23147,Bachelor,Employed,0,single,0,0.32,Rent flat,0,transient ischemic attack
+Alaina Rodriguez,female,7/1934,92569,,Masters,Retired,1,married,1,0.00,Own house,1,
+Eric Davis,male,5/1940,20104,,Bachelor,Retired,2,single,1,0.00,Own house,1,transient ischemic attack
+Zoey Holden,female,12/1937,24795,,Less than High School,Retired,1,divorced,0,0.00,Rent flat,0,
+Isabelle Roach,female,10/1973,87300,,Bachelor,Unemployed,1,single,1,0.00,Rent flat,0,pneumonia
+Serenity Morgan,female,9/1943,95351,,High School,Retired,0,widowed,2,0.00,Own flat,1,
+Ashley Harris,female,2/1977,48616,42874,High School,Employed,3,married,0,0.18,Rent house,0,pneumonia
+Elizabeth Small,female,11/1938,44890,,High School,Retired,1,widowed,1,0.00,Rent flat,1,
+Lucas Fuller,male,10/1984,48149,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Kinsley Pope,female,11/1982,20679,27924,High School,Employed,1,divorced,2,0.45,Own house,0,
+James Wright,male,4/1980,84839,87804,High School,Employed,1,married,1,0.11,Own flat,1,
+Avery Roberts,female,4/1957,25783,26944,Bachelor,Employed,1,married,1,0.06,Rent house,1,
+Evan Parker,male,5/1954,60321,,Bachelor,Retired,1,widowed,1,0.00,Own house,1,chronic bronchitis
+Mia Villanueva,female,12/1983,65888,50494,High School,Employed,1,married,2,0.75,Own flat,2,
+Madison Bailey,female,4/2002,12138,10000,High School,Student,0,single,2,0.09,Own house,0,pleural effusion
+Michael Hampton,male,10/1956,85490,,Masters,Unemployed,1,divorced,0,0.00,Rent flat,1,
+Mason Nixon,male,10/1959,84856,,Less than High School,Retired,1,widowed,0,0.00,Rent flat,3,
+Audrey Hunter,female,5/1994,77354,78582,Masters,Employed,0,single,2,0.08,Own flat,0,
+Bella Mejia,female,9/1938,55706,,High School,Retired,2,married,0,0.00,Rent house,0,
+Jacob Vance,male,7/1941,35519,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Grayson Grant,male,6/1950,59353,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,
+Isabella Evans,female,2/1983,74714,71813,Bachelor,Employed,2,married,1,0.16,Own house,1,
+Hazel Howell,female,4/1947,98452,,High School,Retired,1,married,1,0.00,Own house,1,
+Bailey Peterson,female,6/1951,51197,,PhD/md,Retired,2,married,1,0.00,Own house,0,
+Hadley Shaffer,female,8/1980,65329,,Less than High School,Unemployed,1,married,0,0.00,Rent flat,2,
+Brody Williams,male,3/1942,21765,,High School,Retired,2,married,0,0.00,Rent house,1,pleural plaques
+David Stevens,male,2/1960,61319,93718,Masters,Employed,3,divorced,2,1.77,Own house,1,
+Allison Burns,female,10/1998,22149,17455,High School,Student,0,single,0,0.37,Own house,2,
+Isaac Jackson,male,12/1933,66703,,High School,Retired,1,married,1,0.00,Own flat,2,
+Ella Price,female,12/1940,18308,,Masters,Retired,1,married,1,0.00,Own flat,1,
+Jeremiah Pena,male,10/1942,44149,,High School,Retired,1,married,2,0.00,Own flat,3,asbestosis
+Jordan Hernandez,male,3/1932,86311,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Gabriel Clark,male,5/1960,73390,,Less than High School,Retired,2,divorced,1,0.00,Own house,0,pneumonia
+Clara Collins,female,2/1992,91907,87414,Bachelor,Employed,1,married,2,0.27,Own house,2,colon cancer
+Justin Nielsen,male,2/1938,69197,,PhD/md,Retired,2,married,2,0.00,Own house,1,
+Jonah Silva,male,9/1964,44688,56806,PhD/md,Employed,3,married,2,0.72,Own house,1,
+Mia Aguirre,female,3/1996,35451,24591,High School,Student,1,married,1,0.75,Own house,0,transient ischemic attack
+Connor Ramirez,male,9/1991,92687,82042,Masters,Employed,1,married,1,0.46,Own house,0,
+Isabelle Hunt,female,10/1964,35875,40331,Bachelor,Employed,2,divorced,2,0.15,Own house,1,transient ischemic attack
+William Meyers,male,9/1979,36572,40529,Bachelor,Employed,0,single,0,0.38,Own flat,1,
+Mariah Salinas,female,12/1977,80250,81918,Less than High School,Employed,1,married,0,0.00,Rent flat,0,
+Greyson Bradley,male,7/1937,11642,,High School,Retired,1,divorced,0,0.00,Rent flat,1,pneumonia
+Sophia Wright,female,10/1999,71310,83576,High School,Student,0,single,1,0.64,Rent house,0,pleural plaques
+Noah Pennington,male,5/1984,19398,19592,High School,Employed,5,married,0,0.00,Rent house,0,pneumonia
+Nevaeh Johnson,female,9/1943,35126,,Less than High School,Retired,2,widowed,1,0.00,Own house,1,
+Rylan Olsen,male,12/1971,77740,35839,High School,Employed,1,married,1,2.06,Own flat,0,
+Kayla Rowland,female,6/1953,46150,,Masters,Retired,2,divorced,2,0.00,Own house,1,
+Mya Hines,female,8/1955,59964,,Bachelor,Retired,1,married,1,0.00,Own house,1,
+Summer Moore,female,10/1935,14926,,Bachelor,Retired,1,married,1,0.00,Rent flat,1,asthma
+Miguel Wilson,male,10/1943,38265,,Masters,Retired,1,married,3,0.00,Own flat,3,
+Penelope Becker,female,9/1932,30053,45385,Bachelor,Employed,1,married,1,0.68,Own flat,1,
+Nicolas Carr,male,7/1972,74237,64904,Less than High School,Employed,5,married,1,0.35,Own flat,2,
+Autumn Miller,female,5/1951,24337,,High School,Retired,1,married,1,0.00,Own house,3,
+Lillian Mills,female,12/1960,82629,90118,Masters,Employed,1,married,3,0.41,Own flat,2,
+Riley Schwartz,female,7/1968,27593,,Bachelor,Unemployed,1,married,2,0.00,Rent flat,1,
+Asher Warren,male,11/1985,51648,62904,Masters,Employed,1,divorced,1,0.56,Own flat,0,
+Jade Hicks,female,8/1975,12374,12374,Bachelor,Employed,1,married,0,0.00,Rent flat,1,
+Oliver Rivera,male,1/1936,41409,,Bachelor,Retired,1,married,2,0.00,Own flat,0,
+Aria Howell,female,9/1978,78619,81472,Bachelor,Employed,1,married,0,0.07,Own flat,0,
+Leo Nielsen,male,9/1957,22300,23870,Less than High School,Employed,2,married,1,0.01,Own house,0,
+Faith White,female,5/1993,33596,34353,Bachelor,Employed,3,married,0,0.00,Rent house,0,
+Evelyn Russell,female,7/1989,61066,54319,Bachelor,Employed,1,divorced,0,0.28,Rent flat,0,
+Ayden Miller,male,7/1993,68150,36154,High School,Employed,1,divorced,1,1.70,Own flat,0,asbestosis
+Morgan Nelson,female,5/1972,31591,46828,Less than High School,Employed,1,married,2,0.70,Own flat,0,
+Andrew Morrison,male,4/1960,51839,60865,Bachelor,Employed,0,single,1,0.56,Own flat,1,
+Katherine Hurley,female,9/1987,51804,51373,Masters,Employed,1,married,1,0.00,Own house,0,
+Ella Edwards,female,4/1952,68901,,Masters,Retired,1,married,2,0.00,Own flat,1,lung cancer
+Connor Duncan,male,11/2002,33583,32412,High School,Student,0,widowed,1,0.00,Own house,2,
+Makayla Rocha,female,3/1960,82212,76066,Bachelor,Employed,2,married,1,0.42,Own house,0,
+Sebastian Perez,male,9/1955,45590,,Masters,Retired,1,widowed,1,0.00,Own flat,1,pleural plaques
+Reese Weiss,female,9/1951,22940,,Bachelor,Retired,2,divorced,2,0.00,Own house,3,pleural effusion
+Layla Edwards,female,10/1949,16836,,High School,Retired,3,married,2,0.00,Own house,1,
+Lucy Flores,female,3/1975,15783,11185,Bachelor,Employed,1,divorced,2,0.12,Own house,0,
+Mason Haynes,male,6/1948,68866,,High School,Retired,1,married,1,0.00,Own flat,0,
+Carter Ward,male,11/1938,81154,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Caleb Roberts,male,8/1978,18126,19378,High School,Employed,1,married,1,0.10,Own flat,1,pneumonia
+Hunter Sanchez,male,2/1943,50622,,Masters,Retired,1,married,2,0.00,Own flat,1,
+Harper Williams,female,8/1972,73215,69634,Bachelor,Employed,1,married,1,0.22,Own flat,1,
+James Fowler,male,4/1988,87615,88378,High School,Employed,2,divorced,1,0.00,Own house,0,transient ischemic attack
+Michael Greer,male,1/1994,91705,99714,Bachelor,Employed,1,married,2,0.51,Own flat,1,asbestosis
+Sophia Hayden,female,10/1947,92148,,Masters,Retired,1,widowed,1,0.00,Own house,1,
+Luke Coleman,male,3/1963,22451,,Bachelor,Retired,0,single,1,0.00,Own flat,1,
+Jaxon Johnson,male,12/1970,12174,23047,High School,Student,2,divorced,1,0.53,Rent room,0,lung cancer
+Emma Villarreal,female,4/1967,75391,72733,Masters,Employed,0,single,1,0.04,Own house,0,lung cancer
+Bailey Jackson,female,11/1940,42327,,Bachelor,Retired,2,divorced,1,0.00,Own house,1,
+Ethan Melendez,male,10/1979,88566,90478,High School,Employed,1,married,1,0.20,Own flat,1,
+Amelia Johnson,female,11/1982,27682,27682,High School,Employed,1,married,1,0.00,Own house,2,brain stem stroke
+Isabella Ochoa,female,10/1935,18618,,Less than High School,Retired,2,married,2,0.00,Own house,3,
+Oliver Wilson,male,5/1950,97907,,High School,Retired,0,single,2,0.00,Rent house,2,lung cancer
+Mila Frank,female,3/1944,59337,,Bachelor,Retired,1,divorced,0,0.00,Own flat,1,
+Kimberly Anderson,female,9/1982,60162,64596,Less than High School,Employed,1,single,2,0.09,Rent flat,0,
+Sophie Williams,female,8/1940,13741,,Bachelor,Retired,1,widowed,0,0.00,Own flat,1,
+Joshua Chavez,male,11/1939,17329,,High School,Retired,1,widowed,1,0.00,Rent house,1,
+Elias Ruiz,male,2/1983,38046,41732,Bachelor,Employed,1,married,1,0.33,Own flat,1,
+Adrian Davis,male,3/1937,33174,,Bachelor,Retired,0,divorced,0,0.00,Own flat,3,
+Robert Hardin,male,6/1933,78819,,PhD/md,Retired,1,married,1,0.00,Own flat,0,
+Lucas Shaffer,male,9/1982,34250,26098,PhD/md,Employed,2,married,3,0.46,Own house,0,
+Ariana Francis,female,7/1984,48973,49507,Masters,Employed,1,married,2,0.00,Own house,0,
+Parker Perez,male,6/1987,89067,96694,High School,Employed,1,married,2,0.36,Own flat,0,
+Nolan Mullen,male,6/1964,74795,66696,PhD/md,Employed,3,married,2,0.40,Own house,0,
+Lucas Mendoza,male,1/1932,69067,,High School,Retired,1,divorced,2,0.00,Own flat,0,
+Allison Johnson,female,1/1938,72530,,High School,Retired,1,married,0,0.00,Own flat,1,asthma
+Sophie Rivera,female,11/1968,18358,21725,Less than High School,Employed,1,married,1,0.36,Rent flat,2,
+Kimberly Wells,female,9/1948,74425,,High School,Retired,1,married,1,0.00,Own flat,1,
+Aubrey Becker,female,5/1990,65317,66947,PhD/md,Employed,4,divorced,2,0.13,Own house,0,brain stem stroke
+Melody Owen,female,5/1964,34908,45198,Bachelor,Employed,1,married,0,0.33,Rent flat,0,
+Nevaeh Moore,female,1/1965,89734,,High School,Retired,1,married,1,0.00,Own flat,3,chronic bronchitis
+Elena Herrera,female,1/2000,13761,12875,Bachelor,Student,1,married,1,0.00,Rent room,0,
+Lyla Rogers,female,10/1971,83242,87709,Bachelor,Employed,1,divorced,0,0.14,Rent flat,1,
+Elizabeth Stark,female,12/1973,74670,72447,Bachelor,Employed,1,divorced,0,0.08,Rent flat,1,
+Leo Gonzales,male,11/1976,40377,39827,Masters,Employed,1,married,2,0.13,Rent flat,2,skin cancer
+Aubrey Gaines,female,6/1974,55412,45509,Masters,Employed,1,married,1,0.54,Own flat,1,hemorrhagic stroke
+Tristan Bell,male,6/1985,27856,27856,High School,Employed,3,married,1,0.00,Own house,2,
+Adeline Howell,female,8/1960,44890,44890,Bachelor,Employed,2,widowed,2,0.00,Own house,2,asbestosis
+Mia Robinson,female,5/1997,31145,33410,High School,Student,0,single,0,0.27,Rent room,0,
+Aria Silva,female,2/2001,10460,,High School,Unemployed,0,single,0,0.00,Rent room,0,
+Audrey Wall,female,7/1945,28837,,Less than High School,Retired,2,divorced,2,0.00,Own house,1,chronic bronchitis
+Valeria Santana,female,7/1948,15801,,High School,Retired,2,married,0,0.00,Own house,1,asbestosis
+Vincent Williams,male,5/1955,41509,,Bachelor,Retired,1,widowed,1,0.00,Own flat,1,
+Eliana Cunningham,female,1/1980,88093,90267,Bachelor,Employed,1,married,1,0.00,Own flat,1,
+Avery Davis,female,7/1966,63777,81663,High School,Employed,1,married,0,0.82,Rent flat,1,
+Madelyn Stewart,female,1/1971,74987,82002,High School,Employed,2,married,1,0.52,Own house,0,ovarian cancer
+Landon Garrett,male,2/1988,48297,50416,High School,Employed,1,married,2,0.18,Own flat,1,
+William Brown,male,10/1963,95021,99212,High School,Employed,1,divorced,1,0.23,Own flat,1,
+Riley Murray,female,8/1938,43384,,Masters,Retired,2,married,1,0.00,Own flat,2,
+Laila Garcia,female,6/1935,40145,,High School,Retired,1,married,0,0.00,Rent flat,1,pneumonia
+Audrey Wilson,female,7/1978,88268,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Declan Schultz,male,10/1999,92643,89637,Bachelor,Employed,1,married,1,0.07,Own flat,0,
+Khloe Dickerson,female,12/1932,74896,,High School,Retired,1,widowed,1,0.00,Rent flat,0,skin cancer
+Julian Martin,male,5/1950,96184,,High School,Retired,0,single,0,0.00,Rent flat,0,
+Mateo Davis,male,5/1980,89398,34148,Masters,Employed,2,married,2,2.87,Own house,1,chronic bronchitis
+Hunter Rivera,male,2/1964,42261,42261,Masters,Employed,2,married,1,0.00,Own house,1,
+Elizabeth Montoya,female,9/1948,45303,,PhD/md,Retired,0,single,2,0.00,Own flat,0,
+Zoey Lee,female,5/1954,31436,,High School,Retired,1,widowed,2,0.00,Own flat,0,transient ischemic attack
+Matthew Blackwell,male,3/1994,99340,89790,Masters,Employed,0,widowed,2,0.39,Own flat,0,
+Gracie Wolfe,female,10/1968,45318,45823,High School,Employed,1,married,2,0.03,Own flat,1,asbestosis
+Jonah Butler,male,1/1995,32611,31811,Bachelor,Student,1,married,0,0.10,Rent room,1,
+Olivia Lopez,female,4/1982,43101,41497,High School,Employed,1,married,1,0.07,Own flat,0,
+Landon Mcconnell,male,6/1948,21422,,Less than High School,Retired,2,married,1,0.00,Own house,1,
+William Harding,male,3/1961,59709,63530,High School,Employed,1,divorced,2,0.30,Own house,1,
+Nolan Williams,male,10/1957,96119,,High School,Unemployed,0,single,2,0.00,Rent flat,1,
+Madison Rosales,female,2/1966,64322,64322,Bachelor,Employed,2,married,1,0.00,Own house,1,pneumonia
+Henry Vargas,male,12/1945,11406,,Less than High School,Retired,0,single,0,0.00,Rent flat,1,hemorrhagic stroke
+Lucas Roberts,male,11/1986,13339,12637,PhD/md,Employed,1,married,2,0.15,Own flat,0,
+Jase Ward,male,11/1973,48434,43879,Less than High School,Employed,2,divorced,1,0.29,Own house,2,chronic bronchitis
+Nicholas Walker,male,11/1975,86671,77211,High School,Employed,1,married,2,0.25,Own flat,0,
+Ariana Gray,female,3/1934,86273,,High School,Retired,1,widowed,1,0.00,Own house,0,
+Nicolas Robinson,male,9/1980,81097,79435,High School,Employed,1,single,0,0.18,Rent flat,2,skin cancer
+Rylee Rojas,female,12/1942,81921,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,asthma
+Piper Taylor,female,8/2000,52438,52438,High School,Employed,1,married,2,0.00,Own flat,0,
+Harper Harmon,female,5/1977,11166,11166,High School,Employed,1,married,0,0.00,Rent room,0,
+Avery Andersen,male,3/1941,30016,,Less than High School,Retired,1,married,2,0.00,Own flat,2,pneumonia
+Emma Pitts,female,2/1963,71393,67248,PhD/md,Employed,2,married,3,0.18,Own house,0,
+Adam Lewis,male,1/1948,46208,,High School,Retired,1,married,0,0.00,Rent flat,3,
+Jonathan Baxter,male,5/1962,74108,,Bachelor,Retired,1,married,0,0.00,Own flat,0,
+Wyatt Roberts,male,9/1958,84384,99387,Less than High School,Employed,1,single,2,0.73,Own flat,1,skin cancer
+Ian Kennedy,male,5/1947,44996,57599,High School,Employed,1,divorced,0,0.56,Rent flat,1,
+Kate White,female,6/1985,43345,26897,High School,Student,2,divorced,0,0.82,Rent room,0,
+Madison Cooper,female,11/1972,58054,49451,Less than High School,Employed,3,married,0,0.56,Rent house,0,
+Madison Poole,female,4/1964,96268,73803,Masters,Employed,1,married,1,1.08,Rent flat,1,pleural effusion
+James James,male,1/1980,78048,76600,Less than High School,Employed,2,married,1,0.19,Own house,2,
+Victor Thompson,male,11/1952,32362,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,0,asbestosis
+Jaxson Williams,male,3/1950,82381,,Masters,Retired,1,widowed,1,0.00,Own flat,3,
+Greyson Silva,male,2/1980,13187,20825,Bachelor,Employed,1,married,1,0.31,Own flat,0,
+Adrian Baker,male,3/1991,16429,,High School,Unemployed,2,married,0,0.00,Own flat,0,
+Nevaeh Bell,female,8/1995,58993,49686,High School,Employed,1,married,2,0.44,Own house,0,chronic bronchitis
+Joshua Davis,male,9/1935,87771,,High School,Retired,3,married,0,0.00,Rent house,1,pleural plaques
+Alexander Wright,male,10/1963,16362,,High School,Unemployed,1,divorced,2,0.00,Rent flat,0,
+Jessica Lang,female,1/1952,26698,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,hemorrhagic stroke
+Landon Miller,male,1/1991,64089,63747,High School,Employed,1,married,1,0.07,Rent house,0,
+Leo Duncan,male,5/1939,57122,,Masters,Retired,2,divorced,1,0.00,Own house,1,
+Adriana Stevens,female,1/1964,71431,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Sofia Clay,female,2/1997,16069,10000,Masters,Employed,0,single,2,0.38,Own house,1,
+Owen Vasquez,male,4/1963,12292,12904,PhD/md,Employed,2,married,1,0.15,Own house,1,skin cancer
+William Walter,male,10/1998,22126,12261,Bachelor,Student,1,married,2,0.58,Rent room,0,
+Ezra Gomez,male,11/1937,10907,,High School,Retired,3,married,0,0.00,Rent house,2,
+Caroline Farrell,female,10/1973,37182,35164,Less than High School,Employed,2,married,0,0.00,Own house,0,pleural plaques
+Lucas Walters,male,10/1955,29458,,High School,Retired,2,married,0,0.00,Rent house,1,
+Evelyn Webb,female,1/1978,14898,10000,High School,Employed,1,married,1,0.32,Own flat,1,
+Connor Hancock,male,1/1942,18960,,Bachelor,Retired,1,widowed,0,0.00,Rent room,0,
+Samantha Silva,female,11/1957,54372,56607,PhD/md,Employed,1,divorced,2,0.03,Own flat,1,
+Anna Young,female,8/1975,23351,44307,High School,Employed,2,married,2,1.01,Own house,0,
+Samuel Hart,male,6/1965,36480,,Bachelor,Retired,1,married,1,0.00,Own flat,2,
+John Myers,male,9/1985,12313,12315,Bachelor,Employed,2,divorced,0,0.00,Own house,1,
+David Snow,male,1/1953,20654,,High School,Retired,2,married,2,0.00,Own house,1,asbestosis
+Elijah Morris,male,5/1974,11035,10000,Masters,Employed,1,married,1,0.17,Own flat,0,hemorrhagic stroke
+Madeline Sanders,female,7/1937,79970,,Less than High School,Retired,3,married,1,0.00,Own house,1,
+Ava Mcclain,female,10/1955,73762,,High School,Retired,4,married,1,0.00,Own house,1,
+Michael Fernandez,male,1/1966,94587,94449,Bachelor,Employed,3,single,0,0.07,Rent house,0,
+Ruby Galvan,female,5/1980,44711,40144,High School,Employed,2,divorced,2,0.23,Own house,1,
+Noah Watts,male,12/1970,81419,91541,High School,Employed,1,married,2,0.63,Own house,1,
+Makenzie White,female,6/1950,64315,,Masters,Retired,1,divorced,1,0.00,Own flat,1,
+James Guzman,male,10/1950,93233,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Claire Perkins,female,10/1964,59328,39907,High School,Employed,4,married,0,1.12,Rent house,0,chronic bronchitis
+Christopher Frank,male,2/1932,65641,,Masters,Retired,1,divorced,2,0.00,Own flat,2,asthma
+Victor Galvan,male,2/1966,17221,17221,Bachelor,Employed,2,married,1,0.00,Own house,0,
+Jessica Palmer,female,4/1972,11746,22134,High School,Employed,1,married,2,0.55,Own flat,0,
+Anthony Graves,male,10/1996,16812,10000,Masters,Employed,0,single,2,0.39,Own flat,0,
+Eleanor Jensen,female,12/1958,32108,24972,Bachelor,Employed,1,widowed,1,0.32,Own flat,3,
+Oliver Perez,male,2/1991,65001,40814,Less than High School,Employed,1,married,0,1.33,Rent flat,1,
+Mila Parsons,female,5/1998,28865,26342,Bachelor,Student,1,divorced,0,0.31,Rent room,0,
+Alyssa Harris,female,1/2000,74769,74218,Bachelor,Student,1,married,0,0.18,Own house,1,
+Lillian Blair,female,10/1962,88344,,High School,Retired,3,married,2,0.00,Own flat,1,
+Gabriel Long,male,10/1946,17077,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,
+Ian Gregory,male,1/1959,73405,,Masters,Unemployed,1,divorced,1,0.00,Rent flat,0,
+Sofia Moore,female,2/1935,33704,,Masters,Retired,2,married,1,0.00,Rent house,3,
+Eleanor Lewis,female,12/1973,90589,85580,Bachelor,Employed,0,widowed,1,0.26,Rent flat,0,
+Mia Gonzalez,female,12/1960,16119,18200,Masters,Employed,2,widowed,1,0.04,Own house,1,
+Isabella Scott,female,11/1994,51399,,Bachelor,Unemployed,0,single,0,0.00,Own flat,0,
+Evelyn Ross,female,10/1954,42190,,Bachelor,Retired,1,married,1,0.00,Rent house,3,
+Charles Gallagher,male,5/1936,94326,,Bachelor,Retired,4,married,0,0.00,Rent house,1,
+Xavier Hicks,male,7/1965,92907,,High School,Unemployed,1,single,1,0.00,Rent house,1,
+Emma Clark,female,10/1999,38927,38927,Bachelor,Student,1,divorced,1,0.00,Rent room,0,
+Jordan Hart,male,8/1939,80646,,High School,Retired,4,married,1,0.00,Own house,0,
+Sawyer Delgado,male,12/1942,22156,,Masters,Retired,1,married,2,0.00,Own flat,2,
+Aiden Anderson,male,7/1966,24445,31338,PhD/md,Employed,2,divorced,2,0.36,Own house,3,
+Ivan Nunez,male,2/1950,32729,,High School,Retired,6,married,1,0.00,Own house,1,
+Luke Munoz,male,2/1951,80989,,Bachelor,Retired,2,widowed,0,0.00,Rent house,0,
+Ella Carr,female,3/1956,50197,49052,High School,Employed,3,married,2,0.00,Own house,0,skin cancer
+Robert Adams,male,6/1973,63356,62453,High School,Employed,1,married,2,0.13,Own flat,0,skin cancer
+Andrew Martinez,male,10/1956,51202,58831,High School,Employed,1,widowed,1,0.44,Own flat,0,colon cancer
+Caleb Nichols,male,3/1991,28186,25980,High School,Employed,2,married,2,0.00,Rent house,1,
+Rebecca Galvan,female,1/1988,81493,83179,Masters,Employed,2,married,2,0.07,Own house,0,
+Anna Schmidt,female,5/1935,48681,,Masters,Retired,2,divorced,1,0.00,Own house,1,
+Katherine Rosario,female,4/1955,98470,,Bachelor,Retired,2,married,2,0.00,Own house,1,
+Ayden Henry,male,2/1983,52727,67132,PhD/md,Employed,1,married,2,0.67,Own house,2,
+Alejandro Armstrong,male,6/1983,46190,52064,High School,Employed,1,divorced,0,0.23,Rent flat,0,
+Peyton Roach,female,11/1935,92854,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Layla Powell,female,5/1949,50691,,Masters,Retired,1,widowed,1,0.00,Own flat,1,
+Michael Montgomery,male,5/1968,80945,57293,Bachelor,Employed,1,married,0,1.23,Rent flat,0,
+Logan Parker,male,10/1950,54776,,Bachelor,Retired,2,divorced,0,0.00,Own house,3,
+Theodore Willis,male,1/1974,66387,70006,Masters,Employed,0,single,1,0.20,Own house,1,
+Connor Combs,male,4/1966,75250,75540,High School,Employed,1,married,1,0.00,Own flat,3,
+Julianna White,female,3/2001,28542,18529,High School,Student,0,married,1,0.66,Own house,0,
+Elias Anderson,male,10/1950,51176,,High School,Retired,1,married,1,0.00,Own house,2,
+Nicholas Montoya,male,6/1966,58731,60880,High School,Employed,1,married,0,0.20,Rent flat,1,
+Timothy Rowland,male,3/1969,97886,99999,Less than High School,Employed,1,divorced,2,0.02,Own house,0,
+Nicole Maynard,female,9/1946,90190,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,2,
+Justin Newton,male,2/1960,73164,72299,Bachelor,Employed,1,married,1,0.11,Own flat,0,
+Gage Smith,male,4/1993,78720,78191,Bachelor,Employed,1,married,2,0.03,Own flat,0,
+Mason Romero,male,12/1993,41098,36721,Bachelor,Employed,1,divorced,0,0.07,Rent room,0,
+Lucas Frank,male,12/1990,59127,63239,Less than High School,Employed,1,married,1,0.24,Own flat,0,
+Bryson Manning,male,11/1934,78318,,Less than High School,Retired,1,single,2,0.00,Own house,2,
+Declan Abbott,male,11/1951,82654,,Masters,Retired,1,divorced,1,0.00,Own house,1,
+Colin Johnson,male,2/1951,69673,,High School,Retired,1,married,1,0.00,Own house,2,
+Connor Anderson,male,1/1963,73570,,Bachelor,Retired,1,married,1,0.00,Own house,1,
+Laila Wilson,female,2/1990,47402,,High School,Unemployed,1,married,2,0.00,Own flat,0,
+Luke Maxwell,male,12/1934,93707,,High School,Retired,1,widowed,2,0.00,Own flat,1,
+Patrick Conway,male,4/1969,45849,81953,Masters,Employed,1,married,1,1.82,Rent flat,0,
+Ethan Webster,male,5/1985,65294,93379,Bachelor,Employed,1,married,1,1.50,Own house,0,
+Oliver Keller,male,1/1995,43551,43551,Masters,Employed,0,single,2,0.00,Own house,0,
+Oliver Brown,male,5/1957,81967,78936,Bachelor,Employed,1,married,1,0.17,Own flat,0,
+Jesse Bird,male,1/1956,99022,89710,Bachelor,Employed,0,married,2,0.62,Own flat,0,pleural plaques
+Nicholas Moore,male,8/1944,23102,,High School,Retired,2,married,0,0.00,Rent house,1,
+Jacob Williams,male,1/1998,77688,76352,High School,Student,0,married,1,0.22,Rent room,0,
+Sophia Jensen,female,9/1950,68601,,Masters,Retired,2,married,3,0.00,Own house,1,
+Isabella Barber,female,8/1953,50675,54509,Less than High School,Employed,2,married,0,0.21,Rent house,1,
+Riley Ward,female,7/1935,32036,,Bachelor,Retired,1,married,1,0.00,Own house,1,lung cancer
+Genesis Yang,female,7/1933,25119,,High School,Retired,3,married,0,0.00,Rent house,1,asbestosis
+Joshua Hernandez,male,5/1984,69517,75509,Masters,Employed,2,married,2,0.37,Own house,1,transient ischemic attack
+Brantley Stephenson,male,6/1935,39588,,High School,Retired,3,married,1,0.00,Rent house,0,skin cancer
+Nicholas Anderson,male,7/1942,27644,,High School,Retired,1,married,0,0.00,Own flat,1,
+Gabriella Lee,female,5/1997,56478,50111,Bachelor,Student,3,married,1,0.31,Own house,0,
+Bryson Freeman,male,3/1967,79350,81111,High School,Employed,5,married,1,0.00,Own house,1,
+Alana Hicks,female,2/1967,33898,28184,High School,Employed,1,married,0,0.50,Rent flat,0,
+Kendall Gomez,female,10/1962,95184,90369,High School,Employed,1,married,0,0.20,Rent room,1,
+Brianna Acosta,female,7/1963,59789,80365,Masters,Employed,1,married,1,1.20,Own flat,0,
+Ava Mcconnell,female,12/1943,85735,36337,High School,Employed,2,married,1,2.40,Rent house,1,
+Elise Hall,female,2/1935,80602,,High School,Retired,1,married,1,0.00,Own house,1,
+Izabella Montoya,female,2/1977,74860,71701,Masters,Employed,2,married,2,0.23,Rent house,0,
+Alice Harris,female,8/1964,38601,,Less than High School,Retired,1,married,0,0.00,Rent flat,2,brain stem stroke
+Mason Brown,male,4/1956,82190,92241,Bachelor,Employed,1,widowed,0,0.51,Own flat,1,transient ischemic attack
+Brielle Cooper,female,10/1962,28837,19277,High School,Employed,4,married,0,0.52,Rent house,0,
+Julian Gibson,male,1/1986,35057,35057,Bachelor,Employed,1,married,1,0.00,Own flat,0,
+Bentley Jackson,male,9/1946,89217,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Patrick Banks,male,1/1941,97606,,High School,Retired,2,married,0,0.00,Rent house,0,
+Michael Hines,male,6/1968,46094,45336,Bachelor,Employed,1,married,2,0.00,Rent flat,1,
+Brayden Williams,male,2/1955,38645,,High School,Retired,4,widowed,1,0.00,Own house,0,hemorrhagic stroke
+Austin Reeves,male,4/1961,98944,,Bachelor,Retired,0,married,0,0.00,Own flat,1,
+Noah Griffin,male,9/1956,61744,64818,Less than High School,Employed,1,married,0,0.15,Own flat,1,
+Elise Robinson,female,4/1951,72358,,Bachelor,Retired,3,married,0,0.00,Own house,1,
+Amelia George,female,8/1976,70594,74780,Bachelor,Student,0,single,2,0.13,Rent room,0,
+Aubrey Clark,female,9/1999,90489,95455,High School,Student,0,single,0,0.33,Rent room,0,
+Bentley Houston,male,6/1985,84607,81590,High School,Employed,0,divorced,0,0.07,Rent flat,0,
+Gage Davis,male,8/1935,79774,,High School,Retired,1,widowed,0,0.00,Own flat,0,
+Jonah Thompson,male,9/1941,67312,,Masters,Retired,1,married,3,0.00,Own flat,1,
+Gracie Holmes,female,10/1948,76014,,Bachelor,Retired,3,married,1,0.00,Own house,1,
+Olivia Porter,female,8/1989,26808,,Bachelor,Unemployed,1,divorced,1,0.00,Rent flat,0,
+Paisley Bruce,female,1/1950,58450,,High School,Retired,2,married,1,0.00,Own house,1,pleural effusion
+Jaxon Mccoy,male,11/1960,33898,44844,High School,Employed,1,widowed,1,0.58,Own house,1,
+Genesis King,female,4/1956,21456,,High School,Unemployed,5,widowed,2,0.00,Rent house,2,skin cancer
+Christopher Weiss,male,1/1973,98129,95894,High School,Employed,1,married,0,0.15,Own flat,0,
+Isabella Davis,female,11/1939,60981,,Bachelor,Retired,1,divorced,2,0.00,Own flat,1,
+Justin Cisneros,male,9/1976,27946,24982,PhD/md,Employed,1,married,2,0.12,Own house,1,
+Ryan Meyer,male,4/1962,71315,,Bachelor,Retired,2,married,1,0.00,Own house,1,
+Brayden Ross,male,4/1969,45466,50454,High School,Employed,1,divorced,0,0.20,Rent flat,0,
+Jeremy Mendoza,male,5/1957,40599,25380,Less than High School,Employed,1,widowed,1,0.86,Own flat,1,
+Giselle Williams,female,8/1974,41678,37109,PhD/md,Employed,1,married,3,0.38,Own house,1,
+Abraham Cooper,male,9/1979,65547,75095,Bachelor,Employed,1,married,1,0.41,Own house,0,
+Trinity Huber,female,9/1941,98761,,Bachelor,Retired,2,married,1,0.00,Own house,0,chronic bronchitis
+Elijah Davis,male,5/1942,35054,,High School,Retired,2,married,1,0.00,Own house,2,
+Elias Nguyen,male,8/1992,46165,46165,High School,Employed,2,married,0,0.00,Rent house,0,
+Gage Burton,male,7/1970,74940,82006,High School,Employed,1,married,2,0.40,Own house,1,colon cancer
+Joseph Bean,male,8/1979,61131,90335,High School,Employed,2,married,2,1.39,Own house,0,pleural effusion
+Kinsley James,female,6/1946,41119,,High School,Retired,3,married,0,0.00,Rent house,1,
+Brooke Duncan,female,2/1977,40415,41408,PhD/md,Employed,2,married,1,0.15,Own house,0,
+Caleb Wright,male,5/1953,28818,,Bachelor,Retired,2,married,2,0.00,Own house,1,
+Eden Clark,female,12/1997,27416,30969,Less than High School,Student,2,divorced,0,0.14,Own house,0,transient ischemic attack
+Kylee Bryant,female,6/1983,40801,37032,Bachelor,Employed,1,married,0,0.30,Own flat,0,
+Camden Wright,male,7/1987,25181,17014,Bachelor,Employed,1,married,0,0.56,Own flat,1,
+Mila Brown,female,10/1971,16726,13067,Bachelor,Employed,0,widowed,0,0.02,Rent flat,0,hemorrhagic stroke
+Christopher Gray,male,8/1953,53559,,High School,Retired,1,married,2,0.00,Own flat,1,
+Hailey Frey,female,1/1942,96541,,High School,Retired,1,married,0,0.00,Rent flat,1,pneumonia
+Brian Gardner,male,8/1973,40355,39268,Bachelor,Employed,3,married,1,0.00,Own house,1,
+Devin Vega,male,9/1988,75630,77967,PhD/md,Employed,1,married,1,0.17,Rent house,0,
+Eric Williams,male,9/1964,45376,59245,Masters,Employed,2,married,2,0.71,Rent house,0,
+John Parker,male,1/1956,93099,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,1,
+Owen Ritter,male,9/1979,30723,43519,Masters,Employed,1,married,1,0.58,Own house,0,
+Penelope Olsen,female,8/1949,19129,,Bachelor,Retired,0,single,1,0.00,Own flat,1,
+Emma Obrien,female,7/1958,17307,17307,Masters,Student,1,married,0,0.00,Rent room,2,
+Jade Riley,female,3/1939,28762,,High School,Retired,2,married,0,0.00,Rent house,3,
+Joseph Davis,male,12/1951,49771,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Mia Reese,female,12/1962,20349,10000,High School,Employed,1,married,0,0.45,Rent flat,1,
+Aaron Chavez,male,4/1950,88125,,Bachelor,Retired,1,single,1,0.00,Own flat,0,asbestosis
+Khloe Abbott,female,10/1952,59340,,Masters,Retired,1,married,3,0.00,Rent house,0,
+Lucas Webb,male,8/1976,42173,40286,Less than High School,Employed,3,married,1,0.00,Own house,1,
+Joseph Hanna,male,7/1953,73286,,Less than High School,Retired,1,widowed,2,0.00,Own flat,3,
+Laila Delgado,female,7/1968,23882,22652,High School,Employed,1,married,1,0.03,Rent house,1,
+Sophia Martin,female,7/1995,11264,11811,High School,Student,1,married,0,0.00,Rent room,0,
+Aubree Crosby,female,8/1980,23272,23272,Bachelor,Employed,1,divorced,1,0.00,Own flat,1,
+Joseph Baker,male,12/1948,79445,,PhD/md,Retired,1,married,2,0.00,Own house,0,
+Mason Stewart,male,2/1952,46133,,Less than High School,Retired,5,widowed,0,0.00,Own house,1,
+Addison White,female,8/1949,93561,,High School,Retired,2,married,0,0.00,Rent house,1,pneumonia
+Emma Schmidt,female,8/1994,11533,23052,High School,Employed,1,married,1,0.50,Own house,1,
+Amelia Becker,female,6/1943,91385,,Masters,Retired,1,divorced,1,0.00,Own house,3,
+Alejandro Stephenson,male,8/1949,72706,,High School,Retired,1,widowed,1,0.00,Own house,2,
+Caroline Frazier,female,2/1997,67233,69777,Less than High School,Employed,0,single,0,0.05,Rent flat,0,
+Ethan Arellano,male,8/1988,79119,79523,Less than High School,Employed,2,married,2,0.00,Own house,2,
+Avery Schwartz,female,6/1958,67491,,Less than High School,Retired,2,widowed,0,0.00,Rent house,0,
+Ellie Crane,female,1/1960,85339,92042,PhD/md,Employed,3,married,2,0.42,Own house,0,
+Aiden Glenn,male,8/1950,53490,,Less than High School,Retired,1,married,1,0.00,Own flat,1,
+Jonah Herman,male,7/1935,30984,,Less than High School,Retired,2,married,0,0.00,Rent house,1,
+Lincoln Brown,male,2/1960,81075,,Bachelor,Unemployed,0,single,1,0.00,Rent flat,1,
+Nathaniel Hill,male,4/1960,22842,35262,High School,Employed,3,single,0,0.80,Rent house,1,lung cancer
+Thomas Allen,male,10/1989,61188,64944,Bachelor,Employed,1,married,1,0.18,Own flat,1,
+Scarlett Greene,female,2/1966,60256,60256,High School,Employed,1,married,2,0.00,Own flat,1,
+Dominic Villarreal,male,9/1952,74225,,High School,Retired,1,single,2,0.00,Own flat,1,
+Samantha Mack,female,2/1975,34308,36595,Bachelor,Employed,1,married,2,0.00,Own house,2,
+Vivian Allen,female,4/1938,51801,,Bachelor,Retired,2,married,1,0.00,Own house,1,
+Eva Morrison,female,4/1987,28035,38921,Masters,Employed,1,divorced,1,0.61,Own flat,0,pneumonia
+Elise Everett,female,4/1946,49031,,Bachelor,Retired,1,single,0,0.00,Rent flat,0,
+Wyatt Smith,male,2/1978,41471,38147,Less than High School,Employed,1,married,0,0.18,Rent flat,1,
+Trinity Christensen,female,6/1958,91603,,Bachelor,Retired,1,married,2,0.00,Own flat,1,
+Liam Richard,male,3/1943,45457,,Less than High School,Retired,1,divorced,1,0.00,Own flat,1,
+Taylor Mcdonald,female,9/1984,28933,42535,Masters,Employed,3,married,1,0.55,Own house,2,
+Peyton Lee,female,1/1940,97798,,High School,Retired,2,married,1,0.00,Own house,1,
+Sophia Chan,female,11/1987,63681,64072,High School,Employed,3,married,1,0.00,Own house,2,
+Aubrey Gordon,female,7/1981,37413,20248,Masters,Employed,4,divorced,3,0.99,Own house,1,
+Destiny Jones,female,1/1963,60534,,High School,Retired,2,married,0,0.00,Own house,1,
+Mia Thompson,female,10/1975,57682,57176,Masters,Employed,3,divorced,1,0.00,Own house,1,pleural effusion
+Sofia Moore,female,2/1972,31658,28720,High School,Employed,0,divorced,0,0.03,Rent flat,0,chronic bronchitis
+Joshua Bates,male,12/1962,15148,15090,Masters,Employed,1,divorced,1,0.11,Rent house,1,
+Abigail Herring,female,9/1957,47135,,High School,Retired,2,widowed,0,0.00,Rent house,1,
+Alexis Ortiz,female,5/1962,97328,44313,High School,Employed,1,married,1,2.62,Own flat,0,pneumonia
+Serenity Vega,female,9/1969,77943,77943,High School,Employed,2,married,0,0.00,Own flat,0,
+Liam Jackson,male,6/1963,38213,38213,High School,Employed,1,divorced,0,0.00,Rent flat,1,
+Alexander Cruz,male,10/2002,36722,36722,High School,Student,0,single,1,0.00,Own house,0,
+Micah Vazquez,male,11/1939,73645,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,
+Mila Pennington,female,2/1979,96751,96751,Bachelor,Employed,1,divorced,0,0.00,Own flat,0,colon cancer
+Caleb Cole,male,5/1990,15222,,Less than High School,Unemployed,1,married,0,0.00,Rent flat,1,pleural effusion
+Christopher Arroyo,male,12/1968,37943,26306,High School,Employed,2,married,1,0.58,Own house,1,
+Elijah Sanchez,male,9/1934,85042,,Bachelor,Retired,1,divorced,2,0.00,Own flat,1,
+Wyatt Davis,male,1/1974,59024,48969,Masters,Employed,1,married,2,0.45,Own flat,1,
+Matthew Mcdaniel,male,3/1947,44260,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Isabella Williams,female,11/1946,64338,,High School,Retired,2,widowed,1,0.00,Own flat,1,
+Scarlett Contreras,female,2/1939,44188,,Less than High School,Retired,2,widowed,2,0.00,Own house,0,colon cancer
+Ryker Wright,male,6/1971,26118,24441,High School,Employed,1,married,2,0.00,Own house,1,
+Eli Johnson,male,4/1961,73520,84991,High School,Employed,1,widowed,2,0.53,Own flat,3,
+Nicole Jarvis,female,10/1957,74249,,Bachelor,Retired,1,widowed,2,0.00,Own flat,0,
+Eva Rice,female,10/1962,43292,,Bachelor,Unemployed,1,married,0,0.00,Own flat,1,
+Alexander Gutierrez,male,9/1974,87450,82704,Less than High School,Employed,7,married,0,0.23,Rent house,2,
+Jayden Lloyd,male,1/1993,58363,54760,Bachelor,Employed,2,married,1,0.19,Own house,0,
+Madison Kaufman,female,5/1970,33307,29794,Bachelor,Employed,1,married,1,0.14,Own house,0,
+Jacob Castillo,male,11/1944,68130,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Ashton Davis,male,2/1964,67926,,High School,Retired,1,married,1,0.00,Own flat,3,pleural plaques
+Isabella Thompson,female,11/1963,14926,13976,Bachelor,Employed,1,married,1,0.00,Own flat,3,
+Jaxson Gamble,male,6/1981,99948,36303,PhD/md,Employed,2,divorced,2,3.30,Own house,1,
+Kylie Davis,female,3/2001,32849,,High School,Unemployed,0,single,2,0.00,Rent flat,0,
+Ashley Wilson,female,10/1997,88766,,Less than High School,Unemployed,0,single,0,0.00,Rent flat,0,
+Connor Williams,male,2/1983,51494,38936,Bachelor,Employed,1,married,1,0.72,Own house,0,
+Juan Hayes,male,9/1990,14219,10000,Less than High School,Employed,2,married,0,0.14,Own house,0,
+Owen Miranda,male,10/1976,77502,51632,Masters,Student,1,divorced,0,1.24,Rent room,1,
+Kylie Hill,female,3/1970,76660,68117,Masters,Employed,1,married,3,0.46,Own house,0,
+Mason Parsons,male,3/1949,37414,,High School,Retired,1,widowed,0,0.00,Rent room,2,
+Caroline Gutierrez,female,6/1963,57517,66904,Masters,Employed,1,divorced,2,0.48,Rent house,1,
+Matthew Sanchez,male,12/1952,50039,,Less than High School,Retired,2,widowed,2,0.00,Own house,0,
+Hazel Wallace,female,7/1997,90318,99999,High School,Student,0,widowed,0,0.53,Rent room,0,hemorrhagic stroke
+Bentley Patel,male,11/1982,90313,88060,High School,Employed,1,married,1,0.12,Own house,0,
+Emily Lewis,female,10/1942,94632,,Bachelor,Retired,1,married,2,0.00,Own flat,0,
+Arianna Montgomery,female,11/1970,67278,77022,Bachelor,Employed,1,married,0,0.50,Rent room,1,colon cancer
+Emma Summers,female,5/1972,43398,,High School,Unemployed,1,married,1,0.00,Rent flat,1,
+Preston Roach,male,1/1976,56470,36575,Bachelor,Employed,1,married,1,0.76,Own house,0,
+Kevin Torres,male,1/1942,37834,54700,Bachelor,Employed,1,widowed,0,0.82,Rent flat,1,
+Jayden Livingston,male,8/1971,52700,51080,Bachelor,Employed,1,married,0,0.07,Rent room,0,
+James Baker,male,3/1963,54739,,High School,Unemployed,1,married,1,0.00,Own flat,0,
+Lucy Brown,female,7/1984,41192,41801,Masters,Employed,1,divorced,1,0.00,Own house,0,asbestosis
+Kinsley Salas,female,9/1951,10645,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Hannah Whitney,female,3/1991,42635,82027,Bachelor,Employed,1,married,0,1.91,Own flat,0,
+Elizabeth Turner,female,8/1989,27170,27363,Less than High School,Employed,5,married,2,0.00,Own house,1,
+Laila Cox,female,12/1948,84864,,Bachelor,Retired,1,widowed,0,0.00,Own flat,1,colon cancer
+Isabella Ross,female,4/1953,49806,,High School,Retired,1,married,1,0.00,Own flat,1,pneumonia
+Nathan Harmon,male,7/1943,77332,,Less than High School,Retired,1,divorced,1,0.00,Own flat,0,
+Gabrielle Soto,female,4/1933,14026,78737,High School,Employed,2,married,0,3.32,Own house,1,
+Vincent Norton,male,7/1958,80683,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Madison Howell,female,2/1987,82981,87580,Bachelor,Employed,1,divorced,2,0.26,Own flat,1,
+Serenity Gutierrez,female,11/1959,23722,29822,High School,Employed,3,married,2,0.28,Own house,2,
+Michelle Petersen,female,12/1955,79037,,High School,Retired,1,widowed,1,0.00,Own house,1,
+Jaxon Wise,male,5/1958,60306,59382,Less than High School,Employed,7,married,2,0.30,Own house,3,
+Lucy Romero,female,4/1955,56018,,High School,Retired,3,married,1,0.00,Own house,2,
+Ava Bright,female,4/2001,96576,15021,High School,Employed,0,married,1,3.90,Own flat,2,
+Joshua Davis,male,3/1957,20173,20173,Less than High School,Employed,1,married,1,0.00,Own house,2,
+Cole Soto,male,10/1954,63357,,High School,Retired,1,divorced,2,0.00,Own flat,1,
+Antonio King,male,6/1968,86429,86680,Bachelor,Employed,0,single,1,0.16,Rent flat,0,
+Ivy Alvarado,female,6/1978,85377,85914,Less than High School,Employed,1,married,0,0.05,Rent flat,1,
+Nathan Miller,male,3/1985,80016,93126,Masters,Employed,1,married,2,0.85,Own house,0,
+Amelia Haynes,female,3/1986,11428,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,chronic bronchitis
+Elizabeth Hughes,female,10/1976,40449,53913,High School,Employed,3,married,1,0.63,Own house,1,
+Isaiah Allen,male,10/1967,18926,16506,Less than High School,Employed,1,married,1,0.16,Rent flat,1,
+Owen Foley,male,5/1939,19628,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Chloe Morgan,female,11/1947,20038,,Masters,Retired,1,married,1,0.00,Own house,3,
+Angelina Garcia,female,8/1997,73745,71284,Masters,Student,0,married,1,0.11,Rent room,0,
+Michelle Becker,female,4/1958,24339,23745,Bachelor,Employed,1,married,0,0.00,Rent flat,2,
+Owen White,male,1/1961,32309,,High School,Unemployed,1,married,0,0.00,Rent flat,0,asbestosis
+Jacob Shannon,male,11/1956,23743,35662,High School,Employed,1,widowed,0,0.55,Rent flat,0,
+Mia Lewis,female,3/1950,86638,,High School,Retired,1,married,0,0.00,Own flat,1,
+Jaxon Ward,male,7/1978,65128,67462,Masters,Employed,3,married,1,0.12,Own house,2,
+Sophia Mccormick,female,5/1934,44475,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Emily Sanchez,female,9/1965,83931,78197,Bachelor,Employed,1,married,0,0.33,Rent flat,1,
+Daniel Nguyen,male,4/1933,81789,,High School,Retired,0,single,0,0.00,Rent house,3,
+Emily Miller,female,10/1983,68482,68482,High School,Employed,4,divorced,1,0.00,Own house,0,
+Christopher Daniels,male,6/1949,30649,,High School,Retired,1,married,0,0.00,Own flat,0,
+Jackson Cooper,male,8/1952,12085,,High School,Retired,2,married,1,0.00,Own house,1,
+Lillian Kelly,female,12/1972,19604,38070,PhD/md,Employed,2,divorced,2,0.94,Own house,2,
+Emma Castillo,female,11/1974,17524,,High School,Unemployed,1,married,2,0.00,Rent flat,1,
+Stella Lee,female,12/1962,60237,22956,High School,Employed,1,married,1,1.94,Own flat,2,ovarian cancer
+Ayden Moore,male,6/1932,64748,,Less than High School,Retired,2,married,0,0.00,Rent house,0,
+Andrew Hurley,male,10/1938,31383,,Masters,Retired,0,married,3,0.00,Own flat,0,
+Xavier Newton,male,7/1942,19021,,PhD/md,Retired,2,married,2,0.00,Own flat,1,
+Claire Warren,female,4/2002,56840,,High School,Unemployed,0,single,2,0.00,Rent flat,2,
+Zoe Ross,female,10/1987,57721,63867,High School,Employed,0,divorced,2,0.17,Rent house,2,
+Benjamin Riley,male,11/1999,67689,64533,Bachelor,Student,1,divorced,0,0.20,Own house,0,
+Mila Smith,female,11/1996,83276,83276,Less than High School,Employed,1,single,2,0.00,Own flat,1,transient ischemic attack
+Adeline Carroll,female,2/1952,49326,,Bachelor,Retired,1,divorced,0,0.00,Rent room,0,
+Owen Robertson,male,1/1972,80078,75856,PhD/md,Employed,1,married,2,0.17,Own flat,1,
+Aiden Gonzalez,male,11/1979,69074,,High School,Unemployed,0,single,1,0.00,Rent flat,1,
+Alexa Villegas,female,1/1964,23524,28313,Masters,Employed,2,married,1,0.15,Own house,0,
+Riley Smith,female,11/1984,20591,20591,High School,Employed,1,married,2,0.00,Own flat,1,
+Abraham Hampton,male,9/1971,20190,16776,Less than High School,Employed,1,married,1,0.19,Own house,0,pleural plaques
+Genesis Cooper,female,2/1958,64260,79983,Bachelor,Employed,0,single,1,0.57,Own flat,1,
+Lily Nicholson,female,9/1948,22236,,High School,Retired,1,married,0,0.00,Rent flat,2,lung cancer
+Antonio Walters,male,5/1998,15210,17067,Bachelor,Student,1,married,1,0.19,Own house,0,
+Christopher Stephens,male,4/1943,70555,,High School,Retired,2,widowed,1,0.00,Own house,1,
+Alyssa Morrison,female,5/1942,10438,,High School,Retired,3,widowed,1,0.00,Own house,1,
+Aaron Gibson,male,6/1988,78961,67322,PhD/md,Employed,1,divorced,3,0.54,Own flat,1,transient ischemic attack
+Kimberly Fox,female,7/1941,15806,,Masters,Retired,1,married,1,0.00,Own flat,1,brain stem stroke
+Julian Peterson,male,3/2002,99180,99999,High School,Student,0,single,2,0.17,Own house,2,
+Paisley Williams,female,12/1944,94251,,PhD/md,Retired,1,married,1,0.00,Own house,1,
+Eva Wiley,female,11/1978,42581,63595,High School,Employed,0,widowed,1,1.15,Own flat,2,
+Oliver Jensen,male,6/1944,15766,,High School,Retired,1,widowed,0,0.00,Rent flat,1,asbestosis
+Bella Davis,female,10/1947,70663,,Bachelor,Retired,1,married,1,0.00,Own flat,0,
+Giselle Diaz,female,3/1966,74125,70709,High School,Student,4,single,2,0.18,Own house,0,ovarian cancer
+Jacob Sanders,male,10/1933,76097,,Bachelor,Retired,2,married,0,0.00,Rent house,0,pleural effusion
+Harmony James,female,8/1998,23550,20974,Bachelor,Employed,1,married,1,0.15,Own flat,0,ovarian cancer
+Khloe Hall,female,8/1991,61227,45281,Masters,Employed,1,married,2,0.85,Own house,0,
+Aidan Walker,male,5/1960,28434,28952,Bachelor,Employed,1,single,0,0.01,Rent flat,0,
+Jayden Ferguson,male,7/1943,66729,,Less than High School,Retired,3,divorced,1,0.00,Own house,2,
+Emily Hunt,female,4/1962,16986,29073,Masters,Employed,1,married,2,0.57,Own flat,0,
+Zoey Powell,female,2/1985,66079,58622,Less than High School,Employed,5,divorced,0,0.35,Rent house,0,brain stem stroke
+Paisley Archer,female,2/1968,56408,,High School,Unemployed,1,married,2,0.00,Rent flat,1,
+Maria Villegas,female,3/2000,36756,39395,Bachelor,Student,1,married,1,0.14,Rent room,0,
+Molly Mack,female,7/2002,40218,47677,High School,Employed,0,widowed,0,0.48,Rent flat,0,
+Jayla Rivera,female,9/1941,54440,,Bachelor,Retired,0,single,0,0.00,Own flat,1,
+Lucy Riley,female,11/1951,91950,,Masters,Retired,0,single,1,0.00,Own flat,0,
+Eric Kaufman,male,10/1937,59199,,Masters,Retired,1,married,1,0.00,Own flat,1,
+Anna Jones,female,8/1972,75866,73902,Masters,Employed,1,married,2,0.12,Own house,0,
+James Edwards,male,12/1957,32021,18169,Masters,Employed,1,widowed,2,0.63,Own flat,0,
+Elizabeth Gallagher,female,5/1971,54845,51045,Bachelor,Employed,2,divorced,1,0.24,Own house,0,
+Adrian Beck,male,10/1957,38742,20114,Masters,Employed,1,married,1,0.85,Own flat,0,
+Amy Diaz,female,6/1964,75888,62789,Masters,Employed,0,single,2,0.74,Own flat,0,
+Benjamin Stewart,male,11/1977,61205,58425,Bachelor,Employed,1,married,1,0.17,Own flat,0,
+Angela Glass,female,5/1959,25927,34411,Masters,Employed,1,widowed,1,0.62,Own flat,0,
+Giselle Lloyd,female,7/1932,62586,,Bachelor,Retired,2,divorced,0,0.00,Rent house,3,
+Aubrey Simon,female,1/1988,10702,10702,Masters,Employed,1,divorced,1,0.00,Own flat,1,
+Christopher Luna,male,4/1991,77100,77100,Masters,Employed,0,single,1,0.00,Own flat,2,
+Matthew Adams,male,5/1981,44481,46446,Masters,Employed,0,married,1,0.02,Rent flat,0,
+Liam Santana,male,4/1967,35608,87340,Bachelor,Employed,1,divorced,0,2.74,Own flat,3,pneumonia
+Grayson Ellis,male,1/1998,40282,46755,High School,Student,0,married,1,0.20,Rent room,0,
+Isaiah Gray,male,12/1967,75275,86403,Masters,Employed,1,divorced,1,0.50,Own flat,1,pneumonia
+Aubrey Pratt,female,5/1938,56957,,High School,Retired,1,married,0,0.00,Rent room,0,pleural plaques
+Kayla Wilson,female,4/1935,15868,,High School,Retired,1,widowed,1,0.00,Own house,0,
+Joshua Wilson,male,12/1946,56579,,PhD/md,Retired,1,divorced,2,0.00,Own flat,3,
+Isabella Williams,female,11/1985,48767,49748,Less than High School,Employed,3,married,1,0.05,Own house,1,ovarian cancer
+Sofia Zuniga,female,6/1965,17083,,Less than High School,Retired,2,married,0,0.00,Rent house,0,
+Addison Cooper,female,1/1989,28248,89882,Bachelor,Employed,2,single,0,3.03,Rent house,0,hemorrhagic stroke
+Jaxon Manning,male,8/1971,99474,97778,Less than High School,Employed,1,married,0,0.24,Rent flat,0,
+Asher Kemp,male,5/1989,96238,99999,Less than High School,Employed,1,married,0,0.09,Own flat,1,
+Gabriella Koch,female,8/1957,81087,84932,High School,Employed,2,widowed,2,0.37,Own house,1,
+Makenzie Bell,female,6/1941,33626,,Bachelor,Retired,1,married,1,0.00,Rent house,2,
+Emma Pratt,female,6/1993,36828,42063,High School,Employed,2,married,0,0.23,Rent house,0,
+Timothy Vance,male,10/1976,20633,37638,Bachelor,Employed,0,single,0,0.58,Rent flat,1,
+Aubrey Hernandez,female,2/1962,42333,,Less than High School,Unemployed,1,married,1,0.00,Rent room,0,
+Margaret Duke,female,9/1981,56347,50397,PhD/md,Employed,1,married,2,0.31,Own flat,1,
+Jacob Crawford,male,12/1967,13924,10000,High School,Employed,1,divorced,0,0.27,Rent flat,0,colon cancer
+Alexa Smith,female,5/1946,35528,,Masters,Retired,4,married,1,0.00,Own house,2,
+Samantha Smith,female,12/1954,16288,,High School,Retired,1,married,1,0.00,Own house,0,
+Alexander Wolfe,male,8/1944,46369,,Bachelor,Retired,1,married,0,0.00,Rent flat,2,lung cancer
+Carson Hernandez,male,8/1975,58946,58946,High School,Employed,1,married,0,0.00,Rent room,2,transient ischemic attack
+Luke Schultz,male,12/1948,76505,,Less than High School,Retired,1,married,1,0.00,Own flat,1,
+Samuel Ruiz,male,11/1971,53198,44239,Bachelor,Employed,4,married,0,0.62,Own flat,1,
+Benjamin Kirk,male,8/1984,71710,70065,Less than High School,Student,6,married,0,0.06,Own house,0,
+Riley Carter,female,11/1943,85510,,PhD/md,Retired,1,widowed,2,0.00,Own house,2,
+Reese Shannon,female,6/1991,50720,62731,Masters,Employed,0,single,2,0.53,Rent house,2,
+Brooke Everett,female,1/1954,92594,,High School,Retired,3,married,0,0.00,Rent house,1,
+Olivia Lyons,female,10/1933,93554,,High School,Retired,2,married,0,0.00,Rent house,0,
+Daniel Smith,male,11/1942,32794,,High School,Retired,1,divorced,1,0.00,Own flat,2,lung cancer
+Kylee Patel,female,7/1958,55993,55993,Bachelor,Employed,8,married,1,0.00,Own house,0,
+Joshua Russell,male,6/1938,44527,,Bachelor,Retired,1,married,1,0.00,Own house,0,
+Tyler Lewis,male,11/1992,63147,76518,Less than High School,Employed,1,married,2,0.64,Own flat,0,pleural plaques
+Lily Hart,female,7/1994,67231,63780,Bachelor,Employed,1,married,1,0.15,Own flat,0,
+Jeremiah Vazquez,male,11/1942,94832,,Less than High School,Retired,3,married,1,0.00,Own house,3,
+Logan Price,male,9/1978,10687,10000,Bachelor,Employed,0,single,0,0.23,Own flat,0,
+Sophia Hicks,female,11/1976,76037,79033,Bachelor,Employed,1,divorced,0,0.26,Rent flat,0,skin cancer
+Kevin Williams,male,8/1962,71487,,Less than High School,Retired,5,married,1,0.00,Own house,1,pleural effusion
+Grayson Guerra,male,9/1979,44661,21430,PhD/md,Employed,2,married,2,1.12,Own house,1,
+Brooklyn Obrien,female,7/1985,99091,99841,High School,Employed,3,married,1,0.00,Own house,0,pneumonia
+Riley Brown,female,8/1974,93003,85780,Bachelor,Employed,4,married,0,0.36,Own house,0,
+Maya King,female,9/1961,95034,,Bachelor,Unemployed,2,divorced,2,0.00,Own house,0,chronic bronchitis
+Rebecca Archer,female,12/1946,33169,,Less than High School,Retired,3,divorced,0,0.00,Rent house,0,colon cancer
+Jayden Hill,male,9/1994,12352,19006,High School,Employed,2,divorced,0,0.40,Own house,0,
+Blake Hernandez,male,2/1942,14403,,High School,Retired,1,married,2,0.00,Own flat,1,
+Ella Strong,female,11/1985,60077,64424,Bachelor,Employed,4,married,0,0.30,Rent house,0,
+Jessica Brown,female,4/1938,30130,,Less than High School,Retired,2,divorced,0,0.00,Rent house,0,lung cancer
+Alexandra Koch,female,11/1977,29423,66343,High School,Employed,1,divorced,1,1.75,Own house,0,
+Julian Love,male,4/1934,94916,,High School,Retired,2,widowed,0,0.00,Own house,1,
+Aliyah Soto,female,9/1979,14671,24408,High School,Employed,1,married,2,0.50,Own house,1,
+Gabriel Collins,male,9/1996,73509,94969,High School,Student,1,married,2,1.14,Own house,0,
+Elizabeth Walker,female,12/1988,39077,75820,Bachelor,Employed,0,married,1,1.79,Own flat,2,
+Mateo Bryant,male,3/1947,36686,,High School,Retired,2,married,1,0.00,Own house,1,
+Michael Arnold,male,7/1963,15564,18208,High School,Employed,1,married,1,0.05,Own flat,1,
+Hailey White,female,4/1995,57654,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Nathan Jones,male,3/1990,45573,48153,Bachelor,Employed,4,married,0,0.05,Rent house,0,
+Landon Parsons,male,7/1964,57736,,High School,Retired,2,married,1,0.00,Own house,1,
+Jacob Powell,male,7/1974,37834,37604,Bachelor,Employed,1,married,1,0.14,Own flat,1,
+Brayden Rogers,male,9/1952,18218,,High School,Retired,1,married,1,0.00,Own flat,1,
+Giovanni Wagner,male,12/1938,26490,,High School,Retired,0,married,0,0.00,Rent flat,0,
+Serenity Soto,female,3/1999,65447,98776,High School,Student,0,divorced,2,1.88,Rent room,0,
+Blake Hanson,male,1/1972,53093,53093,High School,Employed,2,married,0,0.00,Rent house,1,hemorrhagic stroke
+Victoria Williams,female,4/1936,87260,,Masters,Retired,1,married,1,0.00,Own flat,1,asbestosis
+Luke Rodgers,male,6/1999,38828,38828,High School,Student,0,single,2,0.00,Rent room,0,
+Mia Long,female,4/1954,40177,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Olivia Montgomery,female,5/1959,71182,66083,PhD/md,Employed,1,married,1,0.26,Rent house,1,hemorrhagic stroke
+Landon Ellis,male,5/1988,89893,91715,High School,Employed,1,married,1,0.07,Own flat,0,
+Giselle Payne,female,7/1982,62523,,Bachelor,Unemployed,1,divorced,1,0.00,Rent flat,0,pneumonia
+Ruby Greer,female,4/1992,93863,99999,High School,Student,1,married,2,0.42,Own house,0,colon cancer
+Ellie Bailey,female,1/1940,18036,,High School,Retired,1,married,1,0.00,Own house,3,
+Madison Frazier,female,12/1941,33284,,High School,Retired,1,divorced,0,0.00,Rent flat,1,
+Dylan Jones,male,8/1998,37344,61691,Bachelor,Student,3,single,2,1.22,Rent room,0,
+Isaac Robbins,male,8/1978,64869,62931,Masters,Employed,1,married,2,0.00,Own flat,0,
+Eliana Butler,female,4/1940,88548,,Less than High School,Retired,1,married,1,0.00,Own flat,1,
+Avery Wilson,female,11/1944,23495,,High School,Retired,2,single,1,0.00,Own house,0,
+Jordan Powell,male,1/1942,74611,,Bachelor,Retired,0,divorced,1,0.00,Own house,1,
+Joseph Harmon,male,3/1978,26634,26634,High School,Employed,1,married,0,0.00,Rent flat,1,
+Adrian Castro,male,7/1953,89097,,Bachelor,Retired,1,divorced,0,0.00,Own flat,1,
+Laila Murray,female,9/1944,67508,,Less than High School,Retired,1,married,0,0.00,Rent flat,1,
+Julian Glover,male,4/1994,46088,,High School,Unemployed,1,married,1,0.00,Rent flat,1,pneumonia
+Sean Dominguez,male,7/1936,86531,,High School,Retired,2,widowed,0,0.00,Own house,0,
+Oliver Odonnell,male,11/1934,61347,,Bachelor,Retired,1,married,1,0.00,Own flat,0,pleural plaques
+Giovanni Meadows,male,6/1943,72065,64820,High School,Employed,2,divorced,1,0.60,Own house,1,colon cancer
+Alexander Lynch,male,10/1933,48477,,Masters,Retired,1,divorced,2,0.00,Own house,2,
+Ayden Richard,male,5/1973,80530,81022,High School,Employed,1,single,0,0.00,Rent house,1,
+Jayden Scott,male,4/1973,34908,69493,Bachelor,Employed,2,married,0,1.64,Own house,0,
+Kinsley Howell,female,12/1946,51852,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Jennifer Ball,female,5/2000,74180,66336,Bachelor,Student,1,married,1,0.42,Own house,0,
+Ariana Young,female,12/1985,95805,95805,High School,Employed,3,married,2,0.00,Own house,2,lung cancer
+Brooklyn Ruiz,female,6/1940,73823,,Masters,Retired,0,single,1,0.00,Own flat,0,
+Daniel Martinez,male,2/1977,87339,57321,Less than High School,Employed,3,single,1,1.51,Own flat,0,chronic bronchitis
+Elizabeth Christensen,female,9/1968,11743,10000,Bachelor,Employed,2,married,0,0.17,Own flat,1,
+Xavier Gonzalez,male,11/1973,26254,,Bachelor,Unemployed,1,married,1,0.00,Own flat,0,
+Weston Ross,male,2/1992,13347,19556,High School,Employed,1,married,1,0.52,Own house,0,colon cancer
+Luke Jacobson,male,1/1952,36010,36010,Bachelor,Employed,1,married,2,0.00,Own flat,3,
+Patrick Gonzales,male,4/1968,99186,15461,High School,Employed,1,married,2,4.20,Own flat,1,hemorrhagic stroke
+Lyla Dunlap,female,8/1996,68873,,High School,Unemployed,1,married,0,0.00,Own flat,0,skin cancer
+Wyatt Walters,male,7/1991,76218,95693,High School,Employed,2,married,1,1.03,Own house,1,
+Matthew Bates,male,7/1996,50219,37324,Bachelor,Student,1,married,0,0.66,Own house,0,
+Liam Vasquez,male,5/1935,94993,,Masters,Retired,1,married,3,0.00,Own house,1,
+Izabella Flores,female,2/1949,58044,,High School,Retired,1,widowed,1,0.00,Own flat,1,
+Clara Huber,female,8/1938,31360,,High School,Retired,2,married,0,0.00,Rent house,1,
+Joshua Wheeler,male,10/1937,50991,,High School,Retired,4,married,1,0.00,Rent house,2,pleural effusion
+Jayla Cain,female,7/1952,20839,,High School,Retired,2,married,1,0.00,Own house,1,
+Harper Lewis,female,6/1982,95642,99999,Masters,Employed,1,married,2,0.20,Own flat,0,transient ischemic attack
+Sebastian Anderson,male,10/1956,83592,79340,Bachelor,Employed,1,widowed,2,0.11,Own house,0,
+Jeremy Dickson,male,10/1952,27082,,High School,Retired,1,widowed,0,0.00,Rent flat,1,
+Gavin Strong,male,6/1977,69457,81081,High School,Employed,1,divorced,2,0.62,Own house,0,
+Samuel Jacobson,male,11/1958,24863,77053,High School,Employed,1,single,0,2.62,Rent room,1,lung cancer
+Allison Lewis,female,11/1938,52531,58693,Bachelor,Employed,4,divorced,1,0.06,Own house,0,lung cancer
+Harper Knight,female,7/1939,46441,,Masters,Retired,1,divorced,3,0.00,Own flat,0,
+Aubrey Harris,female,11/1945,42021,,Less than High School,Retired,1,married,0,0.00,Rent flat,1,
+Piper Bradley,female,9/1948,36126,,High School,Retired,0,single,1,0.00,Own house,1,asthma
+Easton Fowler,male,1/1980,87190,99999,High School,Employed,3,married,0,0.73,Own house,0,
+Adeline Franco,female,11/1957,90885,,Bachelor,Unemployed,1,divorced,2,0.00,Rent flat,1,asbestosis
+Joshua Robertson,male,11/1978,82850,93740,Masters,Employed,3,divorced,1,0.55,Own house,0,
+Brianna Mcclain,female,6/1964,58000,,Bachelor,Retired,1,married,1,0.00,Own house,1,
+Ezekiel Martin,male,12/1981,36772,41549,High School,Employed,2,married,2,0.28,Own house,0,
+Eli Lawrence,male,3/1987,76316,72732,Bachelor,Employed,1,married,1,0.43,Own house,0,pleural plaques
+Antonio Clarke,male,10/1971,97199,,High School,Unemployed,2,divorced,2,0.00,Own flat,3,asthma
+Jayce Jones,male,11/1980,88194,,High School,Unemployed,1,married,1,0.00,Rent room,0,
+Aria Moore,female,3/1937,79155,,PhD/md,Retired,1,single,2,0.00,Own house,2,asthma
+Michael Dean,male,7/1971,49750,44338,High School,Employed,1,divorced,0,0.31,Rent flat,1,
+Xavier Martin,male,5/1953,85692,,High School,Retired,1,single,1,0.00,Own flat,1,pleural plaques
+Melody Schultz,female,6/1948,57397,,Masters,Retired,4,divorced,1,0.00,Own house,1,lung cancer
+George Murphy,male,3/1939,87953,,Less than High School,Retired,3,divorced,1,0.00,Own house,0,
+Gabriella Ochoa,female,1/1944,50514,,Bachelor,Retired,0,married,2,0.00,Own flat,2,
+Colin Woodard,male,7/1955,94058,,High School,Retired,1,widowed,1,0.00,Own flat,1,
+Eli Nixon,male,4/1932,19684,,High School,Retired,1,single,0,0.00,Rent room,1,asbestosis
+Matthew Mendoza,male,3/1953,49995,,High School,Retired,1,married,2,0.00,Own house,1,
+Aubrey Fox,female,7/1946,79509,,Masters,Retired,1,divorced,1,0.00,Own house,2,
+Jase Allen,male,1/1986,54435,55135,High School,Employed,2,married,1,0.00,Own house,0,
+Avery Gibson,female,11/1982,46743,49178,PhD/md,Employed,1,married,2,0.10,Rent house,0,
+Michelle Fields,female,4/1966,26498,24869,Masters,Employed,1,married,1,0.12,Own flat,1,
+Zoey Clay,female,5/1936,83263,,Less than High School,Retired,2,married,0,0.00,Rent house,3,
+Eva Brown,female,2/1964,58877,,High School,Unemployed,1,married,0,0.00,Rent flat,1,
+Sophia Ball,female,8/1946,84976,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,0,
+Luke Higgins,male,12/1987,63396,,High School,Unemployed,1,married,0,0.00,Rent flat,0,asbestosis
+Liam Gomez,male,2/1966,47184,,High School,Unemployed,1,divorced,0,0.00,Rent flat,2,
+Emily Soto,female,9/1984,89011,,High School,Unemployed,1,married,2,0.00,Rent flat,0,
+Jordan Braun,male,10/1958,49707,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Lyla Mcdaniel,female,3/1939,69551,,High School,Retired,2,single,0,0.00,Rent house,2,
+Giovanni Jackson,male,1/1953,63076,,Bachelor,Retired,1,married,1,0.00,Rent house,1,lung cancer
+Nicholas Chaney,male,6/1984,17152,46629,High School,Student,1,married,1,1.39,Own house,1,asthma
+Madison Holland,female,5/1985,83112,13572,Less than High School,Employed,1,single,0,3.62,Rent flat,2,
+Bennett Morris,male,1/1962,61038,55490,Bachelor,Employed,1,married,1,0.42,Own flat,1,hemorrhagic stroke
+Adriana Acosta,female,5/1955,88601,,High School,Retired,0,single,0,0.00,Rent flat,1,transient ischemic attack
+Eva Weeks,female,7/1979,46437,51750,Bachelor,Employed,1,married,0,0.33,Rent flat,2,pneumonia
+Gavin Carrillo,male,7/1992,10429,14105,High School,Employed,1,divorced,1,0.37,Own house,0,
+Michelle Ramos,female,9/1943,13165,,High School,Retired,1,single,0,0.00,Rent flat,1,
+Victor Gardner,male,10/1952,32882,,PhD/md,Retired,1,married,3,0.00,Own flat,1,
+Ella King,female,10/1950,42666,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Christian Bell,male,11/1984,15145,85446,High School,Employed,1,married,2,3.60,Own house,0,
+Hannah Huerta,female,3/1986,76974,76267,High School,Employed,1,widowed,1,0.19,Own flat,0,chronic bronchitis
+Theodore Gonzalez,male,1/1959,25343,,Bachelor,Unemployed,1,divorced,2,0.00,Rent flat,1,
+Adam Smith,male,12/1981,70432,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,1,
+Alexander Holden,male,4/1934,62452,,High School,Retired,1,divorced,1,0.00,Own flat,1,
+Khloe Stewart,female,9/1960,90055,84458,Bachelor,Employed,1,married,1,0.25,Own flat,1,pneumonia
+Ava Norman,female,7/1966,41003,34057,High School,Employed,0,single,1,0.42,Own flat,1,ovarian cancer
+Carter Hampton,male,8/1945,96615,,High School,Retired,1,widowed,1,0.00,Own house,1,pleural effusion
+Ivan Sweeney,male,3/1953,34929,,High School,Retired,1,married,1,0.00,Own flat,0,
+Greyson Curtis,male,6/1995,52521,48367,Bachelor,Employed,1,married,2,0.14,Own house,1,
+Kayla Ryan,female,1/1955,44593,,Masters,Retired,1,married,1,0.00,Own flat,1,
+Ava Adams,female,1/1971,28644,30414,High School,Employed,1,married,0,0.08,Rent flat,1,ovarian cancer
+Jeremy Fuller,male,7/1957,36974,37773,High School,Employed,1,widowed,2,0.07,Own house,1,
+Hazel Kaufman,female,5/1984,34135,40226,Less than High School,Employed,2,married,1,0.07,Own house,0,
+Samuel Henry,male,10/1966,92069,88578,Masters,Employed,1,married,1,0.33,Own flat,0,hemorrhagic stroke
+Sophia Harris,female,6/1983,91962,89889,High School,Employed,1,married,1,0.10,Own house,1,
+Landon Morrison,male,12/1983,49989,79505,High School,Employed,1,married,2,1.39,Own flat,0,hemorrhagic stroke
+Matthew Martinez,male,6/1972,37376,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,pleural effusion
+Giselle Clark,female,5/1945,84698,,Bachelor,Retired,2,married,2,0.00,Own house,2,
+Connor Myers,male,7/1984,82474,84734,Masters,Employed,3,married,1,0.20,Own house,0,chronic bronchitis
+Aidan Adams,male,11/1980,69753,74377,High School,Employed,2,married,1,0.46,Own house,1,
+Jessica Tate,female,11/1962,86007,85519,Bachelor,Employed,1,married,1,0.03,Own flat,1,
+Maya Simmons,female,10/1967,67198,,High School,Unemployed,2,married,2,0.00,Rent house,1,
+Elizabeth Guerrero,female,8/1978,91050,89467,Bachelor,Employed,1,married,0,0.00,Own flat,1,
+Paul Roach,male,2/1964,91549,48651,Bachelor,Employed,1,married,0,2.31,Rent flat,1,
+Samantha Jennings,female,10/1946,11647,,Bachelor,Retired,1,widowed,1,0.00,Own flat,2,
+Aubrey Mcknight,female,11/1932,75542,,Masters,Retired,1,married,1,0.00,Rent flat,1,
+Summer Coffey,female,12/1958,77903,77903,Bachelor,Employed,1,widowed,0,0.00,Rent flat,1,pleural effusion
+Liam Villanueva,male,11/1952,60138,,PhD/md,Retired,1,widowed,2,0.00,Own house,1,
+Lillian Smith,female,4/1981,82783,66695,PhD/md,Employed,1,single,2,0.82,Own flat,1,
+Katherine Oconnell,female,8/1962,34847,31329,High School,Employed,1,married,0,0.28,Rent room,0,
+Kevin Mclean,male,4/1993,80816,80816,Masters,Employed,1,married,1,0.00,Own flat,0,
+Claire Jenkins,female,6/1955,18466,,Bachelor,Retired,2,divorced,1,0.00,Own house,1,
+Emily Anderson,female,3/1944,72478,,PhD/md,Retired,1,married,1,0.00,Own flat,1,
+Elijah Rosales,male,12/1984,36561,16348,High School,Employed,1,married,0,1.10,Rent flat,0,
+Maya Duke,female,6/1945,37101,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Zoey Robbins,female,4/1997,88997,88997,High School,Student,0,single,2,0.00,Rent room,1,
+Emma Williamson,female,2/1969,50346,49047,High School,Employed,1,divorced,1,0.03,Own house,1,pleural plaques
+Anthony Bell,male,6/1965,64336,84747,Masters,Employed,1,married,1,0.83,Own flat,1,
+Paul Solis,male,5/1970,18382,10000,High School,Employed,1,married,0,0.37,Rent flat,1,hemorrhagic stroke
+Jacob Bowman,male,7/1958,99742,99479,Bachelor,Employed,2,married,1,0.08,Own house,2,
+Julianna Roberts,female,3/1960,86482,84991,Masters,Employed,1,married,1,0.00,Own flat,1,
+Riley Wallace,female,12/1939,33481,,PhD/md,Retired,1,married,1,0.00,Own flat,1,
+Robert Dalton,male,1/1942,36932,,Bachelor,Retired,1,married,0,0.00,Own flat,3,
+Sofia Delgado,female,3/1995,31348,31878,High School,Employed,2,widowed,2,0.12,Own house,1,
+Gabriel Powell,male,9/1946,56814,56814,High School,Employed,1,married,2,0.00,Own flat,1,
+Trinity Lewis,female,5/1970,83145,87947,High School,Employed,1,married,2,0.11,Own flat,1,
+Asher Daniels,male,7/1940,21181,,High School,Retired,1,married,0,0.00,Own flat,1,
+Kinsley Hughes,female,1/1985,56847,56847,Masters,Student,2,married,1,0.00,Rent house,0,colon cancer
+Abigail Sutton,female,10/1973,10767,11675,Bachelor,Employed,1,divorced,0,0.13,Rent flat,0,
+Connor Holmes,male,3/1933,56588,,High School,Retired,1,married,0,0.00,Own flat,0,
+Quinn Clarke,female,1/1991,80266,81847,Bachelor,Employed,1,single,0,0.12,Rent flat,0,transient ischemic attack
+Grayson Stanley,male,7/1981,49934,53150,High School,Employed,2,married,0,0.33,Rent house,0,
+Taylor Alvarado,female,4/1975,77689,76124,Bachelor,Student,1,divorced,0,0.00,Own house,0,
+Faith Silva,female,1/1942,34976,,High School,Retired,0,married,0,0.00,Rent house,0,
+Summer Stephenson,female,3/1946,41507,,Masters,Retired,1,single,1,0.00,Own flat,1,
+Amelia Beasley,female,2/1963,20879,15091,High School,Employed,1,married,1,0.26,Own house,1,
+Molly Ford,female,5/1999,50215,41488,Bachelor,Student,1,divorced,1,0.56,Rent room,0,brain stem stroke
+Lillian Ryan,female,10/1986,26083,26083,High School,Employed,1,married,0,0.00,Rent flat,0,
+Hannah Jones,female,4/1992,92324,99999,Masters,Employed,0,widowed,2,0.47,Own house,0,
+Lillian Paul,female,11/1979,21771,19423,High School,Employed,1,married,2,0.27,Own flat,1,
+Bryan Brown,male,6/1991,54623,82202,PhD/md,Employed,1,married,2,1.48,Own house,0,
+Brian Myers,male,10/1937,12327,,High School,Retired,1,married,1,0.00,Own flat,1,
+Jesse Howell,male,6/1958,42693,,High School,Retired,1,widowed,0,0.00,Rent room,1,
+Lauren Wood,female,5/1960,48409,48409,Bachelor,Employed,2,single,0,0.00,Own house,2,ovarian cancer
+Aubrey Coleman,female,9/1964,55209,70097,High School,Employed,1,married,0,0.68,Rent flat,1,
+Nicole Rhodes,female,7/1989,62186,59189,High School,Employed,1,widowed,0,0.12,Rent flat,1,
+Ethan Robinson,male,5/1967,80706,96786,High School,Employed,1,married,0,0.82,Rent flat,1,
+Hayden Clayton,female,10/1934,12995,,High School,Retired,2,single,1,0.00,Own house,0,
+Eli Miller,male,8/1956,42457,42630,High School,Employed,3,married,1,0.09,Own house,2,
+Bella Russell,female,9/1970,84868,84868,PhD/md,Employed,1,married,2,0.00,Own flat,1,
+Payton Gonzales,female,10/1960,56525,60040,High School,Employed,1,married,0,0.16,Rent flat,1,
+Audrey Howell,female,6/1955,45446,,PhD/md,Retired,2,widowed,2,0.00,Own house,1,
+Cole Robinson,male,11/1992,82169,82169,High School,Employed,1,single,0,0.00,Rent flat,1,hemorrhagic stroke
+Faith Patel,female,2/1957,93386,91212,High School,Employed,2,married,1,0.09,Own flat,0,
+Catherine Vargas,female,4/1937,57709,,Bachelor,Retired,1,widowed,1,0.00,Own house,2,
+Michelle Rice,female,5/1953,73057,,Less than High School,Retired,1,divorced,0,0.00,Rent flat,1,
+Makayla Graham,female,1/1943,37271,,High School,Retired,1,married,1,0.00,Rent flat,1,
+Kaylee Foster,female,9/1961,65867,65867,Less than High School,Employed,1,married,0,0.00,Rent flat,1,
+Arianna Ball,female,4/1954,75518,,High School,Retired,2,married,2,0.00,Own house,1,
+Grayson Clayton,male,10/1940,89229,,Less than High School,Retired,1,divorced,1,0.00,Own flat,3,skin cancer
+Miguel Gonzalez,male,12/1988,75700,50810,PhD/md,Employed,1,married,1,1.39,Rent house,0,
+Jose Hogan,male,4/1976,26233,22113,High School,Employed,1,married,1,0.21,Own flat,0,transient ischemic attack
+Angel Chaney,male,9/1980,42606,42245,Bachelor,Employed,2,married,1,0.04,Own house,0,
+James Villarreal,male,9/1965,80172,55928,Masters,Employed,2,single,2,1.13,Own house,1,chronic bronchitis
+Juan Jones,male,11/1980,71615,71615,Masters,Employed,2,married,1,0.00,Own house,0,
+Hunter Love,male,4/1946,50491,,Masters,Retired,0,single,2,0.00,Own flat,0,
+Eliana Butler,female,8/1994,16367,22431,Bachelor,Employed,1,married,2,0.46,Own flat,0,
+Emily Liu,female,10/1996,51605,77011,Less than High School,Employed,1,divorced,1,1.30,Own flat,1,
+Alaina Graham,female,1/2000,74403,67873,Bachelor,Student,1,divorced,1,0.32,Rent room,1,chronic bronchitis
+Jennifer Wilson,female,11/1935,44357,,High School,Retired,3,married,0,0.00,Rent house,1,pleural plaques
+Evelyn Chandler,female,3/1963,48868,41186,High School,Employed,0,single,0,0.29,Rent flat,0,pleural plaques
+Hunter Barrera,male,4/1994,33556,49947,Bachelor,Employed,1,married,1,0.64,Own house,0,transient ischemic attack
+Olivia Morgan,female,12/1966,80284,84561,High School,Employed,1,married,1,0.32,Own house,1,
+Bennett Holland,male,11/1956,43032,40896,High School,Employed,2,married,1,0.14,Own house,1,
+Jacob Bailey,male,2/1944,63711,,Bachelor,Retired,2,divorced,1,0.00,Own house,1,
+Emily Vargas,female,4/1986,93528,91481,Masters,Employed,1,married,1,0.13,Own flat,0,transient ischemic attack
+Adalynn Wilson,female,1/1946,44694,,Masters,Retired,2,widowed,2,0.00,Own house,3,
+Bryan Silva,male,1/1954,73112,,High School,Retired,2,widowed,0,0.00,Own house,0,
+Khloe Strong,female,1/1954,73995,,Bachelor,Retired,1,widowed,2,0.00,Rent flat,1,
+Anthony Waters,male,12/1969,41279,36865,High School,Employed,1,married,2,0.36,Own flat,2,
+Cameron Foster,male,8/1947,37878,,Bachelor,Retired,4,married,0,0.00,Rent house,0,
+Aria Armstrong,female,9/1941,38770,,Less than High School,Retired,1,divorced,2,0.00,Own house,2,
+Nathan Herring,male,6/1971,71150,73226,Bachelor,Employed,1,married,0,0.22,Rent house,1,
+Kaiden Parsons,male,8/1970,26425,,High School,Unemployed,1,married,1,0.00,Own flat,0,
+Madelyn Miller,female,6/1933,83180,,Masters,Retired,1,divorced,1,0.00,Own flat,0,
+Connor Morris,male,10/1937,49153,,Less than High School,Retired,1,divorced,1,0.00,Own house,1,
+Mila Solis,female,10/1980,57554,18507,PhD/md,Employed,1,married,1,2.00,Own flat,0,
+Adalynn Shaffer,female,3/1985,41429,39246,PhD/md,Employed,1,married,3,0.13,Own flat,0,hemorrhagic stroke
+Rylee Roberts,female,10/1962,91286,,Less than High School,Retired,1,married,0,0.00,Rent house,1,
+Mia Pratt,female,1/1966,97606,99999,High School,Employed,1,married,1,0.21,Own flat,0,
+Valentina King,female,4/1934,84028,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,0,
+Laila Dennis,female,8/1945,27484,,Bachelor,Retired,1,married,2,0.00,Own flat,1,pleural plaques
+Kevin Shelton,male,9/1972,30406,47427,High School,Employed,2,divorced,2,0.91,Own house,1,
+Carter Nielsen,male,10/1957,23276,22315,Bachelor,Employed,3,widowed,1,0.26,Own house,0,
+Greyson Walter,male,4/1976,82145,82145,High School,Employed,2,married,1,0.00,Own house,0,pneumonia
+Maya Morgan,female,11/1961,45371,46623,High School,Employed,1,divorced,1,0.00,Own flat,1,pneumonia
+James Potter,male,7/1967,24275,27672,High School,Employed,2,married,2,0.16,Rent house,1,
+Oliver Powell,male,10/1979,58566,58566,Less than High School,Employed,5,married,1,0.00,Own flat,0,transient ischemic attack
+Colin Cross,male,9/1977,35260,32537,High School,Employed,1,married,1,0.05,Own house,1,
+Olivia Sanchez,female,11/1970,43110,37139,High School,Employed,1,married,2,0.28,Own flat,0,lung cancer
+Christopher Nixon,male,9/1998,25446,27839,High School,Student,0,single,2,0.33,Own house,0,
+Rylan Lewis,male,11/1952,24277,,Bachelor,Retired,1,single,2,0.00,Own flat,2,
+Jeremy Preston,male,3/1941,13544,10000,Masters,Employed,1,divorced,1,0.20,Own house,1,
+Henry Roberts,male,11/1965,24694,43142,High School,Employed,1,divorced,1,0.87,Own flat,0,
+Isabella Miller,female,4/1951,96080,,High School,Retired,2,widowed,2,0.00,Own house,1,
+Aaliyah Ellis,female,1/1964,62553,68517,Masters,Employed,1,married,1,0.31,Own flat,1,
+Aubrey Carlson,female,2/1938,39718,,High School,Retired,1,divorced,0,0.00,Rent flat,1,
+Xavier Parker,male,11/1944,84346,,Bachelor,Retired,1,widowed,1,0.00,Own flat,1,
+Theodore Pratt,male,2/1997,81335,70141,Bachelor,Employed,2,married,1,0.63,Own flat,0,
+Malachi Boyer,male,2/1952,19862,,Less than High School,Retired,6,married,1,0.00,Own house,2,
+Sofia Moore,female,6/1967,88035,96889,Bachelor,Employed,1,married,1,0.48,Own house,0,
+Katelyn Martinez,female,1/1987,60804,68571,Bachelor,Employed,1,divorced,1,0.33,Own house,0,chronic bronchitis
+Harper Williams,female,7/1990,92394,92394,High School,Employed,1,divorced,2,0.00,Rent house,0,
+Oliver Ross,male,3/1946,62056,,PhD/md,Retired,1,married,1,0.00,Own house,0,colon cancer
+Isabella Martinez,female,12/1934,28830,,Masters,Retired,1,single,2,0.00,Own house,1,
+Camden Johnson,male,2/1952,53402,,Bachelor,Retired,1,married,0,0.00,Rent flat,1,
+Dylan Bryant,male,3/1936,63567,,Masters,Retired,1,single,2,0.00,Own house,1,
+Jonah Chavez,male,7/1974,32394,11055,High School,Employed,1,married,2,1.14,Own house,0,
+Jaxson Norman,male,9/1979,10911,10911,Masters,Employed,1,married,2,0.00,Own flat,1,
+Valeria Holmes,female,4/1954,20330,,Masters,Retired,1,married,2,0.00,Own flat,1,
+Evan Cooper,male,8/1987,19433,21960,Masters,Employed,1,married,1,0.13,Own flat,0,
+Oliver Bennett,male,9/1936,42471,,Bachelor,Retired,1,widowed,2,0.00,Own flat,0,asthma
+Kaylee Cooper,female,8/1956,42220,47611,High School,Employed,1,married,1,0.18,Own house,0,
+Alexa Cain,female,12/1968,52783,53252,Bachelor,Employed,1,married,1,0.10,Own flat,1,
+Ashley Lewis,female,5/1973,56141,58041,High School,Employed,1,married,2,0.11,Own flat,0,asbestosis
+Anthony Dickerson,male,7/1990,62628,62280,Masters,Student,2,married,1,0.00,Own house,0,chronic bronchitis
+Samuel Miller,male,4/1944,19316,,High School,Retired,1,married,0,0.00,Rent flat,2,
+Abigail Smith,female,4/1978,98921,99999,High School,Employed,1,married,0,0.14,Rent flat,1,asbestosis
+Jonathan Hicks,male,5/1981,17353,18271,High School,Employed,2,married,1,0.09,Own house,1,
+Jayden Garcia,male,2/1944,26356,,Less than High School,Retired,1,married,0,0.00,Rent room,0,
+Harper Williams,female,4/1965,18690,,Less than High School,Retired,3,married,0,0.00,Rent house,2,
+Natalia Wilson,female,12/1948,89659,,Bachelor,Retired,2,widowed,2,0.00,Own house,2,
+Sophia Castaneda,female,10/1939,79586,,Less than High School,Retired,2,married,1,0.00,Own house,1,colon cancer
+Joel Jenkins,male,10/1960,55416,55272,High School,Employed,2,single,0,0.00,Rent house,1,pleural effusion
+Paige Stewart,female,3/1981,59300,49273,Bachelor,Employed,1,married,2,0.67,Own house,0,
+Hayden Coleman,female,2/2002,12011,20841,Less than High School,Employed,0,single,1,0.50,Own flat,0,brain stem stroke
+Caleb Hughes,male,3/1986,71945,70259,Bachelor,Employed,1,married,2,0.00,Rent flat,1,
+Sophia Garrett,female,12/1983,84312,90786,Less than High School,Student,1,married,0,0.25,Rent room,1,
+Joshua Mitchell,male,10/1971,87149,83842,High School,Employed,1,divorced,2,0.24,Own flat,0,
+Sophia Martin,female,2/2001,89845,92573,High School,Student,0,single,1,0.14,Own house,1,
+Addison Maldonado,female,4/1937,23995,,Masters,Retired,4,married,2,0.00,Rent house,1,
+Elijah Martin,male,1/1968,80053,80673,High School,Employed,1,married,1,0.00,Own flat,1,
+Harper Blackwell,female,10/1977,25799,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,
+Gabriel White,male,6/1960,95018,96504,Masters,Employed,1,single,1,0.16,Own flat,1,
+London Estrada,female,12/1996,81467,77761,Bachelor,Student,2,married,0,0.26,Rent room,0,
+Adeline Dennis,female,7/1950,96607,99999,High School,Employed,1,married,1,0.24,Own flat,1,
+David Newman,male,10/1990,88935,36871,Bachelor,Employed,1,married,1,2.58,Own flat,0,colon cancer
+Alejandro Woods,male,11/1958,57973,58153,Bachelor,Employed,2,widowed,2,0.00,Own house,0,asbestosis
+Khloe Vargas,female,1/1960,21561,,High School,Unemployed,1,divorced,2,0.00,Rent room,2,
+Ellie Cortez,female,9/1974,52462,52462,PhD/md,Employed,1,married,2,0.00,Own house,0,
+Maxwell Wagner,male,5/1955,73528,,Masters,Retired,2,widowed,1,0.00,Own house,1,
+Samantha Lewis,female,10/1981,51194,50619,Bachelor,Employed,1,single,1,0.08,Own flat,1,pleural plaques
+Nolan Bennett,male,7/1977,99411,94971,High School,Employed,2,married,0,0.34,Own house,0,
+Gabriel Guerra,male,4/1963,17159,,High School,Retired,2,married,0,0.00,Own flat,0,asbestosis
+Mia Morris,female,1/1968,72000,73116,Masters,Employed,1,married,1,0.08,Own house,1,
+Eli Bass,male,11/1958,93037,,High School,Unemployed,2,married,1,0.00,Rent house,0,
+Elijah Roberts,male,5/1965,48749,48749,Masters,Employed,1,married,2,0.00,Own flat,0,
+Emilia Roberts,female,4/1953,35823,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,2,
+Tyler Graham,male,5/1955,35501,,High School,Retired,2,married,1,0.00,Own house,1,
+Asher Huang,male,6/1953,66871,,Less than High School,Retired,2,married,0,0.00,Rent house,0,
+Harmony James,female,6/1988,79732,64299,Masters,Employed,0,single,1,0.74,Own house,1,
+Blake Marks,male,4/1994,18836,,Bachelor,Unemployed,1,divorced,0,0.00,Rent flat,1,hemorrhagic stroke
+Adeline Murray,female,10/1963,46803,46755,Masters,Employed,2,married,1,0.16,Own house,1,
+Connor Morris,male,5/1937,57063,,Bachelor,Retired,1,married,0,0.00,Own flat,0,hemorrhagic stroke
+Kimberly Robinson,female,6/1967,53185,49705,Bachelor,Employed,1,divorced,0,0.13,Rent flat,1,
+Layla Harris,female,11/1955,47930,,High School,Retired,1,married,1,0.00,Own flat,0,
+Hannah Hernandez,female,7/1991,71148,61043,High School,Employed,1,married,0,0.54,Rent flat,0,asbestosis
+Avery Nichols,female,7/1966,23498,20810,Masters,Student,1,married,0,0.06,Rent room,0,
+Ryan Pacheco,male,7/1982,60781,57602,Bachelor,Employed,1,divorced,1,0.26,Own flat,0,pleural plaques
+Alice Bryant,female,11/1943,26587,,Bachelor,Retired,1,married,0,0.00,Rent house,3,
+Max Hall,male,1/1949,23599,,Bachelor,Retired,1,widowed,1,0.00,Own flat,2,
+Owen Reyes,male,8/1977,64552,81472,Bachelor,Employed,1,divorced,2,0.71,Own house,0,hemorrhagic stroke
+Jake Willis,male,9/1993,33590,30776,High School,Employed,2,single,0,0.17,Own house,2,
+Ivan Norton,male,9/1969,33751,23786,Bachelor,Employed,2,married,1,0.46,Own house,1,
+Natalie Ford,female,4/1990,89533,90572,High School,Employed,2,married,2,0.00,Own house,1,colon cancer
+Kimberly Vega,female,6/1968,24438,,Less than High School,Unemployed,2,married,0,0.00,Own flat,2,
+Ryan Lopez,male,1/1935,64351,,Bachelor,Retired,2,married,0,0.00,Rent house,3,asthma
+Bryson Brown,male,4/1969,43262,43262,High School,Employed,4,married,1,0.00,Own house,1,pleural effusion
+Ayden Palmer,male,8/1972,51279,80669,PhD/md,Employed,7,divorced,1,1.46,Own house,1,
+Peyton Rasmussen,female,9/1947,64906,,High School,Retired,0,divorced,0,0.00,Rent flat,3,
+Quinn Rodriguez,female,4/1949,67175,,Bachelor,Retired,1,widowed,1,0.00,Own flat,0,lung cancer
+Skylar Nixon,female,7/1984,19100,18746,Masters,Employed,1,divorced,1,0.13,Own flat,0,
+Xavier Rogers,male,1/1958,51720,,Less than High School,Retired,1,single,0,0.00,Rent flat,2,pleural plaques
+Charlotte Nicholson,female,12/1958,90848,,Bachelor,Unemployed,1,married,2,0.00,Rent flat,0,
+Tyler Howard,male,7/1971,35218,29447,High School,Employed,2,married,0,0.37,Rent house,0,
+Sadie Lee,female,1/1990,56859,63785,Bachelor,Employed,1,widowed,0,0.38,Rent flat,0,
+Lucas Haley,male,12/1946,39768,,Bachelor,Retired,1,married,1,0.00,Own flat,0,
+Hadley Brown,female,5/1988,11016,64387,High School,Student,1,married,2,2.74,Rent room,0,
+Aria Macias,female,8/1946,34986,,Masters,Retired,1,married,1,0.00,Own flat,2,
+Isabella Cole,female,5/1952,39421,,Masters,Retired,2,divorced,2,0.00,Own house,0,
+Hudson Smith,male,2/1976,76837,77906,Bachelor,Employed,1,divorced,0,0.07,Own flat,2,
+James Gonzales,male,6/2002,99651,90006,High School,Employed,0,single,1,0.60,Own flat,0,
+Anna Wilson,female,9/1999,76254,76606,High School,Student,0,married,1,0.20,Rent room,0,colon cancer
+Parker Nixon,male,12/1938,23012,,Less than High School,Retired,1,married,2,0.00,Own flat,0,chronic bronchitis
+Nicolas Washington,male,3/2000,72386,75698,Less than High School,Employed,0,single,2,0.10,Own flat,0,
+Savannah Fisher,female,2/1989,77281,81221,High School,Employed,5,married,0,0.37,Own flat,2,
+Aubree Snow,female,5/1935,26270,,High School,Retired,2,married,2,0.00,Own house,3,
+Nicole Watts,female,9/1956,70689,70689,Bachelor,Employed,1,married,1,0.00,Own house,1,
+Logan Jackson,male,6/1996,22358,20060,Bachelor,Employed,1,married,1,0.15,Own flat,1,transient ischemic attack
+Landon Schwartz,male,4/1994,90896,92862,Masters,Employed,0,divorced,1,0.10,Own flat,0,
+Jordan Marks,male,4/1944,29701,,High School,Retired,2,married,0,0.00,Rent house,0,
+Samantha Cook,female,4/1997,79125,11607,Bachelor,Student,2,married,1,3.38,Own house,1,
+Eli Meyers,male,3/1935,81227,,PhD/md,Retired,1,married,2,0.00,Own flat,0,
+Kinsley Valenzuela,female,2/1942,36444,,High School,Retired,2,married,1,0.00,Rent house,1,
+Scarlett Salas,female,8/1956,16350,30598,Bachelor,Employed,1,married,2,0.64,Own house,2,ovarian cancer
+Lily Guerra,female,5/1947,97181,,Bachelor,Retired,0,widowed,2,0.00,Own flat,1,
+Noah Miller,male,2/1989,51170,51170,Masters,Employed,1,married,2,0.00,Own house,0,asthma
+Ella Mullins,female,4/1961,91446,,High School,Retired,2,married,1,0.00,Own house,0,
+Madison Rivera,female,1/1966,25025,25025,High School,Employed,0,married,1,0.00,Own flat,1,
+Sarah West,female,1/1940,51728,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,transient ischemic attack
+Adam Walton,male,8/1945,47388,,High School,Retired,2,married,1,0.00,Own flat,1,
+Lily Goodman,female,7/1940,82411,,High School,Retired,2,divorced,2,0.00,Own house,1,
+Bryson Martin,male,5/1991,82653,80797,Less than High School,Employed,4,married,1,0.27,Own house,0,hemorrhagic stroke
+Gracie Ramos,female,5/1951,64086,,High School,Retired,2,married,2,0.00,Own flat,2,
+Brayden Boyd,male,9/1988,27476,33568,Masters,Employed,1,married,2,0.23,Own flat,0,
+Eric Johnson,male,6/1982,45955,43616,High School,Employed,1,married,1,0.05,Rent flat,1,chronic bronchitis
+Austin Martin,male,9/1948,99840,,Bachelor,Retired,0,single,1,0.00,Own flat,1,
+Joshua Norton,male,4/1970,17920,32940,Masters,Student,3,married,0,0.76,Own house,1,
+Noah Clark,male,1/1956,10312,28957,PhD/md,Employed,1,married,1,0.99,Own flat,3,
+Kaleb Cook,male,5/1959,67148,57725,Masters,Employed,2,married,2,0.44,Own house,3,
+Rylee Thornton,female,11/1989,27176,,Less than High School,Unemployed,1,married,0,0.00,Rent room,2,
+Jessica Madden,female,12/1954,43010,,Bachelor,Retired,1,married,1,0.00,Own flat,0,lung cancer
+Joshua Combs,male,1/1959,27123,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Colin Wall,male,6/1958,70063,,High School,Unemployed,1,widowed,2,0.00,Rent flat,0,
+Kayden Zuniga,male,10/1986,81089,90639,High School,Employed,1,divorced,2,0.43,Own flat,1,
+Paisley Russell,female,10/1981,97600,99999,High School,Employed,2,married,0,0.18,Rent house,0,
+Ashley Mason,female,11/1976,14773,14773,High School,Employed,1,divorced,0,0.00,Rent flat,1,
+Melody Copeland,female,11/1977,80253,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,2,
+Samuel Perkins,male,5/1980,99875,47686,Bachelor,Employed,1,divorced,0,2.38,Rent room,1,colon cancer
+Jonathan Roberson,male,1/1980,45848,48006,Bachelor,Employed,1,married,2,0.08,Rent flat,2,pneumonia
+Mia Mack,female,6/1948,41105,,High School,Retired,3,married,0,0.00,Rent house,3,
+Layla Garcia,female,6/1987,33623,34745,Bachelor,Employed,1,married,1,0.00,Own house,0,asbestosis
+Declan Salinas,male,11/1949,19377,,High School,Retired,2,divorced,1,0.00,Own house,1,
+Christian Gonzales,male,10/1967,54346,21426,Bachelor,Student,1,married,1,1.53,Rent house,0,pleural plaques
+Laila Scott,female,10/1962,17975,17975,Bachelor,Employed,1,married,1,0.00,Own house,1,
+William Anderson,male,9/1941,39592,,High School,Retired,1,married,0,0.00,Rent room,1,
+Lincoln Cole,male,12/1984,62862,61618,High School,Employed,2,married,0,0.00,Rent house,0,
+Richard Logan,male,10/1934,49779,,High School,Retired,1,married,1,0.00,Own flat,0,
+Harper Love,female,2/1973,63007,55319,High School,Employed,1,married,1,0.38,Own flat,0,
+Adalyn Ryan,female,6/1967,84963,89737,Masters,Employed,1,married,1,0.26,Own flat,1,
+Michael Robinson,male,4/1932,85587,,Bachelor,Retired,1,widowed,2,0.00,Rent flat,1,
+Gianna Jackson,female,7/1967,49544,49544,PhD/md,Employed,1,married,1,0.00,Own flat,0,
+Micah Myers,male,3/1936,67589,,Bachelor,Retired,1,married,1,0.00,Own house,1,
+Abigail Knox,female,6/1971,41842,42629,High School,Employed,1,widowed,0,0.00,Own flat,0,
+Ethan Carpenter,male,2/1996,23386,93112,Less than High School,Employed,1,single,1,3.65,Own house,0,
+Liam Fowler,male,8/1960,77609,,Masters,Unemployed,0,single,1,0.00,Own flat,3,
+Jordan Wilson,male,10/1980,44252,46756,Bachelor,Employed,1,married,1,0.17,Own house,1,
+Jayden Watson,male,9/1972,91889,91565,Less than High School,Employed,3,single,1,0.00,Own house,1,
+Brooklyn Romero,female,11/1950,86260,,High School,Retired,3,married,0,0.00,Rent house,1,lung cancer
+Gianna Hawkins,female,3/1936,41692,,High School,Retired,3,divorced,0,0.00,Own house,0,
+Savannah Fields,female,1/1952,27737,,High School,Retired,1,divorced,1,0.00,Own flat,0,
+Christopher Holmes,male,4/1990,86581,80482,Masters,Employed,1,married,1,0.31,Own house,2,
+Tristan Cunningham,male,4/1960,58726,54049,High School,Employed,1,married,0,0.23,Rent room,1,transient ischemic attack
+Owen Perez,male,3/1962,30139,,High School,Retired,0,widowed,1,0.00,Own flat,1,
+Alexander White,male,12/1990,18616,,Bachelor,Unemployed,1,married,2,0.00,Rent flat,0,
+Chloe Johnson,female,4/1934,94058,,High School,Retired,2,widowed,1,0.00,Own house,1,
+Hailey Villarreal,female,8/1966,71014,75396,High School,Employed,0,single,1,0.24,Own flat,0,
+Christopher Martin,male,4/1972,72539,34572,Masters,Employed,1,married,3,2.10,Own flat,1,
+Eli Soto,male,7/1942,52321,,High School,Retired,1,married,2,0.00,Own flat,0,
+Laila Jennings,female,2/1974,30417,30417,High School,Employed,1,married,2,0.00,Own house,0,pleural plaques
+Violet Morrow,female,3/1981,68239,68239,High School,Employed,1,married,1,0.00,Own house,1,
+Summer Sullivan,female,10/1934,65113,,High School,Retired,2,married,1,0.00,Own house,1,
+Parker Richards,male,1/1947,97549,,High School,Retired,3,widowed,1,0.00,Own house,1,asthma
+Jonah Norton,male,9/1945,40601,,Bachelor,Retired,1,married,1,0.00,Own flat,3,
+Wyatt Patterson,male,4/1961,98857,95741,Bachelor,Employed,1,single,2,0.00,Own flat,1,chronic bronchitis
+Robert Kelly,male,11/1996,78059,81832,Bachelor,Student,0,single,0,0.18,Rent room,0,
+Daniel Richardson,male,7/1978,51896,34950,High School,Employed,1,married,0,0.75,Rent flat,0,
+Cameron Robbins,male,5/1947,71296,,Less than High School,Retired,6,married,0,0.00,Rent house,1,skin cancer
+Alexandra Davis,female,10/1937,57140,,Bachelor,Retired,1,married,0,0.00,Own flat,0,asthma
+Anna Thornton,female,2/1946,33464,,High School,Retired,1,married,0,0.00,Rent flat,3,
+Colton Petersen,male,12/1965,43972,46240,Bachelor,Employed,1,married,0,0.00,Rent house,1,
+Ethan Adams,male,5/1965,42323,15274,Masters,Employed,1,married,2,1.18,Own flat,0,pleural effusion
+Mia Harris,female,8/1982,90253,85389,Masters,Employed,1,married,1,0.21,Rent house,0,chronic bronchitis
+Owen Robbins,male,3/1979,77693,72793,Masters,Employed,1,married,2,0.29,Own house,1,colon cancer
+Christian Simpson,male,6/1972,60235,,High School,Unemployed,2,married,2,0.00,Rent house,1,
+Layla Perez,female,2/1942,60832,,High School,Retired,1,married,0,0.00,Rent flat,0,pleural plaques
+Hudson Dickerson,male,10/1974,63273,57887,Masters,Employed,2,married,1,0.41,Own house,0,
+Annabelle Vasquez,female,3/1997,93195,93845,High School,Student,0,single,1,0.14,Own house,0,
+Nicole Hancock,female,6/1991,63531,72868,Bachelor,Employed,2,married,2,0.67,Own house,1,
+Harrison Castillo,male,3/1968,97192,,Less than High School,Unemployed,1,married,0,0.00,Rent flat,1,colon cancer
+Sarah Vazquez,female,10/1986,68634,69585,Masters,Employed,1,married,3,0.00,Own house,0,skin cancer
+Josephine Perez,female,4/2000,45002,46900,Bachelor,Employed,1,widowed,0,0.23,Own flat,0,
+Valentina Norton,female,12/1977,74984,73972,Bachelor,Employed,1,married,2,0.09,Own flat,0,asbestosis
+Ryder Kemp,male,10/1936,90306,,Masters,Retired,1,married,1,0.00,Own house,3,
+Isabella Jackson,female,11/1942,18860,,Bachelor,Retired,2,married,0,0.00,Rent house,2,
+Logan Moses,male,7/1956,31613,22177,Bachelor,Employed,1,widowed,1,0.59,Own house,1,
+Sophia Walton,female,11/1967,51550,51514,High School,Employed,3,married,1,0.05,Own house,0,
+James Cunningham,male,7/1939,68507,,High School,Retired,1,widowed,0,0.00,Rent flat,2,
+Ethan Higgins,male,2/2002,49793,52462,High School,Employed,1,married,0,0.08,Rent flat,1,
+Blake Santos,male,6/1951,56663,43581,Masters,Employed,1,single,1,0.59,Own flat,1,
+Samuel Smith,male,9/1999,90698,70580,Less than High School,Student,0,married,0,1.02,Rent room,0,
+Alyssa Walker,female,8/1932,39722,,High School,Retired,2,married,1,0.00,Own house,1,pleural effusion
+Harper Hill,female,7/1959,97014,,Bachelor,Retired,1,married,0,0.00,Rent flat,0,
+Valerie Jones,female,2/1938,35052,,High School,Retired,1,married,1,0.00,Own flat,3,ovarian cancer
+Brandon Mejia,male,11/1954,22035,,Bachelor,Retired,2,divorced,1,0.00,Own house,0,asbestosis
+Zoey Lewis,female,5/1937,27539,,High School,Retired,1,single,1,0.00,Own flat,3,
+Mia Becker,female,5/1970,60772,59568,Less than High School,Employed,4,married,1,0.26,Own house,0,
+Evelyn Bruce,female,12/1943,90062,,Bachelor,Retired,1,divorced,2,0.00,Own flat,1,
+Jayce Williams,male,1/1980,71584,72165,Masters,Employed,1,married,3,0.00,Own flat,1,
+Ayden Pena,male,9/1955,75544,,Bachelor,Retired,1,married,2,0.00,Own house,0,
+Emma Jackson,female,9/1947,60574,,Masters,Retired,1,married,2,0.00,Rent flat,1,
+Richard Moore,male,4/1966,87423,99999,High School,Employed,1,single,2,0.69,Own flat,0,
+Aubrey Romero,female,3/1932,37633,,High School,Retired,2,married,1,0.00,Own house,3,pleural effusion
+Nora Smith,female,9/1941,58608,,Less than High School,Retired,2,married,0,0.00,Rent house,1,
+Eva Harper,female,6/1945,48202,,High School,Retired,1,married,1,0.00,Own flat,2,
+Mariah Miranda,female,1/1942,44708,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Liliana Harvey,female,11/2002,20534,22616,High School,Student,0,married,1,0.10,Own house,0,
+Austin Harris,male,4/1986,77517,73055,Masters,Employed,1,married,1,0.18,Own flat,0,
+Ruby Wallace,female,2/1945,37060,,Bachelor,Retired,2,married,1,0.00,Own house,1,
+Emma Smith,female,1/1954,57807,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Eden Nichols,female,3/1989,44476,42637,High School,Employed,2,divorced,0,0.06,Own flat,1,transient ischemic attack
+Gabriella Castaneda,female,3/1948,66517,,Bachelor,Retired,1,single,1,0.00,Own flat,1,
+Genesis Stafford,female,7/1936,13292,,High School,Retired,1,widowed,1,0.00,Own house,1,
+Katelyn Morgan,female,3/1955,44980,,High School,Retired,1,married,1,0.00,Own house,1,
+Avery Hammond,female,3/1941,11035,,High School,Retired,1,married,0,0.00,Rent flat,0,lung cancer
+Victor Thompson,male,10/1968,24358,22463,Bachelor,Employed,5,married,1,0.17,Own house,1,colon cancer
+Abigail Douglas,female,2/1971,93661,81282,Bachelor,Employed,1,married,2,0.54,Own flat,1,
+Alejandro Casey,male,5/1981,54582,93162,High School,Employed,3,married,1,1.96,Own house,2,
+Maxwell Blanchard,male,7/1933,61552,,Bachelor,Retired,2,divorced,1,0.00,Own house,2,transient ischemic attack
+Thomas Meyers,male,4/1984,54610,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,0,
+Henry Jenkins,male,11/1996,45482,72921,Masters,Employed,0,widowed,2,1.30,Own house,0,
+Owen Phillips,male,12/1981,77311,88315,High School,Employed,1,divorced,1,0.59,Own house,1,transient ischemic attack
+Naomi White,female,11/1952,86414,,Bachelor,Retired,1,widowed,1,0.00,Own house,1,chronic bronchitis
+Serenity Graham,female,8/1945,19643,,Masters,Retired,1,widowed,2,0.00,Rent house,0,
+Allison Morris,female,7/1980,91372,94722,Bachelor,Employed,1,married,1,0.13,Own flat,0,
+Benjamin Martinez,male,10/1975,37125,52317,High School,Employed,1,divorced,1,0.78,Own house,0,
+Violet Smith,female,3/1945,40432,,High School,Retired,1,divorced,0,0.00,Rent flat,0,
+Connor King,male,11/1947,13877,,Bachelor,Retired,0,widowed,2,0.00,Own flat,1,
+Elijah Reyes,male,5/1956,22164,23941,High School,Employed,1,married,1,0.14,Own house,1,
+Kylee Hogan,female,2/1975,21742,28712,High School,Employed,5,married,2,0.38,Own house,0,
+Luke Walker,male,1/1957,47908,49673,Masters,Employed,2,divorced,1,0.19,Own house,1,
+Bella Williams,female,8/1974,93056,93056,Bachelor,Employed,1,divorced,1,0.00,Own house,0,
+Abigail Rodriguez,female,6/1994,56424,26658,Bachelor,Employed,6,married,1,1.59,Own house,0,
+Taylor Wong,female,6/1940,61666,,Bachelor,Retired,1,divorced,2,0.00,Own house,1,
+Logan Rowe,male,3/1945,31801,,High School,Retired,1,married,1,0.00,Own flat,1,
+Connor Jones,male,9/1973,76064,45814,PhD/md,Employed,1,divorced,1,1.53,Own house,0,
+Scarlett Hernandez,female,5/1940,96512,99999,PhD/md,Employed,2,widowed,2,0.10,Own house,2,transient ischemic attack
+Sophia Brady,female,4/1956,47303,44480,Less than High School,Employed,5,divorced,0,0.09,Own house,1,
+Elias Andrews,male,9/2001,58605,65600,High School,Student,0,married,0,0.36,Rent room,2,lung cancer
+Hunter Hancock,male,3/1992,12717,42054,High School,Employed,1,married,0,1.51,Rent flat,0,
+Zoey Jones,female,12/1963,81250,87697,Bachelor,Employed,1,married,2,0.25,Own house,0,pleural plaques
+Cameron Rodriguez,male,8/1945,27106,,PhD/md,Retired,1,married,1,0.00,Own flat,0,asbestosis
+Savannah Harris,female,4/1939,71647,,High School,Retired,1,married,0,0.00,Rent flat,2,
+Peyton Banks,female,4/1954,20916,,High School,Retired,2,married,2,0.00,Own house,1,pneumonia
+Elijah Walsh,male,2/1978,61451,61451,Masters,Employed,1,married,1,0.00,Own flat,1,
+Aubrey Dickerson,female,10/1944,95205,,High School,Retired,1,divorced,2,0.00,Own flat,1,chronic bronchitis
+Scarlett Walker,female,10/1979,84779,79874,Less than High School,Employed,8,married,1,0.24,Own flat,1,
+John Hall,male,5/1982,51127,45044,Bachelor,Employed,1,married,2,0.22,Own flat,0,
+Brandon Lee,male,8/1978,74307,75948,High School,Employed,1,married,0,0.03,Own flat,0,transient ischemic attack
+Landon Kennedy,male,10/2000,40100,38952,Bachelor,Employed,2,married,2,0.06,Own house,0,
+Serenity Carpenter,female,8/1961,21538,21538,Bachelor,Employed,1,married,0,0.00,Rent flat,0,
+Amy Young,female,8/1969,15981,,High School,Unemployed,6,married,1,0.00,Rent house,1,
+Samantha Anderson,female,9/1932,59420,68256,High School,Employed,4,married,0,0.35,Rent house,1,
+Caleb Ali,male,1/1962,14116,12516,Masters,Employed,1,married,1,0.14,Own flat,1,hemorrhagic stroke
+Aaliyah Andersen,female,9/1978,84463,87608,PhD/md,Employed,0,single,2,0.25,Own house,1,
+Gracie Howell,female,1/1933,12878,15485,Bachelor,Employed,1,married,1,0.00,Own house,1,
+Sophie Roberts,female,5/1940,87138,,High School,Retired,1,married,2,0.00,Own flat,0,
+Ariel Simpson,female,8/1939,59776,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Mason Davis,male,10/1964,67940,66972,Masters,Employed,1,divorced,1,0.00,Own flat,0,transient ischemic attack
+Daniel Davila,male,6/1950,84905,,Less than High School,Retired,2,divorced,2,0.00,Own house,2,
+Easton Randall,male,8/1946,61953,,High School,Retired,1,married,1,0.00,Own house,0,skin cancer
+Alyssa Rodriguez,female,6/1936,99147,,Masters,Retired,0,single,1,0.00,Own flat,2,hemorrhagic stroke
+Gracie Nelson,female,11/1990,51774,,Less than High School,Unemployed,1,married,0,0.00,Own flat,0,skin cancer
+Brooklyn Anderson,female,1/1954,83701,,High School,Retired,2,married,0,0.00,Rent house,1,skin cancer
+Owen Roberts,male,7/1964,30020,,Bachelor,Retired,2,divorced,0,0.00,Rent house,1,
+Ian Fox,male,1/1990,81162,82245,High School,Employed,1,married,1,0.09,Own house,1,
+Camden Rollins,male,8/1985,83800,44960,Masters,Employed,0,single,1,1.93,Own flat,0,transient ischemic attack
+Levi Moore,male,12/1985,56498,59006,Bachelor,Employed,1,married,1,0.29,Own flat,1,
+Adam Gray,male,3/1984,77322,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,0,asbestosis
+Jesus Roach,male,8/1960,89294,76687,Bachelor,Employed,1,married,0,0.61,Rent flat,1,
+Elizabeth Thomas,female,1/1965,19699,,Bachelor,Retired,1,married,1,0.00,Own flat,3,ovarian cancer
+Aiden Allen,male,12/1947,29406,,Bachelor,Retired,1,married,0,0.00,Rent flat,3,
+Timothy Woodard,male,9/1950,21217,10000,Bachelor,Employed,2,married,0,0.59,Rent house,1,
+Hunter Robinson,male,7/1947,81981,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Alexander Mckinney,male,2/1936,25740,,Bachelor,Retired,2,married,2,0.00,Own house,1,
+Gavin Thompson,male,8/1978,96237,99999,Bachelor,Employed,0,single,0,0.20,Rent flat,1,
+Jesus Shannon,male,12/1954,30190,,High School,Retired,1,married,0,0.00,Rent flat,3,lung cancer
+Kaden Lowery,male,2/1933,70044,,High School,Retired,2,married,0,0.00,Own house,3,chronic bronchitis
+Christopher Wilson,male,7/1944,56669,,High School,Retired,2,married,2,0.00,Own house,1,
+Max Boyd,male,6/1995,19738,39871,High School,Employed,1,divorced,0,0.88,Own flat,1,transient ischemic attack
+Makenzie Ibarra,female,1/1976,32847,24453,Bachelor,Employed,1,divorced,1,0.30,Own flat,0,
+Josiah Hubbard,male,8/1951,18290,,Masters,Retired,1,married,2,0.00,Own flat,1,
+Olivia Jones,female,6/1956,32514,34696,Less than High School,Employed,1,divorced,0,0.21,Rent house,0,
+Gabriella Rodgers,female,7/1988,52397,50916,High School,Employed,1,married,1,0.06,Own flat,1,
+Ryan Hart,male,9/1946,36169,,Masters,Retired,1,widowed,2,0.00,Own house,1,colon cancer
+Aaliyah Cook,female,11/1960,62667,47819,Bachelor,Employed,1,married,1,0.72,Own flat,1,
+Samantha Snow,female,8/1978,99929,97040,High School,Employed,2,married,1,0.12,Own house,0,pneumonia
+Alice Price,female,4/1971,21883,13488,Masters,Employed,2,married,1,0.37,Own house,1,
+Aidan Camacho,male,1/1943,91261,,Bachelor,Retired,1,widowed,2,0.00,Own flat,1,
+Patrick Salinas,male,10/1943,74548,,High School,Retired,1,married,1,0.00,Own flat,3,
+Eli Robertson,male,12/1992,52761,62658,Less than High School,Employed,1,single,1,0.32,Own flat,0,
+Rylee Hubbard,female,1/1939,38594,,Bachelor,Retired,1,widowed,2,0.00,Own flat,1,asbestosis
+Brooklyn Buckley,female,11/1945,65599,,Less than High School,Retired,1,married,0,0.00,Rent flat,1,
+Ayden Simmons,male,9/1993,20214,21040,Bachelor,Employed,1,married,0,0.09,Own flat,0,
+Valentina Ray,female,9/1973,84475,51902,Less than High School,Employed,1,married,0,1.71,Rent flat,0,hemorrhagic stroke
+Julianna Hernandez,female,5/1981,30959,35079,High School,Employed,2,married,2,0.13,Own house,1,
+Ryan Dunlap,male,2/1956,67596,,High School,Retired,3,married,0,0.00,Rent house,0,colon cancer
+Noah Black,male,5/1943,38031,,Bachelor,Retired,1,married,2,0.00,Own flat,1,
+John Parker,male,6/1981,87431,88255,Bachelor,Employed,1,married,2,0.00,Own flat,1,
+Aria Brown,female,6/1964,98029,99877,Masters,Employed,1,married,1,0.01,Own flat,1,
+Mila Martin,female,3/1973,31664,25849,Less than High School,Employed,1,married,0,0.33,Rent flat,1,
+Paige Ortiz,female,1/1958,51978,41329,Less than High School,Employed,1,married,1,0.66,Own flat,1,
+Eleanor Sanders,female,4/1948,58383,,Masters,Retired,2,married,1,0.00,Own house,1,
+Blake Parsons,male,9/1957,35339,,Bachelor,Retired,1,widowed,0,0.00,Rent house,1,
+Samantha Davila,female,12/1978,41706,66455,Less than High School,Employed,1,married,0,1.27,Rent flat,1,
+Hadley Schultz,female,7/1976,71792,72605,Masters,Employed,3,married,1,0.28,Own house,1,
+Liam Soto,male,11/1965,96835,93480,High School,Employed,0,single,2,0.13,Own house,0,
+Owen Jones,male,3/1943,64238,,High School,Retired,0,widowed,1,0.00,Own flat,1,
+Alyssa Michael,female,4/1936,91193,76803,Masters,Employed,1,widowed,2,0.67,Own house,1,
+Lincoln Lambert,male,2/1989,69073,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,0,lung cancer
+Piper King,female,8/1956,51411,,High School,Unemployed,1,married,2,0.00,Own flat,1,
+Richard Castaneda,male,11/1939,58622,,Bachelor,Retired,2,married,2,0.00,Own house,3,
+Jordan Jones,male,3/2001,97607,97607,High School,Student,0,single,1,0.00,Own house,0,skin cancer
+Luna Conner,female,9/1935,28243,,Masters,Retired,1,married,1,0.00,Own flat,1,
+Gianna Marshall,female,1/1933,54346,,PhD/md,Retired,1,married,2,0.00,Own flat,1,
+Quinn Harris,female,11/1997,96961,77809,Less than High School,Student,0,single,0,1.02,Rent room,0,pleural plaques
+Noah Cowan,male,10/2002,86966,75145,High School,Student,0,widowed,0,0.56,Rent room,0,
+Ella Gardner,female,6/1964,17887,85562,Masters,Employed,1,married,2,3.31,Own flat,1,
+Daisy Ramirez,female,4/1977,87013,83776,Less than High School,Employed,3,married,1,0.24,Own house,0,pneumonia
+Penelope Kennedy,female,2/1953,76523,,High School,Retired,3,married,1,0.00,Own house,0,
+Zoey Perez,female,9/1963,59586,74098,Masters,Employed,2,married,2,0.61,Own house,0,ovarian cancer
+Paisley Baker,female,11/1938,96268,90414,High School,Employed,2,divorced,2,0.18,Own house,0,
+Mason Weiss,male,6/1989,95247,,High School,Unemployed,2,married,1,0.00,Rent house,1,
+Braxton Nelson,male,6/1982,65025,64080,High School,Employed,3,divorced,0,0.24,Rent house,0,
+Brady Pittman,male,7/1984,59305,33916,Masters,Employed,1,divorced,1,1.22,Own flat,1,pneumonia
+Mason Clark,male,2/1946,97321,93834,Less than High School,Employed,3,married,2,0.09,Own house,1,
+Mia Watson,female,3/1986,80565,62830,High School,Employed,4,divorced,0,0.75,Own flat,0,
+Maya Rodriguez,female,6/1993,30558,25790,Masters,Employed,1,married,1,0.12,Own flat,0,
+Madison Davis,female,12/1934,43874,,High School,Retired,5,widowed,1,0.00,Own house,0,
+Jordan Lloyd,male,8/1956,47842,51536,Bachelor,Employed,0,single,1,0.10,Own house,0,
+Jacob Campbell,male,10/1957,66859,,High School,Unemployed,1,widowed,0,0.00,Own flat,1,
+Jaxon Daniels,male,10/1935,28790,,Masters,Retired,1,married,2,0.00,Own flat,0,
+Jonathan Morrison,male,7/1990,41918,87569,High School,Employed,1,married,1,2.58,Own flat,0,
+Victoria Robinson,female,2/1999,41689,42057,Bachelor,Student,1,married,0,0.02,Rent room,1,
+Ivy Arnold,female,10/1968,19958,,High School,Unemployed,3,divorced,0,0.00,Own house,0,
+Elise Scott,female,3/1940,55269,,PhD/md,Retired,1,divorced,1,0.00,Own flat,1,hemorrhagic stroke
+Joshua Robbins,male,4/1938,51370,,Bachelor,Retired,0,single,1,0.00,Rent house,0,skin cancer
+Dylan Johnson,male,2/1961,37043,46862,Bachelor,Employed,1,single,0,0.73,Rent flat,0,pleural plaques
+Hannah Thompson,female,12/1980,53659,46214,High School,Employed,2,married,0,0.43,Rent house,0,
+Ezekiel Chaney,male,12/1958,84331,74190,High School,Employed,1,divorced,1,0.52,Own flat,3,
+Asher Solis,male,5/1934,63760,63488,Less than High School,Employed,1,married,2,0.03,Rent house,1,
+Sofia Lucas,female,10/1995,61945,44444,Bachelor,Employed,1,married,0,0.93,Own flat,1,asbestosis
+Ayden Ellis,male,1/1978,71434,87956,Bachelor,Employed,1,married,1,0.86,Own flat,3,
+Aaron Carrillo,male,5/1973,46178,48033,High School,Employed,1,married,1,0.06,Own house,0,asthma
+Adalyn Salinas,female,7/1986,63872,45711,Bachelor,Employed,2,married,1,0.95,Own house,0,lung cancer
+Adrian Johnston,male,12/1997,27926,23232,High School,Employed,0,divorced,1,0.20,Own house,0,transient ischemic attack
+Adalyn Macias,female,8/1961,91318,,High School,Retired,2,married,1,0.00,Own house,0,
+Julia Anderson,female,3/1995,74579,74579,Bachelor,Employed,1,married,0,0.00,Rent flat,1,
+Logan Lewis,male,7/1954,65085,,High School,Retired,2,married,0,0.00,Rent house,1,
+Joshua Watson,male,8/1964,96132,96049,High School,Employed,2,married,0,0.00,Rent house,3,transient ischemic attack
+Lillian Smith,female,1/1977,12429,69707,High School,Employed,1,married,0,2.91,Own flat,1,
+Aaron Waters,male,8/1936,22359,,High School,Retired,0,married,2,0.00,Own flat,0,
+Abigail Peters,female,1/1976,68813,45605,High School,Employed,3,married,1,1.18,Own house,1,
+Hannah Garcia,female,4/1958,21189,,High School,Unemployed,2,married,1,0.00,Rent house,1,asbestosis
+Mila Wilson,female,4/1983,10691,59800,Masters,Student,1,married,0,2.52,Rent house,0,
+Mia Guerrero,female,12/1983,92445,94811,Bachelor,Employed,2,divorced,1,0.06,Own house,0,
+Noah Maynard,male,9/1946,31747,,High School,Retired,1,married,0,0.00,Rent flat,1,
+Lily Rose,female,4/1941,20094,,Bachelor,Retired,2,married,1,0.00,Own house,0,
+Hazel Rodgers,female,1/1955,53064,,Bachelor,Retired,2,divorced,1,0.00,Own house,1,colon cancer
+Emma Schroeder,female,11/1989,78136,78519,High School,Employed,2,married,1,0.14,Own house,0,
+Audrey Nichols,female,4/1932,52880,,Masters,Retired,1,divorced,1,0.00,Own house,1,
+Noah Jones,male,7/1978,43686,35131,High School,Employed,2,divorced,2,0.41,Own house,0,transient ischemic attack
+Brooklyn Conner,female,1/1986,60713,67884,High School,Employed,1,married,2,0.25,Own flat,1,
+Luis Hart,male,12/1993,25704,23214,High School,Employed,1,married,0,0.25,Rent flat,0,colon cancer
+Jack Brennan,male,3/1950,67576,,High School,Retired,2,divorced,0,0.00,Rent house,0,
+Parker Burgess,male,9/1968,61344,61916,Bachelor,Student,1,divorced,1,0.12,Rent room,0,
+Lillian Diaz,female,7/1977,20298,12825,High School,Student,3,married,1,0.24,Rent room,0,
+Eli Johnson,male,8/1970,70977,71231,Masters,Employed,1,married,1,0.08,Rent house,1,
+Caleb Bernard,male,12/1938,75534,,Masters,Retired,1,married,1,0.00,Own house,0,
+Elijah Mack,male,3/1970,42586,46607,High School,Student,1,married,1,0.31,Rent room,0,
+Rylee Shaffer,female,10/1999,48116,48116,Less than High School,Employed,0,single,2,0.00,Rent house,1,
+Liam Chandler,male,2/2000,59592,,Bachelor,Unemployed,1,married,1,0.00,Rent flat,0,asbestosis
+Isaac Smith,male,11/1980,81473,87555,Bachelor,Employed,1,married,1,0.27,Own flat,1,asthma
+Julian Hall,male,7/1994,48298,45937,Masters,Employed,0,single,2,0.16,Own flat,0,
+Jesse Wells,male,12/1939,85545,,High School,Retired,1,divorced,2,0.00,Own flat,0,
+Nathaniel Carlson,male,4/1977,48541,73255,PhD/md,Employed,1,married,2,1.25,Own house,0,
+Evan Snow,male,8/1967,54231,54231,High School,Employed,5,married,1,0.00,Own house,1,
+Samantha Nelson,female,2/1963,97753,,Bachelor,Retired,4,married,1,0.00,Own house,1,
+Brooke Morris,female,9/1979,74504,76381,High School,Employed,2,married,1,0.10,Own house,0,transient ischemic attack
+Luke Romero,male,10/1944,39882,,Masters,Retired,1,married,1,0.00,Own flat,3,
+Jackson Clay,male,10/1961,67950,74161,Masters,Employed,1,married,2,0.26,Rent house,0,
+Aubrey Williams,female,4/1965,87292,87292,Masters,Employed,1,divorced,2,0.00,Own flat,0,
+Charles Michael,male,12/1939,24932,,High School,Retired,2,single,1,0.00,Own house,3,asbestosis
+Sophia Logan,female,8/1962,53101,52791,PhD/md,Employed,0,married,3,0.06,Own house,1,
+Brandon Thomas,male,3/1935,49068,,Bachelor,Retired,1,widowed,1,0.00,Own house,0,pleural plaques
+Tyler Kirk,male,2/1970,18250,68993,High School,Student,3,married,1,2.33,Rent house,1,
+Michelle Fletcher,female,9/1936,68615,,Masters,Retired,1,married,3,0.00,Own house,1,
+Jacob Cook,male,9/1984,14410,,High School,Unemployed,1,single,0,0.00,Rent flat,1,colon cancer
+James Wood,male,7/1955,45344,,Bachelor,Retired,1,married,1,0.00,Own flat,1,
+Gabriel Perez,male,11/1932,35602,,High School,Retired,1,married,1,0.00,Own house,1,
+Preston Williams,male,9/1964,92357,68309,Less than High School,Employed,5,married,2,1.15,Own house,0,colon cancer
+Mia Schroeder,female,8/1941,59956,,Masters,Retired,1,married,2,0.00,Own flat,3,
+Luis Jones,male,10/1933,77922,,High School,Retired,2,divorced,1,0.00,Own house,0,
+Antonio Walker,male,12/1956,95889,98316,Bachelor,Employed,1,married,0,0.21,Rent flat,0,
+Ezra Schwartz,male,3/1998,58769,62254,Bachelor,Student,1,divorced,0,0.30,Own house,0,
+Isabella Dominguez,female,4/1986,44143,44143,Masters,Employed,1,widowed,2,0.00,Own house,1,
+Ava Jensen,female,5/1976,25548,25548,PhD/md,Employed,1,married,1,0.00,Own flat,1,
+Lauren Baxter,female,9/1975,10816,10816,Less than High School,Employed,1,married,1,0.00,Own house,0,
+Eli Frazier,male,8/1976,47008,30943,Masters,Employed,1,married,1,0.81,Own flat,0,transient ischemic attack
+Bryce Kirk,male,8/1961,53446,,Bachelor,Retired,1,married,1,0.00,Own house,2,pleural effusion
+Samantha Bentley,female,11/1939,22914,,Masters,Retired,1,widowed,1,0.00,Own flat,2,
+Caroline Johnson,female,10/1996,95106,89779,Masters,Employed,0,single,2,0.34,Own flat,2,
+Amelia Reyes,female,4/1975,23486,23715,High School,Employed,2,divorced,1,0.00,Own house,0,transient ischemic attack
+Michael Coleman,male,2/1964,23466,32025,High School,Employed,1,divorced,0,0.34,Rent flat,1,
+Luke Wallace,male,7/1936,58389,,High School,Retired,1,divorced,2,0.00,Own flat,1,pneumonia
+Hunter Rodgers,male,12/1938,94651,,High School,Retired,1,married,0,0.00,Rent flat,3,
+Lydia Ramirez,female,6/1966,95149,,Bachelor,Unemployed,1,married,0,0.00,Own flat,1,asbestosis
+Abigail Lara,female,4/1948,78603,,Masters,Retired,1,widowed,1,0.00,Own flat,3,
+Joseph Robbins,male,12/1971,44031,91484,Masters,Student,1,divorced,1,2.34,Rent room,1,
+Nevaeh Hart,female,2/1933,96473,,High School,Retired,1,widowed,0,0.00,Rent flat,1,
+Madison Maldonado,female,11/1956,46907,87444,PhD/md,Employed,2,single,1,1.98,Own house,0,
+Kevin Davis,male,6/1960,23349,91052,Masters,Employed,1,divorced,3,3.28,Own flat,1,pleural plaques
+Caleb Burch,male,1/1963,97650,96475,High School,Employed,1,married,2,0.07,Own house,1,
+Richard Cooper,male,11/1949,47561,,Bachelor,Retired,2,widowed,2,0.00,Own house,3,pleural plaques
+Brooklyn Johnson,female,12/1947,84886,,Masters,Retired,0,single,1,0.00,Own house,2,
+William Thomas,male,11/1966,54678,63930,Less than High School,Student,1,married,0,0.41,Rent room,1,
+Joel Summers,male,4/1943,46134,,Bachelor,Retired,0,widowed,2,0.00,Own flat,0,
+Kevin Franco,male,5/1948,70195,,High School,Retired,1,widowed,0,0.00,Own flat,0,pleural plaques
+Adam Guerra,male,4/1936,80991,,Masters,Retired,0,single,1,0.00,Own house,1,
+Anthony Dunn,male,1/1998,40549,47764,Masters,Student,0,single,0,0.41,Rent room,0,
+Nevaeh Delgado,female,6/1949,55983,,Bachelor,Retired,1,divorced,0,0.00,Rent flat,0,
+Addison Rice,female,3/1991,56267,64704,Masters,Employed,1,married,3,0.30,Own flat,2,transient ischemic attack
+Clara Gibson,female,7/1970,98054,79972,High School,Employed,1,married,0,0.86,Rent flat,0,colon cancer
+Zoe Holmes,female,4/1968,87694,86068,Masters,Employed,2,married,2,0.05,Own house,1,
+Lauren Cole,female,8/1937,94371,,Bachelor,Retired,1,widowed,2,0.00,Own flat,1,
+Amelia Roberts,female,4/1939,14863,,Masters,Retired,1,divorced,2,0.00,Rent flat,2,
+Noah Crane,male,7/1960,27929,43975,Bachelor,Employed,1,married,1,0.70,Own house,1,
+Jackson Morales,male,8/1982,96165,89429,Masters,Employed,1,divorced,2,0.26,Own flat,2,
+Michael Huber,male,6/1951,70033,,Bachelor,Retired,1,widowed,0,0.00,Rent flat,1,
+Lily Bauer,female,4/1967,61756,61144,High School,Employed,3,married,1,0.00,Own house,2,transient ischemic attack
+Brooklyn Schwartz,female,9/1945,54869,,Masters,Retired,1,single,1,0.00,Own flat,1,colon cancer
+Mia Jennings,female,4/1969,23871,19174,Masters,Employed,1,married,2,0.34,Own flat,1,
+Lillian Morgan,female,12/1951,20133,,High School,Retired,2,married,0,0.00,Own house,0,
+Caroline Martin,female,7/1934,55871,,High School,Retired,2,married,0,0.00,Own house,1,asbestosis
+Zoey Wright,female,10/1971,89412,55503,High School,Employed,1,married,1,1.81,Own flat,0,
+Leah Gibson,female,9/1951,63863,,Less than High School,Retired,2,widowed,0,0.00,Rent house,1,
+Christopher Obrien,male,6/1971,93578,88307,PhD/md,Employed,1,married,2,0.36,Own house,1,
+Emilia Alvarado,female,1/1946,66356,,High School,Retired,1,widowed,0,0.00,Rent flat,1,transient ischemic attack
+Bryson Lopez,male,4/1964,13037,17310,Bachelor,Employed,2,divorced,2,0.35,Own house,1,chronic bronchitis
+Stella Shaw,female,2/1937,67766,,Less than High School,Retired,1,married,0,0.00,Rent flat,1,lung cancer
+Tristan Evans,male,1/1955,14388,,High School,Retired,1,married,1,0.00,Own flat,1,
+Emily White,female,4/1972,55382,40149,High School,Employed,1,married,2,0.76,Own house,0,asbestosis
+Owen Soto,male,11/1965,27125,11393,Less than High School,Employed,2,married,0,0.73,Rent house,0,
+Alice Patrick,female,1/1986,40818,53822,High School,Employed,2,single,1,0.70,Own house,0,
+Avery Hayden,female,11/1996,12215,12215,Bachelor,Student,0,married,1,0.00,Rent house,0,
+Chase Myers,male,7/1963,65203,79920,Masters,Employed,1,married,2,0.68,Own flat,0,
+Isabella Martin,female,12/1977,86014,,High School,Unemployed,1,married,0,0.00,Own flat,0,lung cancer
+Penelope Chavez,female,9/1941,71492,,High School,Retired,2,divorced,0,0.00,Rent house,1,
+Isabella Meadows,female,1/1982,73130,78915,PhD/md,Employed,2,married,3,0.41,Own house,0,
+Anna Nguyen,female,4/1971,35720,35208,High School,Employed,1,married,0,0.04,Rent flat,1,brain stem stroke
+Mila Perez,female,9/1962,78156,,High School,Retired,3,married,0,0.00,Rent house,1,
+Naomi Beck,female,4/1980,33381,35256,High School,Employed,1,married,0,0.00,Rent room,0,
+Wyatt Nguyen,male,11/1946,30948,,Bachelor,Retired,1,widowed,2,0.00,Own flat,1,
+Paisley Benton,female,4/1960,14443,14425,Masters,Employed,1,married,2,0.00,Own house,1,ovarian cancer
+Piper Hampton,female,5/1977,31039,33861,High School,Employed,2,divorced,2,0.17,Own house,1,
+Alyssa Roman,female,9/2000,48411,,High School,Unemployed,0,single,0,0.00,Rent flat,0,
+Lila Cummings,female,12/1944,51782,,PhD/md,Retired,2,married,1,0.00,Own house,1,skin cancer
+Robert Taylor,male,6/1953,43865,,High School,Retired,2,widowed,2,0.00,Own house,1,
+Layla Davis,female,5/1949,14837,,High School,Retired,2,divorced,0,0.00,Own house,0,
+Wyatt Walter,male,7/1968,38341,88438,Less than High School,Employed,2,married,0,2.44,Rent house,0,
+Hunter Parker,male,10/1978,45132,26192,Masters,Employed,1,married,2,0.91,Own house,0,
+Adam Glass,male,4/1939,56825,,Bachelor,Retired,0,married,1,0.00,Own house,1,
+Alice Evans,female,4/1958,99881,,High School,Retired,2,married,2,0.00,Own house,0,
+James Dennis,male,12/1990,66584,59820,PhD/md,Employed,1,married,1,0.30,Rent flat,0,
+Wesley Perez,male,6/1994,92105,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Kaylee Mullen,female,7/1963,38205,,Bachelor,Retired,1,single,1,0.00,Own house,1,
+Alexander Wood,male,1/1984,88182,,High School,Unemployed,1,married,2,0.00,Own flat,0,
+Santiago Peterson,male,4/1950,98162,,High School,Retired,1,widowed,0,0.00,Rent room,1,
+Bryce Bauer,male,3/1944,32116,,Less than High School,Retired,1,married,0,0.00,Rent flat,0,transient ischemic attack
+Wyatt Owen,male,12/1999,51035,,Bachelor,Unemployed,2,married,0,0.00,Rent house,0,
+Jeremy Townsend,male,6/1938,28263,,High School,Retired,1,single,0,0.00,Rent room,0,
+Makenzie Frazier,female,10/1939,70604,,Bachelor,Retired,1,widowed,0,0.00,Own flat,1,
+Abraham Livingston,male,12/1990,84727,85487,Bachelor,Employed,0,single,1,0.01,Own flat,0,
+Wesley Zuniga,male,10/1970,50779,43616,Masters,Employed,1,divorced,2,0.46,Own flat,0,
+Mia Perkins,female,3/1955,15337,,High School,Retired,1,married,2,0.00,Own house,0,
+Ethan Whitney,male,5/1948,24706,,High School,Retired,2,married,2,0.00,Own house,2,
+Andrew Barrett,male,7/1957,86491,,Less than High School,Retired,8,married,2,0.00,Own house,1,
+Ariana Koch,female,1/1962,55108,56280,Bachelor,Employed,1,married,1,0.13,Rent flat,0,asthma
+Kate Henry,female,1/1976,34173,31472,Bachelor,Employed,1,married,2,0.10,Own flat,3,colon cancer
+Lucas Ford,male,8/1942,55506,,High School,Retired,4,married,0,0.00,Own flat,1,lung cancer
+Makenzie Contreras,female,3/1969,81356,72200,High School,Employed,2,married,1,0.61,Own house,1,
+Xavier Cisneros,male,2/1987,60972,59214,Bachelor,Employed,1,single,0,0.07,Rent flat,2,
+Caleb Martin,male,4/1999,78462,,High School,Unemployed,0,single,0,0.00,Rent flat,0,
+Gabriella Schroeder,female,3/1974,90087,83801,Less than High School,Employed,1,married,0,0.30,Own flat,1,transient ischemic attack
+Aubrey Ferguson,female,9/1972,73522,,High School,Unemployed,1,married,0,0.00,Rent flat,1,brain stem stroke
+Jordan Moore,male,1/1933,88604,,Less than High School,Retired,1,divorced,0,0.00,Rent house,1,
+Grayson Farrell,male,7/1970,99351,99999,High School,Employed,2,married,0,0.29,Own house,0,
+Daniel Parker,male,12/1943,88886,,High School,Retired,1,divorced,1,0.00,Own flat,1,
+Evelyn Green,female,1/1978,36897,37338,High School,Employed,1,married,1,0.15,Own flat,1,
+Hunter Cisneros,male,4/1950,29975,,Bachelor,Retired,1,single,1,0.00,Own flat,2,
+Grace Montoya,female,9/1974,48604,48553,Masters,Employed,1,married,2,0.02,Own house,1,
+Mia Carroll,female,1/1985,69512,70940,High School,Employed,2,divorced,1,0.22,Own house,2,
+Elena Rodriguez,female,8/1964,33949,47497,Bachelor,Employed,3,married,1,0.69,Own house,1,ovarian cancer
+Stella Anderson,female,11/1970,27598,46505,Bachelor,Employed,3,divorced,0,0.80,Rent house,1,asbestosis
+Jessica Taylor,female,5/1973,26029,24361,Bachelor,Employed,1,divorced,1,0.00,Own house,2,
+Hudson Romero,male,6/1951,93176,,Less than High School,Retired,1,widowed,1,0.00,Own flat,1,
+Julian Cooper,male,4/1950,24225,,Less than High School,Retired,1,married,1,0.00,Own house,2,lung cancer
+Kendall Maxwell,female,4/1967,63802,70257,Masters,Employed,1,married,1,0.19,Own flat,1,skin cancer
+Peyton Jones,female,9/1934,31665,,Bachelor,Retired,3,married,0,0.00,Rent house,0,
+Molly Martinez,female,8/1994,68302,65169,Bachelor,Employed,1,married,0,0.07,Rent flat,0,hemorrhagic stroke
+Kennedy Crane,female,7/1959,18468,,High School,Retired,1,single,0,0.00,Rent flat,1,
+Elizabeth Cordova,female,8/1990,49449,49449,Bachelor,Employed,2,divorced,0,0.00,Rent house,0,
+Mila Gallagher,female,10/1984,40158,40372,High School,Employed,4,married,0,0.12,Rent house,2,pneumonia
+Faith Turner,female,8/1984,51674,,High School,Unemployed,2,married,2,0.00,Rent house,1,
+Aaron Stephenson,male,1/1935,44065,,Bachelor,Retired,2,divorced,2,0.00,Own house,0,
+Blake Diaz,male,3/1963,50059,81472,Bachelor,Employed,1,divorced,2,1.62,Own flat,1,
+Nicholas Baker,male,10/1946,23982,,High School,Retired,3,married,2,0.00,Own house,1,
+Kate Silva,female,4/1987,54954,54954,High School,Employed,1,married,1,0.00,Own flat,0,
+Gabriella Foster,female,3/1960,57147,48175,High School,Employed,3,divorced,1,0.44,Own house,1,
+Robert Gibson,male,10/1985,16359,18139,Masters,Employed,3,single,3,0.07,Own house,2,
+Tyler Santiago,male,8/1946,97785,,High School,Retired,2,married,1,0.00,Own house,0,
+Samuel Durham,male,1/1952,89039,,Less than High School,Retired,4,divorced,1,0.00,Own house,0,
+Avery Gonzales,female,6/1985,46705,41856,High School,Employed,1,married,1,0.23,Own flat,0,
+Colton Morris,male,9/1995,94316,,High School,Unemployed,2,married,2,0.00,Rent house,0,transient ischemic attack
+Harper Kline,female,7/1962,72146,81919,High School,Employed,2,married,2,0.44,Own house,1,
+Christopher Nguyen,male,2/1932,41899,,Less than High School,Retired,1,single,0,0.00,Rent room,3,
+Jackson Collins,male,2/1949,33563,,Bachelor,Retired,1,single,1,0.00,Own flat,0,
+Michael Orr,male,10/1975,75341,77294,High School,Student,4,married,0,0.04,Own house,0,
+Easton Dominguez,male,10/1949,88302,,High School,Retired,2,divorced,1,0.00,Own house,1,
+Christopher Jensen,male,9/1948,14403,,Bachelor,Retired,1,widowed,1,0.00,Own flat,1,
+Nora Daniels,female,3/1987,51156,,Less than High School,Unemployed,2,married,0,0.00,Rent house,0,
+Hunter Phillips,male,1/1946,96478,,Bachelor,Retired,6,single,2,0.00,Own house,1,
+Aubrey Mendoza,female,8/1975,72839,69330,High School,Employed,1,married,2,0.14,Rent house,1,pneumonia
+Brady Serrano,male,4/1933,26057,,High School,Retired,1,widowed,0,0.00,Rent flat,0,
+Elise Hartman,female,6/1934,83777,,Less than High School,Retired,2,divorced,2,0.00,Own house,2,
+Summer Carpenter,female,6/1978,14200,13186,Bachelor,Employed,1,married,1,0.00,Rent flat,0,transient ischemic attack
+Autumn Harris,female,7/1949,50439,,High School,Retired,2,married,2,0.00,Own house,0,
+Jonathan Wilson,male,8/1965,24134,,Bachelor,Retired,2,married,2,0.00,Own house,0,
+Carter Guerra,male,2/1991,81636,75333,Bachelor,Employed,0,single,0,0.35,Own flat,0,lung cancer
+James Burton,male,1/1973,43758,43758,High School,Employed,1,married,2,0.00,Own house,0,
+Landon Adams,male,5/1970,60893,62663,Masters,Employed,2,married,3,0.00,Own house,1,asthma
+Liam Hayes,male,9/1982,90220,96225,Bachelor,Employed,1,married,0,0.21,Own flat,0,
+Miguel Johnson,male,5/1991,95164,99999,High School,Employed,2,married,2,0.29,Own house,0,
+Liam Silva,male,4/1989,40702,62096,Bachelor,Employed,1,married,1,1.03,Rent flat,0,pleural effusion
+Leah Dougherty,female,1/1945,35806,,High School,Retired,1,married,1,0.00,Own house,1,
+Samuel Wright,male,10/1948,54815,,High School,Retired,1,widowed,2,0.00,Own flat,0,
+Weston Gay,male,5/1934,32614,,High School,Retired,1,married,2,0.00,Own flat,0,asbestosis
+Skylar Brooks,female,10/1940,18281,,Bachelor,Retired,1,single,2,0.00,Own house,1,
+Vincent Hayes,male,8/2002,11893,77342,High School,Student,1,married,0,3.27,Rent room,0,pleural plaques
+Matthew Mathis,male,3/1957,12090,,High School,Retired,1,divorced,2,0.00,Rent flat,2,
+Amelia Reese,female,6/2002,31128,,High School,Unemployed,0,single,1,0.00,Rent flat,0,
+Alexis Romero,female,12/1947,46110,,Masters,Retired,1,widowed,2,0.00,Own house,1,
+Owen Galvan,male,12/1958,87775,99999,High School,Employed,2,married,0,0.81,Rent house,2,transient ischemic attack
+Payton Robinson,female,3/1957,95380,95454,Masters,Employed,1,married,2,0.00,Own flat,1,
+Easton Sanchez,male,11/1969,30074,29182,Masters,Employed,1,married,3,0.15,Own house,0,
+Jeremiah Harrison,male,12/1995,17904,67108,Bachelor,Employed,1,married,0,2.39,Rent house,0,
+Dylan Bender,male,9/1991,91622,91622,Masters,Employed,2,divorced,1,0.00,Own house,0,
+Anna Phillips,female,3/1999,51030,88545,High School,Employed,0,single,0,1.81,Rent flat,0,
+Olivia Koch,female,1/1932,31954,,High School,Retired,1,divorced,0,0.00,Own flat,1,
+Camden Williams,male,11/1964,95868,95868,Masters,Employed,1,married,2,0.00,Own flat,1,
+Noah Walker,male,10/1940,80248,,High School,Retired,3,married,0,0.00,Rent house,1,
+Alexis Adams,female,6/1939,92332,,Less than High School,Retired,1,widowed,0,0.00,Rent house,0,
+Lily Nelson,female,5/1990,33755,33755,High School,Employed,1,married,2,0.00,Own house,0,ovarian cancer
+Alexander Bowman,male,11/1951,65833,,Masters,Retired,2,widowed,2,0.00,Own house,2,
+Declan Thompson,male,10/1959,65591,,Bachelor,Retired,1,married,1,0.00,Own house,0,chronic bronchitis
+Hailey Huber,female,7/1943,62148,,Less than High School,Retired,6,single,0,0.00,Rent house,1,
+Aliyah Williams,female,1/1991,66409,66722,High School,Employed,2,married,2,0.00,Own house,1,
+Aliyah Russell,female,1/1964,65639,,High School,Retired,1,married,2,0.00,Own flat,0,
+Camden Kaufman,male,7/1978,95108,91943,High School,Employed,4,married,1,0.24,Own house,0,transient ischemic attack
+Ella Cooper,female,12/1937,28374,,High School,Retired,1,divorced,1,0.00,Own flat,0,
+Sebastian Thomas,male,8/1969,62561,64311,High School,Employed,1,married,0,0.01,Rent room,0,
+Adalyn Dickson,female,8/1994,23304,23304,Bachelor,Employed,1,married,2,0.00,Own house,0,transient ischemic attack
+Brianna Williams,female,4/1940,66033,,Bachelor,Retired,2,married,2,0.00,Own house,1,
+Brandon Williams,male,3/2000,89926,90898,High School,Student,0,single,0,0.21,Rent room,0,
+Henry Hayes,male,11/1968,85958,85958,Bachelor,Employed,1,divorced,1,0.00,Own flat,3,
+Blake Macdonald,male,7/1954,55844,,High School,Retired,1,married,0,0.00,Rent flat,0,
+Lila Nixon,female,10/1975,79417,,Less than High School,Unemployed,1,married,0,0.00,Rent flat,1,
+Ethan Johnson,male,7/1962,70958,,Bachelor,Retired,1,single,1,0.00,Own flat,1,
+Kinsley Shannon,female,3/1990,28600,27605,Less than High School,Employed,2,divorced,2,0.13,Own house,0,
+Ashton Rodriguez,male,3/1963,99508,97405,Masters,Employed,1,married,2,0.20,Own flat,0,
+Kevin Thompson,male,11/1972,16034,11165,High School,Employed,1,married,1,0.22,Own flat,1,pleural effusion
+Riley Rosales,female,8/1972,46129,51092,Masters,Employed,2,married,2,0.30,Own house,0,
+Luke Williams,male,11/1960,37868,38127,Masters,Employed,1,married,1,0.00,Rent flat,1,
+Colton Stone,male,7/1993,65923,62827,Bachelor,Employed,1,married,1,0.00,Own flat,0,
+Noah Vincent,male,12/1988,46650,46907,Bachelor,Employed,1,married,1,0.11,Own house,0,
+Avery Dennis,female,12/2002,70945,98552,High School,Student,0,single,1,1.43,Rent room,0,
+Cora White,female,6/1962,93294,98507,High School,Employed,1,married,2,0.29,Own flat,1,pleural effusion
+Vivian Johnson,female,10/1976,66013,87927,Bachelor,Employed,1,married,2,1.14,Own flat,0,
+Michael Turner,male,5/1988,42878,,High School,Unemployed,3,married,2,0.00,Rent house,2,pneumonia
+Emily Fitzpatrick,female,8/1960,86887,,High School,Retired,2,divorced,1,0.00,Own house,1,
+Lillian Hawkins,female,9/1960,41198,,High School,Unemployed,2,married,0,0.00,Own house,1,
+Julian Crosby,male,5/1952,50623,,High School,Retired,1,married,1,0.00,Own flat,1,
+Jason Rodriguez,male,3/1977,60628,,High School,Unemployed,1,married,0,0.00,Rent flat,0,
+Cole Patrick,male,7/1998,29595,33772,High School,Employed,0,single,2,0.27,Rent flat,0,
+Piper Shelton,female,11/1932,31198,,High School,Retired,1,married,1,0.00,Own flat,0,
+Connor Daniels,male,11/1946,71866,,Bachelor,Retired,0,single,2,0.00,Own house,2,
+Declan Norton,male,4/1942,72728,,Masters,Retired,1,divorced,1,0.00,Own flat,0,
+Adam Smith,male,12/1959,22917,,Less than High School,Retired,1,married,0,0.00,Rent flat,0,
+Elias Holt,male,10/1976,53997,53997,Masters,Employed,1,married,3,0.00,Own flat,1,
+Katherine Dunlap,female,9/1940,45033,,PhD/md,Retired,4,divorced,1,0.00,Own house,1,
+Caleb Aguilar,male,7/1996,61563,50474,Bachelor,Student,1,married,0,0.59,Rent room,2,
+Addison Nichols,female,11/1977,70398,70649,Bachelor,Employed,1,married,1,0.17,Own house,2,transient ischemic attack
+Michael Davis,male,12/1983,69127,,High School,Unemployed,1,married,1,0.00,Rent flat,0,lung cancer
+Avery Sanchez,female,9/1974,40780,45072,Masters,Employed,2,married,3,0.17,Own house,0,
+Levi Griffin,male,3/1951,86450,,Masters,Retired,0,single,3,0.00,Own flat,2,
+Sarah Rodriguez,female,8/1968,90850,,Bachelor,Unemployed,1,married,0,0.00,Rent flat,1,
+Natalie Hernandez,female,10/1981,38111,33636,Bachelor,Student,0,married,2,0.36,Rent room,0,
+Sarah Cooper,female,1/1959,67211,65992,Masters,Employed,0,widowed,2,0.23,Own flat,0,
+Jaden Andersen,male,9/1932,44909,,Masters,Retired,1,married,1,0.00,Rent flat,2,
+Mackenzie Meadows,female,9/1982,92907,,Bachelor,Unemployed,1,married,2,0.00,Rent flat,2,
