@@ -5,9 +5,9 @@ export function FunctionChanger({
   entries,
   setEntries,
   index,
-  trigger,
   closeDialog,
   opened,
+  changedEntries,
 }) {
   const [f, setF] = useState("");
 
@@ -18,7 +18,7 @@ export function FunctionChanger({
     newEnt[index].f = new Function("x", f);
     setEntries(newEnt);
     closeDialog();
-    trigger();
+    changedEntries();
   }
 
   function reset() {
@@ -27,7 +27,7 @@ export function FunctionChanger({
     newEnt[index].f = new Function("x", "return x;");
     setEntries(newEnt);
     closeDialog();
-    trigger();
+    changedEntries();
   }
 
   return (

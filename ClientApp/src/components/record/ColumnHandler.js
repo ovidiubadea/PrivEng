@@ -2,7 +2,7 @@ import { InputLabel, MenuItem, Select } from "@material-ui/core";
 import React, { useState } from "react";
 import { FunctionChanger } from "./FunctionChanger";
 
-export function ColumnHandler({ entries, setEntries, index, trigger }) {
+export function ColumnHandler({ entries, setEntries, index, changedEntries }) {
   const [selector, setSelector] = useState(entries[index].edit);
   const [tableNo, setTableNo] = useState(entries[index].table);
   const [isSensitive, setIsSensitive] = useState(entries[index].isSensitive);
@@ -20,7 +20,7 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
       else newEnt[index].f = new Function("x", "return x;");
       setEntries(newEnt);
       setSelector(e.target.value);
-      trigger();
+      changedEntries();
     }
   }
 
@@ -28,9 +28,9 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
     if (e) {
       setTableNo(e.target.value);
       var newEnt = entries;
-      newEnt[index].table = tableNo;
+      newEnt[index].table = e.target.value;
       setEntries(newEnt);
-      trigger();
+      changedEntries();
     }
   }
 
@@ -40,7 +40,7 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
       newEnt[index].isSensitive = !isSensitive;
       setIsSensitive(!isSensitive);
       setEntries(newEnt);
-      trigger();
+      changedEntries();
     }
   }
 
@@ -71,9 +71,9 @@ export function ColumnHandler({ entries, setEntries, index, trigger }) {
         entries={entries}
         setEntries={setEntries}
         index={index}
-        trigger={trigger}
         closeDialog={() => setOpenDialog(false)}
         opened={openDialog}
+        changedEntries={changedEntries}
       />
     </th>
   );

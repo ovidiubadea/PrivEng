@@ -22,8 +22,6 @@ export function RecordData() {
     loading: true,
   });
 
-  const [filteredData, setFilteredData] = useState([]);
-
   const [entries, setEntries] = useState([
     new EntryObject("accommodation"),
     new EntryObject("children"),
@@ -41,28 +39,26 @@ export function RecordData() {
     new EntryObject("work_postcode"),
   ]);
 
-  const [filteredEntries, setFilteredEntries] = useState(
-    entries.map((e) => e.name)
-  );
+  const [changedEntries, setChangedEntries] = useState(false);
+
+  const filteredData = state.data
+    .filter((d) => d !== undefined)
+    .map((d) => {
+      var d1 = {};
+      entries.forEach((e) => {
+        if (e.edit != 2) d1[e.name] = e.f(d[e.name]);
+      });
+      return d1;
+    });
 
   useEffect(() => {
     populateRecordData();
   }, []);
 
-  function triggerChange() {
-    const omitedProps = entries.filter((d) => d.edit === 2).map((d) => d.name);
-    setFilteredData(
-      state.data
-        .map((d) => {
-          entries.forEach(
-            (v, index) => (d[v.name] = entries[index].f(d[v.name]))
-          );
-          return d;
-        })
-        .map((d) => omit(d, omitedProps))
-    );
-    setFilteredEntries(entries.filter((d) => d.edit !== 2).map((d) => d.name));
-  }
+  useEffect(() => {
+    console.log(entries.map((d) => d.f).map((f) => f.toString()));
+    console.log(state.data.map((d) => d["accommodation"]));
+  }, [changedEntries]);
 
   function parseData() {
     return (
@@ -75,7 +71,7 @@ export function RecordData() {
                   entries={entries}
                   setEntries={setEntries}
                   index={index}
-                  trigger={triggerChange}
+                  changedEntries={() => setChangedEntries(!changedEntries)}
                 />
               ))}
             </tr>
@@ -87,17 +83,17 @@ export function RecordData() {
         <table className="table table-striped" aria-labelledby="tabelLabel">
           <thead>
             <tr>
-              {filteredEntries.map((e) => (
-                <th>{e}</th>
-              ))}
+              {entries.map((e) => {
+                if (e.edit !== 2) return <th>{e.name}</th>;
+              })}
             </tr>
           </thead>
           <tbody>
             {filteredData.map((d) => (
               <tr>
-                {filteredEntries.map((entry) => (
-                  <td>{d[entry]}</td>
-                ))}
+                {entries.map((entry) => {
+                  if (entry.edit !== 2) return <td>{d[entry.name]}</td>;
+                })}
               </tr>
             ))}
           </tbody>
@@ -126,6 +122,5 @@ export function RecordData() {
     const response = await fetch("recorddata");
     const data = await response.json();
     setState({ data: data, loading: false });
-    setFilteredData(data);
   }
 }
